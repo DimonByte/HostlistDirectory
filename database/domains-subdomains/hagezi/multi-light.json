@@ -1,0 +1,62 @@
+{
+    "name": "Hagezi Multi LIGHT - Basic protection",
+    "description": "Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics and some Badware. A size-optimized version of the Multi NORMAL.",
+    "homepage": "https://github.com/hagezi/dns-blocklists",
+    "tags": ["ads", "trackers", "malware"],
+    "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/light.txt",
+    "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/light.txt"
+    ],
+    "detectionMethods": {
+        "title": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*Title:\\s*(.*)$"
+            ],
+            "priority": 1
+        },
+        "description": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*Description:\\s*(.*)$"
+            ],
+            "priority": 2
+        },
+        "homepage": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*Homepage:\\s*(.*)$"
+            ],
+            "priority": 3
+        },
+        "license": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*License:\\s*(.*)$"
+            ],
+            "priority": 4
+        },
+        "expiry": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*Expires:\\s*(.*)$"
+            ],
+            "priority": 5
+        },
+        "lastModified": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*Last modified:\\s*(.*)$"
+            ],
+            "priority": 6
+        },
+        "version": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*Version:\\s*(.*)$"
+            ],
+            "priority": 7
+        }
+    }
+}
