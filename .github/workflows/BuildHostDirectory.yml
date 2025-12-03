@@ -1,0 +1,38 @@
+name: Build Host Directory
+
+on:
+  schedule:
+    # Runs every day at 01:00 UTC
+    - cron: "0 1 * * *"
+  workflow_dispatch: # allows manual trigger too
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true   # ensures GITHUB_TOKEN is stored for push
+          fetch-depth: 0              # fetch full history so commits work properly
+
+      - name: Setup PowerShell
+        uses: actions/setup-powershell@v2
+
+      - name: Run Host Directory Builder
+        run: pwsh -File ./HostDirectoryBuilder.ps1
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add Directory.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Automated update of Directory.json"
+            git push origin HEAD:${{ github.ref }}
