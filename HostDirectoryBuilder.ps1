@@ -213,7 +213,7 @@ try {
     $hostlistdirectoryinfo = @{
     lastUpdated = Get-Date -Format "dd MMMM yyyy HH:mm:ss (UTC)"
     homepage = "https://github.com/DimonByte/HostlistDirectory"
-    license = "MIT"
+    license = "Unlicense license"
     }
     $directoryJson = @{
     entries = $directory.entries
