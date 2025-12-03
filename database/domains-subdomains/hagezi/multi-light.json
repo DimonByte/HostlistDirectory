@@ -12,49 +12,49 @@
         "title": {
             "type": "text-locate",
             "patterns": [
-                "^#\\s*Title:\\s*(.*)$"
+                "^#\\s*(?:Title|Name):\\s*(.*)$"
             ],
             "priority": 1
         },
         "description": {
             "type": "text-locate",
             "patterns": [
-                "^#\\s*Description:\\s*(.*)$"
+                "^#\\s*(?:Description|Desc):\\s*(.*)$"
             ],
             "priority": 2
         },
         "homepage": {
             "type": "text-locate",
             "patterns": [
-                "^#\\s*Homepage:\\s*(.*)$"
+                "^#\\s*(?:Homepage|URL):\\s*(.*)$"
             ],
             "priority": 3
         },
         "license": {
             "type": "text-locate",
             "patterns": [
-                "^#\\s*License:\\s*(.*)$"
+                "^#\\s*(?:License|Lic):\\s*(.*)$"
             ],
             "priority": 4
         },
         "expiry": {
             "type": "text-locate",
             "patterns": [
-                "^#\\s*Expires:\\s*(.*)$"
+                "^#\\s*(?:Expires?|Expiry|Expiration):\\s*(.*)$"
             ],
             "priority": 5
         },
         "lastModified": {
             "type": "text-locate",
             "patterns": [
-                "^#\\s*Last modified:\\s*(.*)$"
+                "^#\\s*(?:Last modified|Modified|Updated):\\s*(.*)$"
             ],
             "priority": 6
         },
         "version": {
             "type": "text-locate",
             "patterns": [
-                "^#\\s*Version:\\s*(.*)$"
+                "^#\\s*(?:Version|Ver):\\s*(.*)$"
             ],
             "priority": 7
         }

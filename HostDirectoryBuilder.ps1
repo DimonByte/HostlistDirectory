@@ -1,10 +1,11 @@
+$timer = [Diagnostics.Stopwatch]::StartNew()
 $rootDirectory = $PSScriptRoot 
 $databaseDirectory = "$rootDirectory\database"
 $outputFile = "$rootDirectory\Directory.json"
 $directory = @{
     entries = @()
 }
-$subdirectories = @(
+$subdirectories = @( #Contains type of blocking types, hosts is most common.
     "adblock",
     "DNSMasq", 
     "domains-subdomains",
@@ -50,15 +51,15 @@ function Get-HostFileMetadata {
                 if ($cfg.patterns) {
                     foreach ($pattern in $cfg.patterns) {
                         # Apply regex to entire content with capture group 1
-                        $matches = [System.Text.RegularExpressions.Regex]::Matches($HostContent, $pattern, $regexOptions)
-                        if ($matches.Count -gt 0) {
+                        $metedatamatches = [System.Text.RegularExpressions.Regex]::Matches($HostContent, $pattern, $regexOptions)
+                        if ($metedatamatches.Count -gt 0) {
                             # Use first match, first capturing group if available
                             $value = $null
-                            $group = $matches[0].Groups[1]
+                            $group = $metedatamatches[0].Groups[1]
                             if ($group -and $group.Value) {
                                 $value = $group.Value.Trim()
                             } else {
-                                $value = $matches[0].Value.Trim()
+                                $value = $metedatamatches[0].Value.Trim()
                             }
                             if ($value) {
                                 $metadata[$field] = $value
@@ -71,9 +72,9 @@ function Get-HostFileMetadata {
             'regex' {
                 if ($cfg.patterns) {
                     foreach ($pattern in $cfg.patterns) {
-                        $matches = [System.Text.RegularExpressions.Regex]::Matches($HostContent, $pattern, $regexOptions)
-                        if ($matches.Count -gt 0) {
-                            $value = if ($matches[0].Groups.Count -gt 1) { $matches[0].Groups[1].Value.Trim() } else { $matches[0].Value.Trim() }
+                        $metedatamatches = [System.Text.RegularExpressions.Regex]::Matches($HostContent, $pattern, $regexOptions)
+                        if ($metedatamatches.Count -gt 0) {
+                            $value = if ($metedatamatches[0].Groups.Count -gt 1) { $metedatamatches[0].Groups[1].Value.Trim() } else { $metedatamatches[0].Value.Trim() }
                             if ($value) {
                                 $metadata[$field] = $value
                                 break
@@ -163,7 +164,6 @@ Write-Host "Starting Host Directory Build Process..." -ForegroundColor Green
 
 foreach ($subdir in $subdirectories) {
     $fullSubdir = "$databaseDirectory\$subdir"
-    
     if (Test-Path $fullSubdir) {
         Write-Host "Scanning: $subdir" -ForegroundColor Yellow
         $authorDirs = Get-ChildItem -Path $fullSubdir -Directory -ErrorAction SilentlyContinue
@@ -172,14 +172,17 @@ foreach ($subdir in $subdirectories) {
             $jsonFiles = Get-ChildItem -Path $authorDir.FullName -Filter "*.json" -ErrorAction SilentlyContinue
             foreach ($jsonFile in $jsonFiles) {
                 Write-Host "    Processing: $($jsonFile.Name)" -ForegroundColor Gray
-                
                 try {
                     $config = Get-Content -Path $jsonFile.FullName | ConvertFrom-Json
                     $formatType = Get-FormatType -Path $jsonFile.FullName
+                    
+                    $hostContent = Get-HostFileContent -Url $config.mainMirror
                     $hostMetadata = Get-HostFileMetadata -JsonPath $jsonFile.FullName -HostContent $hostContent
+                    
                     $homepage = if ($hostMetadata.homepage) { $hostMetadata.homepage } else { $config.homepage }
                     $entry = [PSCustomObject]@{
                         id                 = $directory.entries.Count + 1
+                        author             = $authorDir.Name
                         name               = $config.name
                         description        = $config.description
                         homepage           = $homepage
@@ -207,7 +210,15 @@ foreach ($subdir in $subdirectories) {
 }
 
 try {
-    $directoryJson = $directory | ConvertTo-Json -Depth 10
+    $hostlistdirectoryinfo = @{
+    lastUpdated = Get-Date -Format "dd MMMM yyyy HH:mm:ss (UTC)"
+    homepage = "https://github.com/DimonByte/HostlistDirectory"
+    license = "MIT"
+    }
+    $directoryJson = @{
+    entries = $directory.entries
+    hostlistdirectoryinfo = $hostlistdirectoryinfo
+    } | ConvertTo-Json -Depth 10
     $directoryJson | Out-File -FilePath $outputFile -Encoding UTF8
     
     Write-Host "`nDirectory built successfully!" -ForegroundColor Green
@@ -217,5 +228,7 @@ try {
 catch {
     Write-Error "Failed to save directory to JSON: $($_.Exception.Message)"
 }
-
-Write-Host "`nBuild process completed." -ForegroundColor Yellow
+$timer.stop() 
+$ts = $timer.Elapsed
+$elapsedTime = "{0:00}:{1:00}:{2:00}.{3:00}" -f $ts.Hours, $ts.Minutes, $ts.Seconds, ($ts.Milliseconds / 10)
+Write-Host "`nBuild process completed in $($elapsedTime)." -ForegroundColor Yellow
