@@ -1,57 +1,57 @@
-﻿{
-    "entries":  [
-                    {
-                        "id":  1,
-                        "author":  "Hagezi",
-                        "name":  "Hagezi Multi LIGHT - Basic protection",
-                        "description":  "Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics and some Badware. A size-optimized version of the Multi NORMAL.",
-                        "homepage":  "https://github.com/hagezi/dns-blocklists",
-                        "tags":  [
-                                     "ads",
-                                     "trackers",
-                                     "malware"
-                                 ],
-                        "mainMirror":  "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/light.txt",
-                        "alternativeMirrors":  [
-                                                   "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt",
-                                                   "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/light.txt"
-                                               ],
-                        "lastUpdated":  "03 December 2025 20:31:56 (UTC)",
-                        "entries":  86792,
-                        "formatType":  "domains-subdomains",
-                        "license":  "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
-                        "expiry":  "1 day",
-                        "lastModified":  "03 Dec 2025 18:06 UTC",
-                        "version":  "2025.1203.1806.09",
-                        "title":  "HaGeZi\u0027s Light DNS Blocklist"
-                    },
-                    {
-                        "id":  2,
-                        "author":  "Hagezi",
-                        "name":  "HaGeZi\u0027s Light DNS Blocklist",
-                        "description":  "Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics and some Badware.",
-                        "homepage":  "https://github.com/hagezi/dns-blocklists",
-                        "tags":  [
-                                     "ads, trackers, malware"
-                                 ],
-                        "mainMirror":  "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/light.txt",
-                        "alternativeMirrors":  [
-                                                   "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt",
-                                                   "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light.txt"
-                                               ],
-                        "lastUpdated":  "03 December 2025 20:31:59 (UTC)",
-                        "entries":  86792,
-                        "formatType":  "hosts",
-                        "license":  "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
-                        "expiry":  "1 day",
-                        "lastModified":  "03 Dec 2025 18:06 UTC",
-                        "version":  "2025.1203.1806.09",
-                        "title":  "HaGeZi\u0027s Light DNS Blocklist"
-                    }
-                ],
-    "hostlistdirectoryinfo":  {
-                                  "homepage":  "https://github.com/DimonByte/HostlistDirectory",
-                                  "lastUpdated":  "03 December 2025 20:31:59 (UTC)",
-                                  "license":  "MIT"
-                              }
+{
+  "hostlistdirectoryinfo": {
+    "lastUpdated": "03 December 2025 20:54:44 (UTC)",
+    "license": "MIT",
+    "homepage": "https://github.com/DimonByte/HostlistDirectory"
+  },
+  "entries": [
+    {
+      "id": 1,
+      "author": "hagezi",
+      "name": "Hagezi Multi LIGHT - Basic protection",
+      "description": "Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics and some Badware. A size-optimized version of the Multi NORMAL.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/light.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/light.txt"
+      ],
+      "lastUpdated": "03 December 2025 20:54:43 (UTC)",
+      "entries": 86792,
+      "formatType": "domains-subdomains",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "03 Dec 2025 18:06 UTC",
+      "version": "2025.1203.1806.09",
+      "title": "HaGeZi's Light DNS Blocklist"
+    },
+    {
+      "id": 2,
+      "author": "Hagezi",
+      "name": "HaGeZi's Light DNS Blocklist",
+      "description": "Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics and some Badware.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "ads, trackers, malware"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/light.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light.txt"
+      ],
+      "lastUpdated": "03 December 2025 20:54:43 (UTC)",
+      "entries": 86792,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "03 Dec 2025 18:06 UTC",
+      "version": "2025.1203.1806.09",
+      "title": "HaGeZi's Light DNS Blocklist"
+    }
+  ]
 }
