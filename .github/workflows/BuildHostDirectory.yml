@@ -22,8 +22,9 @@ jobs:
 
       - name: Run Host Directory Builder
         run: pwsh -File ./HostDirectoryBuilder.ps1
-
+      
       - name: Commit and push changes
+        shell: bash
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -32,4 +33,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Automated update of Directory.json"
-            git push origin HEAD:${{ github.ref }}
+            git push
+          fi
+
