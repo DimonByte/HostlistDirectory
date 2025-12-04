@@ -1,13 +1,9 @@
 {
-  "hostlistdirectoryinfo": {
-    "lastUpdated": "03 December 2025 20:54:44 (UTC)",
-    "license": "MIT",
-    "homepage": "https://github.com/DimonByte/HostlistDirectory"
-  },
   "entries": [
     {
       "id": 1,
-      "author": "hagezi",
+      "author": "Hagezi",
+      "title": "HaGeZi's Light DNS Blocklist",
       "name": "Hagezi Multi LIGHT - Basic protection",
       "description": "Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics and some Badware. A size-optimized version of the Multi NORMAL.",
       "homepage": "https://github.com/hagezi/dns-blocklists",
@@ -21,18 +17,18 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/light.txt"
       ],
-      "lastUpdated": "03 December 2025 20:54:43 (UTC)",
+      "lastUpdated": "04 December 2025 01:35:55 (UTC)",
       "entries": 86792,
       "formatType": "domains-subdomains",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
       "lastModified": "03 Dec 2025 18:06 UTC",
-      "version": "2025.1203.1806.09",
-      "title": "HaGeZi's Light DNS Blocklist"
+      "version": "2025.1203.1806.09"
     },
     {
       "id": 2,
       "author": "Hagezi",
+      "title": "HaGeZi's Light DNS Blocklist",
       "name": "HaGeZi's Light DNS Blocklist",
       "description": "Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics and some Badware.",
       "homepage": "https://github.com/hagezi/dns-blocklists",
@@ -44,14 +40,421 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light.txt"
       ],
-      "lastUpdated": "03 December 2025 20:54:43 (UTC)",
+      "lastUpdated": "04 December 2025 01:35:55 (UTC)",
       "entries": 86792,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
       "lastModified": "03 Dec 2025 18:06 UTC",
-      "version": "2025.1203.1806.09",
-      "title": "HaGeZi's Light DNS Blocklist"
+      "version": "2025.1203.1806.09"
+    },
+    {
+      "id": 3,
+      "author": "Hagezi",
+      "title": "HaGeZi's Normal DNS Blocklist",
+      "name": "Multi NORMAL - All-round protection",
+      "description": "Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "affiliate",
+        "telemetry",
+        "phishing",
+        "scam",
+        "fake",
+        "cryptojacking"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/multi.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi.txt"
+      ],
+      "lastUpdated": "04 December 2025 01:35:57 (UTC)",
+      "entries": 258475,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "03 Dec 2025 18:01 UTC",
+      "version": "2025.1203.1801.07"
+    },
+    {
+      "id": 4,
+      "author": "Hagezi",
+      "title": "HaGeZi's Pro DNS Blocklist",
+      "name": "Multi PRO - Extended protection (Recommended)",
+      "description": "Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "affiliate",
+        "telemetry",
+        "phishing",
+        "scam",
+        "fake",
+        "cryptojacking"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/pro.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.txt"
+      ],
+      "lastUpdated": "04 December 2025 01:35:58 (UTC)",
+      "entries": 336536,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "03 Dec 2025 18:06 UTC",
+      "version": "2025.1203.1806.35"
+    },
+    {
+      "id": 5,
+      "author": "Hagezi",
+      "title": "HaGeZi's Pro++ DNS Blocklist",
+      "name": "Multi PRO++ - Maximum protection",
+      "description": "Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "affiliate",
+        "telemetry",
+        "phishing",
+        "scam",
+        "fake",
+        "cryptojacking",
+        "agressive"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/pro.plus.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.plus.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.plus.txt"
+      ],
+      "lastUpdated": "04 December 2025 01:35:59 (UTC)",
+      "entries": 383129,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "03 Dec 2025 18:11 UTC",
+      "version": "2025.1203.1811.29"
+    },
+    {
+      "id": 6,
+      "author": "Hagezi",
+      "title": "HaGeZi's Ultimate DNS Blocklist",
+      "name": "Multi ULTIMATE - Aggressive protection",
+      "description": "Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "affiliate",
+        "telemetry",
+        "phishing",
+        "scam",
+        "fake",
+        "cryptojacking",
+        "agressive"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/ultimate.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/ultimate.txt"
+      ],
+      "lastUpdated": "04 December 2025 01:36:01 (UTC)",
+      "entries": 465241,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "03 Dec 2025 18:17 UTC",
+      "version": "2025.1203.1817.48"
+    },
+    {
+      "id": 7,
+      "author": "Hagezi",
+      "title": "Newly registered entropy domains (entropy NRDs/DGAs)",
+      "name": "Newly Registered Domains - Entropy NRDs/DGAs - Past 14 Days",
+      "description": "Newly registered domains (NRDs) are commonly used by threat actors for phishing, malware, and command-and-control infrastructure due to their disposable nature, which helps evade detection. Two variants are available: NRDs: Include all newly registered domains. Entropy NRDs/DGAs: Contain only newly registered, high-entropy domains generated by Domain Generation Algorithms (DGAs) extracted from the NRD list. These domains display significant structural randomness and are commonly used by malware to establish resilient and evasive command-and-control channels.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "nrd",
+        "new",
+        "dga",
+        "security",
+        "phising",
+        "malware"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/dga14.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga14.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga14.txt"
+      ],
+      "lastUpdated": "04 December 2025 01:36:03 (UTC)",
+      "entries": 1009649,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "03 Dec 2025 07:48 UTC",
+      "version": "2025.1203.0748.43"
+    },
+    {
+      "id": 8,
+      "author": "Hagezi",
+      "title": "Newly registered entropy domains (entropy NRDs/DGAs)",
+      "name": "Newly Registered Domains - Entropy NRDs/DGAs - Past 30 Days",
+      "description": "Newly registered domains (NRDs) are commonly used by threat actors for phishing, malware, and command-and-control infrastructure due to their disposable nature, which helps evade detection. Two variants are available: NRDs: Include all newly registered domains. Entropy NRDs/DGAs: Contain only newly registered, high-entropy domains generated by Domain Generation Algorithms (DGAs) extracted from the NRD list. These domains display significant structural randomness and are commonly used by malware to establish resilient and evasive command-and-control channels.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "nrd",
+        "new",
+        "dga",
+        "security",
+        "phising",
+        "malware"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/dga30.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga30.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga30.txt"
+      ],
+      "lastUpdated": "04 December 2025 01:36:07 (UTC)",
+      "entries": 2330904,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "03 Dec 2025 07:49 UTC",
+      "version": "2025.1203.0749.01"
+    },
+    {
+      "id": 9,
+      "author": "Hagezi",
+      "title": "Newly registered entropy domains (entropy NRDs/DGAs)",
+      "name": "Newly Registered Domains - Entropy NRDs/DGAs - Past 7 Days",
+      "description": "Newly registered domains (NRDs) are commonly used by threat actors for phishing, malware, and command-and-control infrastructure due to their disposable nature, which helps evade detection. Two variants are available: NRDs: Include all newly registered domains. Entropy NRDs/DGAs: Contain only newly registered, high-entropy domains generated by Domain Generation Algorithms (DGAs) extracted from the NRD list. These domains display significant structural randomness and are commonly used by malware to establish resilient and evasive command-and-control channels.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "nrd",
+        "new",
+        "dga",
+        "security",
+        "phising",
+        "malware"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/dga7.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga7.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga7.txt"
+      ],
+      "lastUpdated": "04 December 2025 01:36:11 (UTC)",
+      "entries": 490006,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "03 Dec 2025 07:48 UTC",
+      "version": "2025.1203.0748.32"
+    },
+    {
+      "id": 10,
+      "author": "Hagezi",
+      "title": "Newly Registered Domains (NRD)",
+      "name": "Newly Registered Domains (NRD/DGA) 14 days ago to 8 days ago",
+      "description": "Newly registered domains (NRDs) are commonly used by threat actors for phishing, malware, and command-and-control infrastructure due to their disposable nature, which helps evade detection. Two variants are available: NRDs: Include all newly registered domains. Entropy NRDs/DGAs: Contain only newly registered, high-entropy domains generated by Domain Generation Algorithms (DGAs) extracted from the NRD list. These domains display significant structural randomness and are commonly used by malware to establish resilient and evasive command-and-control channels.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "nrd",
+        "new",
+        "dga",
+        "security",
+        "phising",
+        "malware"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd14-8.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd14-8.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd14-8.txt"
+      ],
+      "lastUpdated": "04 December 2025 01:36:12 (UTC)",
+      "entries": 2355453,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "03 Dec 2025 07:42 UTC",
+      "version": "2025.1203.0742.38"
+    },
+    {
+      "id": 11,
+      "author": "Hagezi",
+      "title": "Newly Registered Domains (NRD)",
+      "name": "Newly Registered Domains (NRD/DGA) 21 days ago to 15 days ago",
+      "description": "Newly registered domains (NRDs) are commonly used by threat actors for phishing, malware, and command-and-control infrastructure due to their disposable nature, which helps evade detection. Two variants are available: NRDs: Include all newly registered domains. Entropy NRDs/DGAs: Contain only newly registered, high-entropy domains generated by Domain Generation Algorithms (DGAs) extracted from the NRD list. These domains display significant structural randomness and are commonly used by malware to establish resilient and evasive command-and-control channels.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "nrd",
+        "new",
+        "dga",
+        "security",
+        "phising",
+        "malware"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd21-15.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd21-15.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd21-15.txt"
+      ],
+      "lastUpdated": "04 December 2025 01:36:15 (UTC)",
+      "entries": 2642051,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "03 Dec 2025 07:43 UTC",
+      "version": "2025.1203.0743.24"
+    },
+    {
+      "id": 12,
+      "author": "Hagezi",
+      "title": "Newly Registered Domains (NRD)",
+      "name": "Newly Registered Domains (NRD/DGA) 28 days ago to 22 days ago",
+      "description": "Newly registered domains (NRDs) are commonly used by threat actors for phishing, malware, and command-and-control infrastructure due to their disposable nature, which helps evade detection. Two variants are available: NRDs: Include all newly registered domains. Entropy NRDs/DGAs: Contain only newly registered, high-entropy domains generated by Domain Generation Algorithms (DGAs) extracted from the NRD list. These domains display significant structural randomness and are commonly used by malware to establish resilient and evasive command-and-control channels.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "nrd",
+        "new",
+        "dga",
+        "security",
+        "phising",
+        "malware"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd28-22.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd28-22.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd28-22.txt"
+      ],
+      "lastUpdated": "04 December 2025 01:36:19 (UTC)",
+      "entries": 2347272,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "03 Dec 2025 07:44 UTC",
+      "version": "2025.1203.0744.38"
+    },
+    {
+      "id": 13,
+      "author": "Hagezi",
+      "title": "Newly Registered Domains (NRD)",
+      "name": "Newly Registered Domains (NRD/DGA) 35 days ago to 29 days ago",
+      "description": "Newly registered domains (NRDs) are commonly used by threat actors for phishing, malware, and command-and-control infrastructure due to their disposable nature, which helps evade detection. Two variants are available: NRDs: Include all newly registered domains. Entropy NRDs/DGAs: Contain only newly registered, high-entropy domains generated by Domain Generation Algorithms (DGAs) extracted from the NRD list. These domains display significant structural randomness and are commonly used by malware to establish resilient and evasive command-and-control channels.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "nrd",
+        "new",
+        "dga",
+        "security",
+        "phising",
+        "malware"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd35-29.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd35-29.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd35-29.txt"
+      ],
+      "lastUpdated": "04 December 2025 01:36:22 (UTC)",
+      "entries": 3173535,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "03 Dec 2025 07:46 UTC",
+      "version": "2025.1203.0746.18"
+    },
+    {
+      "id": 14,
+      "author": "Hagezi",
+      "title": "Newly Registered Domains (NRD)",
+      "name": "Newly Registered Domains (NRD/DGA) 7 days ago to yesterday",
+      "description": "Newly registered domains (NRDs) are commonly used by threat actors for phishing, malware, and command-and-control infrastructure due to their disposable nature, which helps evade detection. Two variants are available: NRDs: Include all newly registered domains. Entropy NRDs/DGAs: Contain only newly registered, high-entropy domains generated by Domain Generation Algorithms (DGAs) extracted from the NRD list. These domains display significant structural randomness and are commonly used by malware to establish resilient and evasive command-and-control channels.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "nrd",
+        "new",
+        "dga",
+        "security",
+        "phising",
+        "malware"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd7.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd7.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd7.txt"
+      ],
+      "lastUpdated": "04 December 2025 01:36:26 (UTC)",
+      "entries": 2636677,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "03 Dec 2025 07:42 UTC",
+      "version": "2025.1203.0742.17"
+    },
+    {
+      "id": 15,
+      "author": "Hagezi",
+      "title": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
+      "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
+      "description": "Prevent methods to bypass your DNS.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "bypass",
+        "doh",
+        "security"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/doh.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/doh.txt"
+      ],
+      "lastUpdated": "04 December 2025 01:36:29 (UTC)",
+      "entries": 3846,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "03 Dec 2025 18:34 UTC",
+      "version": "2025.1203.1834.29"
+    },
+    {
+      "id": 16,
+      "author": "Hagezi",
+      "title": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
+      "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
+      "description": "A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "malware",
+        "cryptojacking",
+        "scam",
+        "spam",
+        "phishing",
+        "security"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/tif.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/tif.txt"
+      ],
+      "lastUpdated": "04 December 2025 01:36:30 (UTC)",
+      "entries": 606244,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "03 Dec 2025 17:38 UTC",
+      "version": "2025.1203.1738.02"
     }
-  ]
+  ],
+  "hostlistdirectoryinfo": {
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "lastUpdated": "04 December 2025 01:36:31 (UTC)",
+    "license": "Unlicense license"
+  }
 }
