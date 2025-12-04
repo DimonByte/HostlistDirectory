@@ -1,0 +1,62 @@
+{
+    "name": "Multi PRO++ - Maximum protection",
+    "description": "Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap",
+    "homepage": "https://github.com/hagezi/dns-blocklists",
+    "tags": ["ads", "trackers", "malware", "affiliate", "telemetry", "phishing", "scam", "fake", "cryptojacking", "agressive"],
+    "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/pro.plus.txt",
+    "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.plus.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.plus.txt"
+    ],
+    "detectionMethods": {
+        "title": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Title|Name):\\s*(.*)$"
+            ],
+            "priority": 1
+        },
+        "description": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Description|Desc):\\s*(.*)$"
+            ],
+            "priority": 2
+        },
+        "homepage": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Homepage|URL):\\s*(.*)$"
+            ],
+            "priority": 3
+        },
+        "license": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:License|Lic):\\s*(.*)$"
+            ],
+            "priority": 4
+        },
+        "expiry": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Expires?|Expiry|Expiration):\\s*(.*)$"
+            ],
+            "priority": 5
+        },
+        "lastModified": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Last modified|Modified|Updated):\\s*(.*)$"
+            ],
+            "priority": 6
+        },
+        "version": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Version|Ver):\\s*(.*)$"
+            ],
+            "priority": 7
+        }
+    }
+}

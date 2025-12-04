@@ -1,0 +1,62 @@
+{
+    "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
+    "description": "Prevent methods to bypass your DNS.",
+    "homepage": "https://github.com/hagezi/dns-blocklists",
+    "tags": ["bypass", "doh", "security"],
+    "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/doh.txt",
+    "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/doh.txt"
+    ],
+    "detectionMethods": {
+        "title": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Title|Name):\\s*(.*)$"
+            ],
+            "priority": 1
+        },
+        "description": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Description|Desc):\\s*(.*)$"
+            ],
+            "priority": 2
+        },
+        "homepage": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Homepage|URL):\\s*(.*)$"
+            ],
+            "priority": 3
+        },
+        "license": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:License|Lic):\\s*(.*)$"
+            ],
+            "priority": 4
+        },
+        "expiry": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Expires?|Expiry|Expiration):\\s*(.*)$"
+            ],
+            "priority": 5
+        },
+        "lastModified": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Last modified|Modified|Updated):\\s*(.*)$"
+            ],
+            "priority": 6
+        },
+        "version": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Version|Ver):\\s*(.*)$"
+            ],
+            "priority": 7
+        }
+    }
+}
