@@ -248,8 +248,8 @@ try {
     license = "Unlicense license"
     }
     $directoryJson = @{
-    entries = $directory.entries
     hostlistdirectoryinfo = $hostlistdirectoryinfo
+    entries = $directory.entries
     } | ConvertTo-Json -Depth 10
     $directoryJson | Out-File -FilePath $outputFile -Encoding UTF8
     
