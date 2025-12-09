@@ -3,7 +3,7 @@ name: Build Host Directory
 on:
   schedule:
     # Runs every day at 01:00 UTC
-    - cron: "0 1 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch: # allows manual trigger too
 
 permissions:

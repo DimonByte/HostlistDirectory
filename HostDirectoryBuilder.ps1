@@ -56,7 +56,13 @@ function Get-HostFileMetadata {
         return $metadata
     }
 
-    $config = Get-Content -Path $JsonPath -Raw | ConvertFrom-Json
+    try {
+        $config = Get-Content -Path $JsonPath -Raw | ConvertFrom-Json
+    }
+    catch {
+        Write-Warning "!!! Failed to parse JSON from $JsonPath : $($_.Exception.Message)"
+        return $metadata
+    }
 
     $methods = @()
     foreach ($prop in ($config.detectionMethods | Get-Member -MemberType NoteProperty)) {
@@ -78,15 +84,15 @@ function Get-HostFileMetadata {
                 if ($cfg.patterns) {
                     foreach ($pattern in $cfg.patterns) {
                         # Apply regex to entire content with capture group 1
-                        $metedatamatches = [System.Text.RegularExpressions.Regex]::Matches($HostContent, $pattern, $regexOptions)
-                        if ($metedatamatches.Count -gt 0) {
+                        $metadatamatches = [System.Text.RegularExpressions.Regex]::Matches($HostContent, $pattern, $regexOptions)
+                        if ($metadatamatches.Count -gt 0) {
                             # Use first match, first capturing group if available
                             $value = $null
-                            $group = $metedatamatches[0].Groups[1]
+                            $group = $metadatamatches[0].Groups[1]
                             if ($group -and $group.Value) {
                                 $value = $group.Value.Trim()
                             } else {
-                                $value = $metedatamatches[0].Value.Trim()
+                                $value = $metadatamatches[0].Value.Trim()
                             }
                             if ($value) {
                                 $metadata[$field] = $value
@@ -99,9 +105,9 @@ function Get-HostFileMetadata {
             'regex' {
                 if ($cfg.patterns) {
                     foreach ($pattern in $cfg.patterns) {
-                        $metedatamatches = [System.Text.RegularExpressions.Regex]::Matches($HostContent, $pattern, $regexOptions)
-                        if ($metedatamatches.Count -gt 0) {
-                            $value = if ($metedatamatches[0].Groups.Count -gt 1) { $metedatamatches[0].Groups[1].Value.Trim() } else { $metedatamatches[0].Value.Trim() }
+                        $metadatamatches = [System.Text.RegularExpressions.Regex]::Matches($HostContent, $pattern, $regexOptions)
+                        if ($metadatamatches.Count -gt 0) {
+                            $value = if ($metadatamatches[0].Groups.Count -gt 1) { $metadatamatches[0].Groups[1].Value.Trim() } else { $metadatamatches[0].Value.Trim() }
                             if ($value) {
                                 $metadata[$field] = $value
                                 break
@@ -144,11 +150,11 @@ function Get-HostFileContent {
     )
 
     try {
-        $response = Invoke-WebRequest -Uri $Url -TimeoutSec 30 -UseBasicParsing
+        $response = Invoke-WebRequest -Uri $Url -TimeoutSec 30 -UseBasicParsing -UserAgent "HostDirectoryBuilder/1.0"
         return $response.Content
     }
     catch {
-        Write-Warning "Failed to download content from $Url $($_.Exception.Message)"
+        Write-Warning "!!! Failed to download content from $Url : $($_.Exception.Message)"
         return $null
     }
 }
@@ -189,53 +195,56 @@ function Get-EntriesCount {
 
 Write-Host "Starting Host Directory Build Process..." -ForegroundColor Green
 
-foreach ($subdir in $subdirectories) {
+$validSubdirs = $subdirectories | Where-Object { Test-Path "$databaseDirectory\$_" }
+
+foreach ($subdir in $validSubdirs) {
     $fullSubdir = "$databaseDirectory\$subdir"
-    if (Test-Path $fullSubdir) {
-        Write-Host "Scanning: $subdir" -ForegroundColor Yellow
-        $authorDirs = Get-ChildItem -Path $fullSubdir -Directory -ErrorAction SilentlyContinue
-        foreach ($authorDir in $authorDirs) {
-            Write-Host "  Author: $($authorDir.Name)" -ForegroundColor Cyan
-            
-            # Scan all subfolders for JSON files
-            $jsonFiles = Get-ChildItem -Path $authorDir.FullName -Filter "*.json" -Recurse -ErrorAction SilentlyContinue
-            
-            foreach ($jsonFile in $jsonFiles) {
-                Write-Host "    Processing: $($jsonFile.FullName)" -ForegroundColor Gray
-                try {
-                    $config = Get-Content -Path $jsonFile.FullName | ConvertFrom-Json
-                    $formatType = Get-FormatType -Path $jsonFile.FullName
-                    
-                    $hostContent = Get-HostFileContent -Url $config.mainMirror
-                    $hostMetadata = Get-HostFileMetadata -JsonPath $jsonFile.FullName -HostContent $hostContent
-                    #$bytes = [System.Text.Encoding]::UTF8.GetByteCount($hostContent) - TODO add size calculations
-                    #$uncompressedSize = "{0:N2} KB" -f ($bytes / 1KB)
-                    $homepage = if ($hostMetadata.homepage) { $hostMetadata.homepage } else { $config.homepage }
-                    $entry = [PSCustomObject]@{
-                        id                 = $directory.entries.Count + 1
-                        author             = $authorDir.Name
-                        title              = $hostMetadata.title
-                        #uncompressedSize   = $uncompressedSize
-                        name               = $config.name
-                        description        = $config.description
-                        homepage           = $homepage
-                        tags               = $config.tags
-                        mainMirror         = $config.mainMirror
-                        alternativeMirrors = $config.alternativeMirrors
-                        lastUpdated        = Get-Date -Format "dd MMMM yyyy HH:mm:ss (UTC)"
-                        entries            = Get-EntriesCount -Content $hostContent
-                        formatType         = $formatType
-                        license            = $hostMetadata.license
-                        expiry             = $hostMetadata.expiry
-                        lastModified       = $hostMetadata.lastModified
-                        version            = $hostMetadata.version
-                    }
-                    $directory.entries += $entry
-                    Write-Host "      Added: $($config.name)" -ForegroundColor Green
+    Write-Host "Scanning: $subdir" -ForegroundColor Yellow
+    $authorDirs = Get-ChildItem -Path $fullSubdir -Directory -ErrorAction SilentlyContinue
+    foreach ($authorDir in $authorDirs) {
+        Write-Host "  Author: $($authorDir.Name)" -ForegroundColor Cyan
+        
+        $jsonFiles = Get-ChildItem -Path $authorDir.FullName -Filter "*.json" -Recurse -ErrorAction SilentlyContinue
+        
+        foreach ($jsonFile in $jsonFiles) {
+            Write-Host "    Processing: $($jsonFile.FullName)" -ForegroundColor Gray
+            try {
+                $config = Get-Content -Path $jsonFile.FullName | ConvertFrom-Json
+                $formatType = Get-FormatType -Path $jsonFile.FullName
+                
+                $hostContent = Get-HostFileContent -Url $config.mainMirror
+                if ($null -eq $hostContent) {
+                    Write-Warning "Skipping $($config.name) due to failed content download"
+                    continue
                 }
-                catch {
-                    Write-Warning "Failed to process $($jsonFile.Name): $($_.Exception.Message)"
+                
+                $hostMetadata = Get-HostFileMetadata -JsonPath $jsonFile.FullName -HostContent $hostContent
+                
+                $homepage = if ($hostMetadata.homepage) { $hostMetadata.homepage } else { $config.homepage }
+                
+                $entry = [PSCustomObject]@{
+                    id                 = $directory.entries.Count + 1
+                    author             = $authorDir.Name
+                    title              = $hostMetadata.title
+                    name               = $config.name
+                    description        = $config.description
+                    homepage           = $homepage
+                    tags               = $config.tags
+                    mainMirror         = $config.mainMirror
+                    alternativeMirrors = $config.alternativeMirrors
+                    entries            = Get-EntriesCount -Content $hostContent
+                    formatType         = $formatType
+                    license            = $hostMetadata.license
+                    expiry             = $hostMetadata.expiry
+                    lastModified       = $hostMetadata.lastModified
+                    version            = $hostMetadata.version
                 }
+                
+                $directory.entries += $entry
+                Write-Host "      Added: $($config.name)" -ForegroundColor Green
+            }
+            catch {
+                Write-Warning "!!! Failed to process $($jsonFile.Name): $($_.Exception.Message)"
             }
         }
     }
@@ -243,14 +252,16 @@ foreach ($subdir in $subdirectories) {
 
 try {
     $hostlistdirectoryinfo = @{
-    lastUpdated = Get-Date -Format "dd MMMM yyyy HH:mm:ss (UTC)"
-    homepage = "https://github.com/DimonByte/HostlistDirectory"
-    license = "Unlicense license"
+        name = "HostDirectory"
+        lastUpdated = Get-Date -Format "dd MM yyyy HH:mm:ss (UTC)"
+        homepage = "https://github.com/DimonByte/HostlistDirectory"
+        license = "Unlicense license"
     }
     $directoryJson = @{
-    hostlistdirectoryinfo = $hostlistdirectoryinfo
-    entries = $directory.entries
+        hostlistdirectoryinfo = $hostlistdirectoryinfo
+        entries = $directory.entries
     } | ConvertTo-Json -Depth 10
+    
     $directoryJson | Out-File -FilePath $outputFile -Encoding UTF8
     
     Write-Host "`nDirectory built successfully!" -ForegroundColor Green
@@ -259,8 +270,10 @@ try {
 }
 catch {
     Write-Error "Failed to save directory to JSON: $($_.Exception.Message)"
+    exit 1
 }
-$timer.stop() 
+$timer.Stop() 
 $ts = $timer.Elapsed
 $elapsedTime = "{0:00}:{1:00}:{2:00}.{3:00}" -f $ts.Hours, $ts.Minutes, $ts.Seconds, ($ts.Milliseconds / 10)
 Write-Host "`nBuild process completed in $($elapsedTime)." -ForegroundColor Yellow
+exit 0
