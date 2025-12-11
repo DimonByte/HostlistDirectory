@@ -39,12 +39,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light.txt"
       ],
-      "entries": 87353,
+      "entries": 87031,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "11 Dec 2025 10:06 UTC",
-      "version": "2025.1211.1006.29"
+      "lastModified": "11 Dec 2025 14:07 UTC",
+      "version": "2025.1211.1407.07"
     },
     {
       "id": 3,
@@ -69,12 +69,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi.txt"
       ],
-      "entries": 270571,
+      "entries": 269936,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "11 Dec 2025 10:01 UTC",
-      "version": "2025.1211.1001.21"
+      "lastModified": "11 Dec 2025 14:02 UTC",
+      "version": "2025.1211.1402.02"
     },
     {
       "id": 4,
@@ -161,12 +161,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/ultimate.txt"
       ],
-      "entries": 494748,
+      "entries": 493639,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "11 Dec 2025 10:18 UTC",
-      "version": "2025.1211.1018.44"
+      "lastModified": "11 Dec 2025 14:19 UTC",
+      "version": "2025.1211.1419.20"
     },
     {
       "id": 7,
@@ -437,9 +437,9 @@
     }
   ],
   "hostlistdirectoryinfo": {
+    "lastUpdated": "11 12 2025 15:05:29 (UTC)",
+    "license": "Unlicense license",
     "name": "HostDirectory",
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "lastUpdated": "11 12 2025 14:06:11 (UTC)",
-    "license": "Unlicense license"
+    "homepage": "https://github.com/DimonByte/HostlistDirectory"
   }
 }
