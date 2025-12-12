@@ -1,10 +1,4 @@
 {
-  "hostlistdirectoryinfo": {
-    "license": "Unlicense license",
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "name": "HostDirectory",
-    "lastUpdated": "12 12 2025 08:05:28 (UTC)"
-  },
   "entries": [
     {
       "id": 1,
@@ -441,5 +435,11 @@
       "lastModified": "12 Dec 2025 01:38 UTC",
       "version": "2025.1212.0138.07"
     }
-  ]
+  ],
+  "hostlistdirectoryinfo": {
+    "lastUpdated": "12 12 2025 09:06:37 (UTC)",
+    "license": "Unlicense license",
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "name": "HostDirectory"
+  }
 }
