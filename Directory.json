@@ -1,10 +1,4 @@
 {
-  "hostlistdirectoryinfo": {
-    "name": "HostDirectory",
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "lastUpdated": "16 12 2025 19:06:00 (UTC)",
-    "license": "Unlicense license"
-  },
   "entries": [
     {
       "id": 1,
@@ -23,12 +17,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/light.txt"
       ],
-      "entries": 84358,
+      "entries": 84157,
       "formatType": "domains-subdomains",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "16 Dec 2025 18:14 UTC",
-      "version": "2025.1216.1814.39"
+      "lastModified": "16 Dec 2025 10:09 UTC",
+      "version": "2025.1216.1009.35"
     },
     {
       "id": 2,
@@ -75,12 +69,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi.txt"
       ],
-      "entries": 261493,
+      "entries": 257943,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "16 Dec 2025 18:09 UTC",
-      "version": "2025.1216.1809.10"
+      "lastModified": "16 Dec 2025 10:04 UTC",
+      "version": "2025.1216.1004.22"
     },
     {
       "id": 4,
@@ -105,12 +99,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.txt"
       ],
-      "entries": 341642,
+      "entries": 338140,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "16 Dec 2025 18:15 UTC",
-      "version": "2025.1216.1815.03"
+      "lastModified": "16 Dec 2025 10:09 UTC",
+      "version": "2025.1216.1009.58"
     },
     {
       "id": 5,
@@ -441,5 +435,11 @@
       "lastModified": "16 Dec 2025 17:43 UTC",
       "version": "2025.1216.1743.09"
     }
-  ]
+  ],
+  "hostlistdirectoryinfo": {
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "license": "Unlicense license",
+    "lastUpdated": "16 12 2025 20:04:58 (UTC)",
+    "name": "HostDirectory"
+  }
 }
