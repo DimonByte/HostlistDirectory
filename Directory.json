@@ -1,9 +1,9 @@
 {
   "hostlistdirectoryinfo": {
-    "name": "HostDirectory",
-    "license": "Unlicense license",
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "lastUpdated": "22 12 2025 13:14:34 (UTC)"
+    "license": "Unlicense license",
+    "name": "HostDirectory",
+    "lastUpdated": "22 12 2025 14:04:58 (UTC)"
   },
   "entries": [
     {
@@ -136,12 +136,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.plus.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.plus.txt"
       ],
-      "entries": 377427,
+      "entries": 377006,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "22 Dec 2025 10:16 UTC",
-      "version": "2025.1222.1016.17"
+      "lastModified": "21 Dec 2025 22:16 UTC",
+      "version": "2025.1221.2216.08"
     },
     {
       "id": 6,
@@ -194,12 +194,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga14.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga14.txt"
       ],
-      "entries": 1051282,
+      "entries": 1050357,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "22 Dec 2025 07:51 UTC",
-      "version": "2025.1222.0751.06"
+      "lastModified": "21 Dec 2025 07:52 UTC",
+      "version": "2025.1221.0752.35"
     },
     {
       "id": 8,
@@ -275,12 +275,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd14-8.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd14-8.txt"
       ],
-      "entries": 2481608,
+      "entries": 2439475,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "22 Dec 2025 07:45 UTC",
-      "version": "2025.1222.0745.06"
+      "lastModified": "21 Dec 2025 07:46 UTC",
+      "version": "2025.1221.0746.03"
     },
     {
       "id": 11,
