@@ -69,12 +69,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi.txt"
       ],
-      "entries": 245878,
+      "entries": 246093,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "31 Dec 2025 14:02 UTC",
-      "version": "2025.1231.1402.15"
+      "lastModified": "31 Dec 2025 18:03 UTC",
+      "version": "2025.1231.1803.09"
     },
     {
       "id": 4,
@@ -99,12 +99,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.txt"
       ],
-      "entries": 323721,
+      "entries": 324468,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "31 Dec 2025 14:07 UTC",
-      "version": "2025.1231.1407.39"
+      "lastModified": "31 Dec 2025 18:08 UTC",
+      "version": "2025.1231.1808.28"
     },
     {
       "id": 5,
@@ -428,18 +428,18 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/tif.txt"
       ],
-      "entries": 624989,
+      "entries": 627841,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "31 Dec 2025 13:38 UTC",
-      "version": "2025.1231.1338.35"
+      "lastModified": "31 Dec 2025 17:39 UTC",
+      "version": "2025.1231.1739.41"
     }
   ],
   "hostlistdirectoryinfo": {
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
     "license": "Unlicense license",
-    "lastUpdated": "31 12 2025 20:04:44 (UTC)",
+    "lastUpdated": "31 12 2025 21:04:21 (UTC)",
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
     "name": "HostDirectory"
   }
 }
