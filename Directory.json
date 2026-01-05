@@ -39,12 +39,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light.txt"
       ],
-      "entries": 89645,
+      "entries": 89594,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "05 Jan 2026 02:04 UTC",
-      "version": "2026.0105.0204.04"
+      "lastModified": "04 Jan 2026 22:07 UTC",
+      "version": "2026.0104.2207.51"
     },
     {
       "id": 3,
@@ -69,12 +69,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi.txt"
       ],
-      "entries": 241497,
+      "entries": 241338,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "05 Jan 2026 01:58 UTC",
-      "version": "2026.0105.0158.48"
+      "lastModified": "04 Jan 2026 22:02 UTC",
+      "version": "2026.0104.2202.44"
     },
     {
       "id": 4,
@@ -161,12 +161,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/ultimate.txt"
       ],
-      "entries": 440001,
+      "entries": 441479,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "05 Jan 2026 02:15 UTC",
-      "version": "2026.0105.0215.34"
+      "lastModified": "04 Jan 2026 22:19 UTC",
+      "version": "2026.0104.2219.29"
     },
     {
       "id": 7,
@@ -437,9 +437,9 @@
     }
   ],
   "hostlistdirectoryinfo": {
+    "lastUpdated": "05 01 2026 08:06:16 (UTC)",
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "lastUpdated": "05 01 2026 07:10:17 (UTC)",
-    "name": "HostDirectory",
-    "license": "Unlicense license"
+    "license": "Unlicense license",
+    "name": "HostDirectory"
   }
 }
