@@ -1,4 +1,10 @@
 {
+  "hostlistdirectoryinfo": {
+    "name": "HostDirectory",
+    "license": "Unlicense license",
+    "lastUpdated": "06 01 2026 15:05:10 (UTC)",
+    "homepage": "https://github.com/DimonByte/HostlistDirectory"
+  },
   "entries": [
     {
       "id": 1,
@@ -17,12 +23,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/light.txt"
       ],
-      "entries": 86719,
+      "entries": 86688,
       "formatType": "domains-subdomains",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "06 Jan 2026 10:13 UTC",
-      "version": "2026.0106.1013.40"
+      "lastModified": "06 Jan 2026 14:08 UTC",
+      "version": "2026.0106.1408.29"
     },
     {
       "id": 2,
@@ -39,12 +45,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light.txt"
       ],
-      "entries": 86719,
+      "entries": 86688,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "06 Jan 2026 10:13 UTC",
-      "version": "2026.0106.1013.40"
+      "lastModified": "06 Jan 2026 14:08 UTC",
+      "version": "2026.0106.1408.29"
     },
     {
       "id": 3,
@@ -99,12 +105,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.txt"
       ],
-      "entries": 323341,
+      "entries": 323190,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "06 Jan 2026 10:14 UTC",
-      "version": "2026.0106.1014.05"
+      "lastModified": "06 Jan 2026 14:08 UTC",
+      "version": "2026.0106.1408.54"
     },
     {
       "id": 5,
@@ -350,12 +356,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd35-29.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd35-29.txt"
       ],
-      "entries": 2966811,
+      "entries": 2978558,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "05 Jan 2026 07:42 UTC",
-      "version": "2026.0105.0742.24"
+      "lastModified": "06 Jan 2026 07:42 UTC",
+      "version": "2026.0106.0742.16"
     },
     {
       "id": 14,
@@ -401,12 +407,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/doh.txt"
       ],
-      "entries": 3827,
+      "entries": 3849,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "04 Jan 2026 22:35 UTC",
-      "version": "2026.0104.2235.15"
+      "lastModified": "06 Jan 2026 10:42 UTC",
+      "version": "2026.0106.1042.41"
     },
     {
       "id": 16,
@@ -428,18 +434,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/tif.txt"
       ],
-      "entries": 601663,
+      "entries": 601470,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "06 Jan 2026 09:44 UTC",
-      "version": "2026.0106.0944.14"
+      "lastModified": "06 Jan 2026 13:40 UTC",
+      "version": "2026.0106.1340.01"
     }
-  ],
-  "hostlistdirectoryinfo": {
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "name": "HostDirectory",
-    "lastUpdated": "06 01 2026 14:04:34 (UTC)",
-    "license": "Unlicense license"
-  }
+  ]
 }
