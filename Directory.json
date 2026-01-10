@@ -323,12 +323,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd28-22.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd28-22.txt"
       ],
-      "entries": 2397821,
+      "entries": 2426790,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "10 Jan 2026 07:40 UTC",
-      "version": "2026.0110.0740.49"
+      "lastModified": "09 Jan 2026 07:41 UTC",
+      "version": "2026.0109.0741.12"
     },
     {
       "id": 13,
@@ -438,8 +438,8 @@
   ],
   "hostlistdirectoryinfo": {
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "license": "Unlicense license",
+    "lastUpdated": "10 01 2026 18:05:04 (UTC)",
     "name": "HostDirectory",
-    "lastUpdated": "10 01 2026 17:03:43 (UTC)"
+    "license": "Unlicense license"
   }
 }
