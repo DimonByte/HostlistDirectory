@@ -39,12 +39,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light.txt"
       ],
-      "entries": 86019,
+      "entries": 88518,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "12 Jan 2026 14:31 UTC",
-      "version": "2026.0112.1431.37"
+      "lastModified": "11 Jan 2026 18:14 UTC",
+      "version": "2026.0111.1814.20"
     },
     {
       "id": 3,
@@ -438,8 +438,8 @@
   ],
   "hostlistdirectoryinfo": {
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "name": "HostDirectory",
+    "lastUpdated": "12 01 2026 18:06:17 (UTC)",
     "license": "Unlicense license",
-    "lastUpdated": "12 01 2026 17:07:20 (UTC)"
+    "name": "HostDirectory"
   }
 }
