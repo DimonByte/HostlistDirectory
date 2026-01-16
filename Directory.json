@@ -1,9 +1,9 @@
 {
   "hostlistdirectoryinfo": {
+    "license": "Unlicense license",
+    "lastUpdated": "16 01 2026 17:07:09 (UTC)",
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "name": "HostDirectory",
-    "lastUpdated": "16 01 2026 16:05:22 (UTC)",
-    "license": "Unlicense license"
+    "name": "HostDirectory"
   },
   "entries": [
     {
@@ -45,12 +45,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light.txt"
       ],
-      "entries": 86845,
+      "entries": 88633,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "16 Jan 2026 10:08 UTC",
-      "version": "2026.0116.1008.17"
+      "lastModified": "16 Jan 2026 06:08 UTC",
+      "version": "2026.0116.0608.51"
     },
     {
       "id": 3,
@@ -75,12 +75,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi.txt"
       ],
-      "entries": 248618,
+      "entries": 250526,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "16 Jan 2026 10:02 UTC",
-      "version": "2026.0116.1002.43"
+      "lastModified": "16 Jan 2026 06:03 UTC",
+      "version": "2026.0116.0603.08"
     },
     {
       "id": 4,
@@ -302,12 +302,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd21-15.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd21-15.txt"
       ],
-      "entries": 1619303,
+      "entries": 1622319,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "16 Jan 2026 07:42 UTC",
-      "version": "2026.0116.0742.08"
+      "lastModified": "15 Jan 2026 07:41 UTC",
+      "version": "2026.0115.0741.05"
     },
     {
       "id": 12,
