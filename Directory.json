@@ -1,9 +1,9 @@
 {
   "hostlistdirectoryinfo": {
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "lastUpdated": "16 01 2026 02:40:52 (UTC)",
+    "lastUpdated": "16 01 2026 03:32:43 (UTC)",
     "name": "HostDirectory",
-    "license": "Unlicense license"
+    "license": "Unlicense license",
+    "homepage": "https://github.com/DimonByte/HostlistDirectory"
   },
   "entries": [
     {
@@ -45,12 +45,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light.txt"
       ],
-      "entries": 88622,
+      "entries": 88713,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "15 Jan 2026 22:10 UTC",
-      "version": "2026.0115.2210.00"
+      "lastModified": "15 Jan 2026 14:10 UTC",
+      "version": "2026.0115.1410.46"
     },
     {
       "id": 3,
@@ -75,12 +75,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi.txt"
       ],
-      "entries": 250725,
+      "entries": 251161,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "15 Jan 2026 22:04 UTC",
-      "version": "2026.0115.2204.27"
+      "lastModified": "15 Jan 2026 14:05 UTC",
+      "version": "2026.0115.1405.12"
     },
     {
       "id": 4,
@@ -434,12 +434,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/tif.txt"
       ],
-      "entries": 624060,
+      "entries": 627210,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "15 Jan 2026 21:38 UTC",
-      "version": "2026.0115.2138.14"
+      "lastModified": "15 Jan 2026 13:39 UTC",
+      "version": "2026.0115.1339.09"
     }
   ]
 }
