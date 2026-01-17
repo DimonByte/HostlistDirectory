@@ -215,12 +215,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga30.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga30.txt"
       ],
-      "entries": 1845160,
+      "entries": 1818315,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "16 Jan 2026 07:46 UTC",
-      "version": "2026.0116.0746.33"
+      "lastModified": "17 Jan 2026 07:44 UTC",
+      "version": "2026.0117.0744.29"
     },
     {
       "id": 9,
@@ -438,8 +438,8 @@
   ],
   "hostlistdirectoryinfo": {
     "name": "HostDirectory",
-    "lastUpdated": "17 01 2026 18:04:55 (UTC)",
+    "license": "Unlicense license",
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "license": "Unlicense license"
+    "lastUpdated": "17 01 2026 19:04:06 (UTC)"
   }
 }
