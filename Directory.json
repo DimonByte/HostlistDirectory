@@ -2,8 +2,8 @@
   "hostlistdirectoryinfo": {
     "license": "Unlicense license",
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "lastUpdated": "19 01 2026 13:18:46 (UTC)",
-    "name": "HostDirectory"
+    "name": "HostDirectory",
+    "lastUpdated": "19 01 2026 14:08:13 (UTC)"
   },
   "entries": [
     {
@@ -75,12 +75,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi.txt"
       ],
-      "entries": 245482,
+      "entries": 245808,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "18 Jan 2026 22:03 UTC",
-      "version": "2026.0118.2203.47"
+      "lastModified": "19 Jan 2026 10:02 UTC",
+      "version": "2026.0119.1002.35"
     },
     {
       "id": 4,
@@ -136,12 +136,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.plus.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.plus.txt"
       ],
-      "entries": 400446,
+      "entries": 400713,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "18 Jan 2026 22:15 UTC",
-      "version": "2026.0118.2215.21"
+      "lastModified": "19 Jan 2026 10:13 UTC",
+      "version": "2026.0119.1013.53"
     },
     {
       "id": 6,
@@ -434,12 +434,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/tif.txt"
       ],
-      "entries": 600273,
+      "entries": 602416,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "19 Jan 2026 01:39 UTC",
-      "version": "2026.0119.0139.31"
+      "lastModified": "19 Jan 2026 09:39 UTC",
+      "version": "2026.0119.0939.04"
     }
   ]
 }
