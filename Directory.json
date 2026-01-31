@@ -1,7 +1,7 @@
 {
   "hostlistdirectoryinfo": {
+    "lastUpdated": "31 01 2026 19:05:43 (UTC)",
     "license": "Unlicense license",
-    "lastUpdated": "31 01 2026 18:06:03 (UTC)",
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
     "name": "HostDirectory"
   },
@@ -23,12 +23,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/light.txt"
       ],
-      "entries": 109671,
+      "entries": 109672,
       "formatType": "domains-subdomains",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "31 Jan 2026 16:06 UTC",
-      "version": "2026.0131.1606.10"
+      "lastModified": "31 Jan 2026 10:07 UTC",
+      "version": "2026.0131.1007.25"
     },
     {
       "id": 2,
@@ -45,12 +45,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light.txt"
       ],
-      "entries": 109671,
+      "entries": 109672,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "31 Jan 2026 16:06 UTC",
-      "version": "2026.0131.1606.10"
+      "lastModified": "31 Jan 2026 10:07 UTC",
+      "version": "2026.0131.1007.25"
     },
     {
       "id": 3,
@@ -75,12 +75,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi.txt"
       ],
-      "entries": 272476,
+      "entries": 272853,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "31 Jan 2026 16:00 UTC",
-      "version": "2026.0131.1600.14"
+      "lastModified": "31 Jan 2026 10:01 UTC",
+      "version": "2026.0131.1001.47"
     },
     {
       "id": 4,
