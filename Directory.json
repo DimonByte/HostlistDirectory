@@ -1,9 +1,9 @@
 {
   "hostlistdirectoryinfo": {
-    "name": "HostDirectory",
+    "license": "Unlicense license",
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "lastUpdated": "03 02 2026 11:13:25 (UTC)",
-    "license": "Unlicense license"
+    "lastUpdated": "03 02 2026 12:10:14 (UTC)",
+    "name": "HostDirectory"
   },
   "entries": [
     {
@@ -45,12 +45,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light.txt"
       ],
-      "entries": 109548,
+      "entries": 106380,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "03 Feb 2026 10:13 UTC",
-      "version": "2026.0203.1013.09"
+      "lastModified": "03 Feb 2026 04:12 UTC",
+      "version": "2026.0203.0412.35"
     },
     {
       "id": 3,
@@ -75,12 +75,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi.txt"
       ],
-      "entries": 273036,
+      "entries": 272219,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "03 Feb 2026 10:07 UTC",
-      "version": "2026.0203.1007.05"
+      "lastModified": "03 Feb 2026 04:05 UTC",
+      "version": "2026.0203.0405.09"
     },
     {
       "id": 4,
@@ -105,12 +105,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.txt"
       ],
-      "entries": 355649,
+      "entries": 354672,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "03 Feb 2026 10:13 UTC",
-      "version": "2026.0203.1013.47"
+      "lastModified": "03 Feb 2026 04:13 UTC",
+      "version": "2026.0203.0413.17"
     },
     {
       "id": 5,
