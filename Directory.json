@@ -428,18 +428,18 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/tif.txt"
       ],
-      "entries": 640915,
+      "entries": 638516,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "08 Feb 2026 21:40 UTC",
-      "version": "2026.0208.2140.52"
+      "lastModified": "08 Feb 2026 09:39 UTC",
+      "version": "2026.0208.0939.09"
     }
   ],
   "hostlistdirectoryinfo": {
-    "lastUpdated": "09 02 2026 03:02:29 (UTC)",
-    "license": "Unlicense license",
     "name": "HostDirectory",
+    "lastUpdated": "09 02 2026 04:42:09 (UTC)",
+    "license": "Unlicense license",
     "homepage": "https://github.com/DimonByte/HostlistDirectory"
   }
 }
