@@ -17,12 +17,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/light.txt"
       ],
-      "entries": 118046,
+      "entries": 117687,
       "formatType": "domains-subdomains",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "12 Feb 2026 22:12 UTC",
-      "version": "2026.0212.2212.12"
+      "lastModified": "12 Feb 2026 16:12 UTC",
+      "version": "2026.0212.1612.30"
     },
     {
       "id": 2,
@@ -161,12 +161,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/ultimate.txt"
       ],
-      "entries": 556604,
+      "entries": 555829,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "12 Feb 2026 22:28 UTC",
-      "version": "2026.0212.2228.28"
+      "lastModified": "12 Feb 2026 16:32 UTC",
+      "version": "2026.0212.1632.26"
     },
     {
       "id": 7,
@@ -428,18 +428,18 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/tif.txt"
       ],
-      "entries": 673600,
+      "entries": 672498,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "12 Feb 2026 21:41 UTC",
-      "version": "2026.0212.2141.22"
+      "lastModified": "12 Feb 2026 15:41 UTC",
+      "version": "2026.0212.1541.00"
     }
   ],
   "hostlistdirectoryinfo": {
-    "name": "HostDirectory",
+    "lastUpdated": "13 02 2026 04:39:14 (UTC)",
     "license": "Unlicense license",
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "lastUpdated": "13 02 2026 03:02:51 (UTC)"
+    "name": "HostDirectory"
   }
 }
