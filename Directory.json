@@ -1,4 +1,10 @@
 {
+  "hostlistdirectoryinfo": {
+    "lastUpdated": "01 03 2026 01:33:47 (UTC)",
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "license": "Unlicense license",
+    "name": "HostDirectory"
+  },
   "entries": [
     {
       "id": 1,
@@ -161,12 +167,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/ultimate.txt"
       ],
-      "entries": 511867,
+      "entries": 498193,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "28 Feb 2026 10:39 UTC",
-      "version": "2026.0228.1039.47"
+      "lastModified": "28 Feb 2026 22:28 UTC",
+      "version": "2026.0228.2228.36"
     },
     {
       "id": 7,
@@ -435,11 +441,5 @@
       "lastModified": "28 Feb 2026 21:42 UTC",
       "version": "2026.0228.2142.26"
     }
-  ],
-  "hostlistdirectoryinfo": {
-    "license": "Unlicense license",
-    "lastUpdated": "01 03 2026 00:19:23 (UTC)",
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "name": "HostDirectory"
-  }
+  ]
 }
