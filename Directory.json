@@ -1,8 +1,8 @@
 {
   "hostlistdirectoryinfo": {
-    "lastUpdated": "10 03 2026 21:09:19 (UTC)",
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "lastUpdated": "10 03 2026 22:05:50 (UTC)",
     "name": "HostDirectory",
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
     "license": "Unlicense license"
   },
   "entries": [
@@ -23,12 +23,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/light.txt"
       ],
-      "entries": 122741,
+      "entries": 122573,
       "formatType": "domains-subdomains",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "10 Mar 2026 16:14 UTC",
-      "version": "2026.0310.1614.10"
+      "lastModified": "10 Mar 2026 10:15 UTC",
+      "version": "2026.0310.1015.27"
     },
     {
       "id": 2,
@@ -105,12 +105,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.txt"
       ],
-      "entries": 373652,
+      "entries": 373223,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "10 Mar 2026 16:14 UTC",
-      "version": "2026.0310.1614.56"
+      "lastModified": "10 Mar 2026 10:16 UTC",
+      "version": "2026.0310.1016.15"
     },
     {
       "id": 5,
@@ -167,12 +167,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/ultimate.txt"
       ],
-      "entries": 515012,
+      "entries": 514843,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "10 Mar 2026 16:31 UTC",
-      "version": "2026.0310.1631.37"
+      "lastModified": "10 Mar 2026 10:33 UTC",
+      "version": "2026.0310.1033.22"
     },
     {
       "id": 7,
