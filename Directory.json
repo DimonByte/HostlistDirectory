@@ -1,9 +1,9 @@
 {
   "hostlistdirectoryinfo": {
-    "license": "Unlicense license",
-    "name": "HostDirectory",
+    "lastUpdated": "11 03 2026 01:33:48 (UTC)",
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "lastUpdated": "11 03 2026 00:16:03 (UTC)"
+    "name": "HostDirectory",
+    "license": "Unlicense license"
   },
   "entries": [
     {
@@ -45,12 +45,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light.txt"
       ],
-      "entries": 122776,
+      "entries": 122741,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "10 Mar 2026 22:15 UTC",
-      "version": "2026.0310.2215.02"
+      "lastModified": "10 Mar 2026 16:14 UTC",
+      "version": "2026.0310.1614.10"
     },
     {
       "id": 3,
@@ -75,12 +75,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi.txt"
       ],
-      "entries": 281054,
+      "entries": 280937,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "10 Mar 2026 22:07 UTC",
-      "version": "2026.0310.2207.29"
+      "lastModified": "10 Mar 2026 16:06 UTC",
+      "version": "2026.0310.1606.42"
     },
     {
       "id": 4,
@@ -434,12 +434,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/tif.txt"
       ],
-      "entries": 674176,
+      "entries": 671605,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "10 Mar 2026 21:41 UTC",
-      "version": "2026.0310.2141.27"
+      "lastModified": "10 Mar 2026 15:41 UTC",
+      "version": "2026.0310.1541.31"
     }
   ]
 }
