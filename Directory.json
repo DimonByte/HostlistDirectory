@@ -1,8 +1,8 @@
 {
   "hostlistdirectoryinfo": {
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "lastUpdated": "12 03 2026 17:19:46 (UTC)",
     "license": "Unlicense license",
-    "lastUpdated": "12 03 2026 16:22:48 (UTC)",
     "name": "HostDirectory"
   },
   "entries": [
@@ -136,12 +136,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.plus.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.plus.txt"
       ],
-      "entries": 470894,
+      "entries": 466863,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "12 Mar 2026 04:28 UTC",
-      "version": "2026.0312.0428.27"
+      "lastModified": "12 Mar 2026 10:28 UTC",
+      "version": "2026.0312.1028.04"
     },
     {
       "id": 6,
@@ -221,12 +221,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga30.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga30.txt"
       ],
-      "entries": 2264494,
+      "entries": 2297028,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "11 Mar 2026 07:46 UTC",
-      "version": "2026.0311.0746.44"
+      "lastModified": "12 Mar 2026 07:48 UTC",
+      "version": "2026.0312.0748.24"
     },
     {
       "id": 9,
@@ -329,12 +329,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd28-22.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd28-22.txt"
       ],
-      "entries": 2258986,
+      "entries": 2163198,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "11 Mar 2026 07:42 UTC",
-      "version": "2026.0311.0742.41"
+      "lastModified": "12 Mar 2026 07:44 UTC",
+      "version": "2026.0312.0744.15"
     },
     {
       "id": 13,
