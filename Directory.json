@@ -99,12 +99,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.txt"
       ],
-      "entries": 379576,
+      "entries": 380729,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "27 Mar 2026 17:11 UTC",
-      "version": "2026.0327.1711.17"
+      "lastModified": "28 Mar 2026 10:32 UTC",
+      "version": "2026.0328.1032.43"
     },
     {
       "id": 5,
@@ -242,12 +242,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga7.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga7.txt"
       ],
-      "entries": 531507,
+      "entries": 548106,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "27 Mar 2026 07:50 UTC",
-      "version": "2026.0327.0750.20"
+      "lastModified": "28 Mar 2026 07:48 UTC",
+      "version": "2026.0328.0748.56"
     },
     {
       "id": 10,
@@ -296,12 +296,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd21-15.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd21-15.txt"
       ],
-      "entries": 2332622,
+      "entries": 2349019,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "27 Mar 2026 07:43 UTC",
-      "version": "2026.0327.0743.40"
+      "lastModified": "28 Mar 2026 07:42 UTC",
+      "version": "2026.0328.0742.56"
     },
     {
       "id": 12,
@@ -438,7 +438,7 @@
   ],
   "hostlistdirectoryinfo": {
     "name": "HostDirectory",
-    "lastUpdated": "28 03 2026 21:08:04 (UTC)",
+    "lastUpdated": "28 03 2026 22:08:03 (UTC)",
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
     "license": "Unlicense license"
   }
