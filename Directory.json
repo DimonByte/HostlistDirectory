@@ -1,4 +1,10 @@
 {
+  "hostlistdirectoryinfo": {
+    "name": "HostDirectory",
+    "license": "Unlicense license",
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "lastUpdated": "30 03 2026 22:11:27 (UTC)"
+  },
   "entries": [
     {
       "id": 1,
@@ -188,12 +194,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga14.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga14.txt"
       ],
-      "entries": 1085385,
+      "entries": 1098929,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "30 Mar 2026 06:51 UTC",
-      "version": "2026.0330.0651.06"
+      "lastModified": "29 Mar 2026 06:49 UTC",
+      "version": "2026.0329.0649.45"
     },
     {
       "id": 8,
@@ -435,11 +441,5 @@
       "lastModified": "29 Mar 2026 20:46 UTC",
       "version": "2026.0329.2046.35"
     }
-  ],
-  "hostlistdirectoryinfo": {
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "lastUpdated": "30 03 2026 21:15:04 (UTC)",
-    "license": "Unlicense license",
-    "name": "HostDirectory"
-  }
+  ]
 }
