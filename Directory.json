@@ -17,12 +17,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/light.txt"
       ],
-      "entries": 132418,
+      "entries": 131232,
       "formatType": "domains-subdomains",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "02 Apr 2026 10:00 UTC",
-      "version": "2026.0402.1000.38"
+      "lastModified": "01 Apr 2026 10:23 UTC",
+      "version": "2026.0401.1023.02"
     },
     {
       "id": 2,
@@ -161,12 +161,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/ultimate.txt"
       ],
-      "entries": 555959,
+      "entries": 543850,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "02 Apr 2026 10:20 UTC",
-      "version": "2026.0402.1020.31"
+      "lastModified": "01 Apr 2026 15:32 UTC",
+      "version": "2026.0401.1532.26"
     },
     {
       "id": 7,
@@ -215,12 +215,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga30.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga30.txt"
       ],
-      "entries": 2317285,
+      "entries": 2290273,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "02 Apr 2026 06:51 UTC",
-      "version": "2026.0402.0651.44"
+      "lastModified": "01 Apr 2026 06:49 UTC",
+      "version": "2026.0401.0649.43"
     },
     {
       "id": 9,
@@ -242,12 +242,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga7.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga7.txt"
       ],
-      "entries": 506288,
+      "entries": 510969,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "02 Apr 2026 06:51 UTC",
-      "version": "2026.0402.0651.26"
+      "lastModified": "01 Apr 2026 06:49 UTC",
+      "version": "2026.0401.0649.24"
     },
     {
       "id": 10,
@@ -323,12 +323,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd28-22.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd28-22.txt"
       ],
-      "entries": 2334738,
+      "entries": 2305514,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "02 Apr 2026 06:46 UTC",
-      "version": "2026.0402.0646.25"
+      "lastModified": "01 Apr 2026 06:44 UTC",
+      "version": "2026.0401.0644.52"
     },
     {
       "id": 13,
@@ -387,6 +387,30 @@
     {
       "id": 15,
       "author": "Hagezi",
+      "title": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
+      "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
+      "description": "Prevent methods to bypass your DNS.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "bypass",
+        "doh",
+        "security"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/doh.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/doh.txt"
+      ],
+      "entries": 3946,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "02 Apr 2026 18:38 UTC",
+      "version": "2026.0402.1838.03"
+    },
+    {
+      "id": 16,
+      "author": "Hagezi",
       "title": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
       "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
       "description": "A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.",
@@ -414,8 +438,8 @@
   ],
   "hostlistdirectoryinfo": {
     "name": "HostDirectory",
+    "lastUpdated": "02 04 2026 21:11:31 (UTC)",
     "license": "Unlicense license",
-    "lastUpdated": "02 04 2026 20:11:18 (UTC)",
     "homepage": "https://github.com/DimonByte/HostlistDirectory"
   }
 }
