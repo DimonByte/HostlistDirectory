@@ -387,6 +387,30 @@
     {
       "id": 15,
       "author": "Hagezi",
+      "title": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
+      "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
+      "description": "Prevent methods to bypass your DNS.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "bypass",
+        "doh",
+        "security"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/doh.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/doh.txt"
+      ],
+      "entries": 3943,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "05 Apr 2026 22:26 UTC",
+      "version": "2026.0405.2226.43"
+    },
+    {
+      "id": 16,
+      "author": "Hagezi",
       "title": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
       "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
       "description": "A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.",
@@ -413,9 +437,9 @@
     }
   ],
   "hostlistdirectoryinfo": {
-    "lastUpdated": "06 04 2026 00:22:36 (UTC)",
-    "license": "Unlicense license",
+    "lastUpdated": "06 04 2026 01:34:36 (UTC)",
     "name": "HostDirectory",
+    "license": "Unlicense license",
     "homepage": "https://github.com/DimonByte/HostlistDirectory"
   }
 }
