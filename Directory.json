@@ -632,9 +632,9 @@
     }
   ],
   "hostlistdirectoryinfo": {
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "lastUpdated": "14 04 2026 21:17:25 (UTC)",
+    "license": "Unlicense license",
     "name": "HostDirectory",
-    "license": "Unlicense license"
+    "lastUpdated": "14 04 2026 22:16:33 (UTC)",
+    "homepage": "https://github.com/DimonByte/HostlistDirectory"
   }
 }
