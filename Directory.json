@@ -69,12 +69,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi.txt"
       ],
-      "entries": 313569,
+      "entries": 311197,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "17 Apr 2026 18:00 UTC",
-      "version": "2026.0417.1800.16"
+      "lastModified": "18 Apr 2026 08:52 UTC",
+      "version": "2026.0418.0852.40"
     },
     {
       "id": 4,
@@ -269,12 +269,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd14-8.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd14-8.txt"
       ],
-      "entries": 2296826,
+      "entries": 2678827,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "18 Apr 2026 06:32 UTC",
-      "version": "2026.0418.0632.45"
+      "lastModified": "17 Apr 2026 06:32 UTC",
+      "version": "2026.0417.0632.23"
     },
     {
       "id": 11,
@@ -323,12 +323,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd28-22.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd28-22.txt"
       ],
-      "entries": 2231772,
+      "entries": 2298703,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "17 Apr 2026 06:35 UTC",
-      "version": "2026.0417.0635.14"
+      "lastModified": "18 Apr 2026 06:35 UTC",
+      "version": "2026.0418.0635.31"
     },
     {
       "id": 13,
@@ -632,9 +632,9 @@
     }
   ],
   "hostlistdirectoryinfo": {
-    "name": "HostDirectory",
-    "lastUpdated": "18 04 2026 11:14:04 (UTC)",
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "license": "Unlicense license"
+    "name": "HostDirectory",
+    "license": "Unlicense license",
+    "lastUpdated": "18 04 2026 12:11:22 (UTC)"
   }
 }
