@@ -1,8 +1,8 @@
 {
   "hostlistdirectoryinfo": {
-    "lastUpdated": "12 05 2026 22:28:57 (UTC)",
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "lastUpdated": "12 05 2026 23:23:53 (UTC)",
     "license": "Unlicense license",
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
     "name": "HostDirectory"
   },
   "entries": [
@@ -465,6 +465,128 @@
     },
     {
       "id": 18,
+      "author": "Multi",
+      "title": null,
+      "name": "Multi NORMAL - All-round protection",
+      "description": "Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "affiliate",
+        "telemetry",
+        "phishing",
+        "scam",
+        "fake",
+        "cryptojacking"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/multi-compressed.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi-compressed.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi-compressed.txt"
+      ],
+      "entries": 2,
+      "formatType": "hosts-compressed",
+      "license": null,
+      "expiry": null,
+      "lastModified": null,
+      "version": null
+    },
+    {
+      "id": 19,
+      "author": "Multi",
+      "title": null,
+      "name": "Multi PRO - Extended protection (Recommended)",
+      "description": "Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "affiliate",
+        "telemetry",
+        "phishing",
+        "scam",
+        "fake",
+        "cryptojacking"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/pro-compressed.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro-compressed.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro-compressed.txt"
+      ],
+      "entries": 2,
+      "formatType": "hosts-compressed",
+      "license": null,
+      "expiry": null,
+      "lastModified": null,
+      "version": null
+    },
+    {
+      "id": 20,
+      "author": "Multi",
+      "title": "HaGeZi's Pro++ DNS Blocklist",
+      "name": "Multi PRO++ - Maximum protection",
+      "description": "Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "affiliate",
+        "telemetry",
+        "phishing",
+        "scam",
+        "fake",
+        "cryptojacking",
+        "aggressive"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/pro.plus-compressed.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.plus-compressed.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.plus-compressed.txt"
+      ],
+      "entries": 58426,
+      "formatType": "hosts-compressed",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "12 May 2026 21:18 UTC",
+      "version": "2026.0512.2118.12"
+    },
+    {
+      "id": 21,
+      "author": "Multi",
+      "title": null,
+      "name": "Multi ULTIMATE - Aggressive protection",
+      "description": "Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "affiliate",
+        "telemetry",
+        "phishing",
+        "scam",
+        "fake",
+        "cryptojacking",
+        "aggressive"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/ultimate-compressed.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate-compressed.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/ultimate-compressed.txt"
+      ],
+      "entries": 2,
+      "formatType": "hosts-compressed",
+      "license": null,
+      "expiry": null,
+      "lastModified": null,
+      "version": null
+    },
+    {
+      "id": 22,
       "author": "Security",
       "title": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
       "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
