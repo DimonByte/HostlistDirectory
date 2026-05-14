@@ -1,4 +1,10 @@
 {
+  "hostlistdirectoryinfo": {
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "name": "HostDirectory",
+    "lastUpdated": "14 05 2026 11:35:34 (UTC)",
+    "license": "Unlicense license"
+  },
   "entries": [
     {
       "id": 1,
@@ -525,6 +531,30 @@
     {
       "id": 20,
       "author": "Security",
+      "title": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
+      "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
+      "description": "Prevent methods to bypass your DNS.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "bypass",
+        "doh",
+        "security"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/doh-compressed.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh-compressed.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/doh-compressed.txt"
+      ],
+      "entries": 437,
+      "formatType": "hosts-compressed",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "14 May 2026 09:40 UTC",
+      "version": "2026.0514.0940.13"
+    },
+    {
+      "id": 21,
+      "author": "Security",
       "title": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
       "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
       "description": "A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.",
@@ -549,11 +579,5 @@
       "lastModified": "14 May 2026 08:33 UTC",
       "version": "2026.0514.0833.57"
     }
-  ],
-  "hostlistdirectoryinfo": {
-    "license": "Unlicense license",
-    "lastUpdated": "14 05 2026 10:49:12 (UTC)",
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "name": "HostDirectory"
-  }
+  ]
 }
