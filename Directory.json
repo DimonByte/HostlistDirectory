@@ -1,8 +1,8 @@
 {
   "hostlistdirectoryinfo": {
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "lastUpdated": "14 05 2026 12:36:52 (UTC)",
     "name": "HostDirectory",
-    "lastUpdated": "14 05 2026 11:35:34 (UTC)",
     "license": "Unlicense license"
   },
   "entries": [
@@ -439,6 +439,36 @@
     {
       "id": 17,
       "author": "Multi",
+      "title": "HaGeZi's Normal DNS Blocklist",
+      "name": "Multi NORMAL - All-round protection",
+      "description": "Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "affiliate",
+        "telemetry",
+        "phishing",
+        "scam",
+        "fake",
+        "cryptojacking"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/multi-compressed.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi-compressed.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi-compressed.txt"
+      ],
+      "entries": 37876,
+      "formatType": "hosts-compressed",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "14 May 2026 09:04 UTC",
+      "version": "2026.0514.0904.05"
+    },
+    {
+      "id": 18,
+      "author": "Multi",
       "title": "HaGeZi's Pro DNS Blocklist",
       "name": "Multi PRO - Extended protection (Recommended)",
       "description": "Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap",
@@ -467,7 +497,7 @@
       "version": "2026.0513.1809.33"
     },
     {
-      "id": 18,
+      "id": 19,
       "author": "Multi",
       "title": null,
       "name": "Multi PRO++ - Maximum protection",
@@ -498,7 +528,7 @@
       "version": null
     },
     {
-      "id": 19,
+      "id": 20,
       "author": "Multi",
       "title": "HaGeZi's Ultimate DNS Blocklist",
       "name": "Multi ULTIMATE - Aggressive protection",
@@ -529,7 +559,7 @@
       "version": "2026.0514.0921.26"
     },
     {
-      "id": 20,
+      "id": 21,
       "author": "Security",
       "title": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
       "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
@@ -553,7 +583,7 @@
       "version": "2026.0514.0940.13"
     },
     {
-      "id": 21,
+      "id": 22,
       "author": "Security",
       "title": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
       "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
