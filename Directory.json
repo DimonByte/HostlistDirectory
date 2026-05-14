@@ -550,6 +550,37 @@
     },
     {
       "id": 21,
+      "author": "Multi",
+      "title": null,
+      "name": "Multi ULTIMATE - Aggressive protection",
+      "description": "Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "affiliate",
+        "telemetry",
+        "phishing",
+        "scam",
+        "fake",
+        "cryptojacking",
+        "aggressive"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/ultimate-compressed.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate-compressed.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/ultimate-compressed.txt"
+      ],
+      "entries": 2,
+      "formatType": "hosts-compressed",
+      "license": null,
+      "expiry": null,
+      "lastModified": null,
+      "version": null
+    },
+    {
+      "id": 22,
       "author": "Security",
       "title": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
       "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
@@ -573,7 +604,7 @@
       "version": "2026.0513.1700.36"
     },
     {
-      "id": 22,
+      "id": 23,
       "author": "Security",
       "title": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
       "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
@@ -601,9 +632,9 @@
     }
   ],
   "hostlistdirectoryinfo": {
-    "name": "HostDirectory",
     "license": "Unlicense license",
-    "lastUpdated": "14 05 2026 08:03:28 (UTC)",
-    "homepage": "https://github.com/DimonByte/HostlistDirectory"
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "lastUpdated": "14 05 2026 09:48:39 (UTC)",
+    "name": "HostDirectory"
   }
 }
