@@ -242,12 +242,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga7.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga7.txt"
       ],
-      "entries": 598901,
+      "entries": 552438,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "25 May 2026 07:40 UTC",
-      "version": "2026.0525.0740.11"
+      "lastModified": "26 May 2026 07:53 UTC",
+      "version": "2026.0526.0753.42"
     },
     {
       "id": 10,
@@ -323,12 +323,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd28-22.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd28-22.txt"
       ],
-      "entries": 2294905,
+      "entries": 2515145,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "25 May 2026 07:31 UTC",
-      "version": "2026.0525.0731.02"
+      "lastModified": "26 May 2026 07:43 UTC",
+      "version": "2026.0526.0743.49"
     },
     {
       "id": 13,
@@ -350,12 +350,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd35-29.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd35-29.txt"
       ],
-      "entries": 2225926,
+      "entries": 2295865,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "25 May 2026 07:35 UTC",
-      "version": "2026.0525.0735.30"
+      "lastModified": "26 May 2026 07:48 UTC",
+      "version": "2026.0526.0748.38"
     },
     {
       "id": 14,
@@ -633,8 +633,8 @@
   ],
   "hostlistdirectoryinfo": {
     "name": "HostDirectory",
-    "license": "Unlicense license",
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "lastUpdated": "26 05 2026 21:33:24 (UTC)"
+    "license": "Unlicense license",
+    "lastUpdated": "26 05 2026 22:29:44 (UTC)"
   }
 }
