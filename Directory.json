@@ -1,4 +1,10 @@
 {
+  "hostlistdirectoryinfo": {
+    "license": "Unlicense license",
+    "lastUpdated": "27 05 2026 19:41:56 (UTC)",
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "name": "HostDirectory"
+  },
   "entries": [
     {
       "id": 1,
@@ -410,6 +416,33 @@
     },
     {
       "id": 16,
+      "author": "Hagezi",
+      "title": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
+      "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
+      "description": "A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "malware",
+        "cryptojacking",
+        "scam",
+        "spam",
+        "phishing",
+        "security"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/tif.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/tif.txt"
+      ],
+      "entries": 1471636,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "6 hours",
+      "lastModified": "27 May 2026 17:28 UTC",
+      "version": "2026.0527.1728.29"
+    },
+    {
+      "id": 17,
       "author": "Multi",
       "title": "HaGeZi's Light DNS Blocklist",
       "name": "HaGeZi's Light DNS Blocklist",
@@ -431,7 +464,7 @@
       "version": "2026.0527.1803.24"
     },
     {
-      "id": 17,
+      "id": 18,
       "author": "Multi",
       "title": "HaGeZi's Normal DNS Blocklist",
       "name": "Multi NORMAL - All-round protection",
@@ -461,7 +494,7 @@
       "version": "2026.0527.1757.50"
     },
     {
-      "id": 18,
+      "id": 19,
       "author": "Multi",
       "title": "HaGeZi's Pro DNS Blocklist",
       "name": "Multi PRO - Extended protection (Recommended)",
@@ -491,7 +524,7 @@
       "version": "2026.0527.1805.33"
     },
     {
-      "id": 19,
+      "id": 20,
       "author": "Multi",
       "title": "HaGeZi's Pro++ DNS Blocklist",
       "name": "Multi PRO++ - Maximum protection",
@@ -522,7 +555,7 @@
       "version": "2026.0527.1813.07"
     },
     {
-      "id": 20,
+      "id": 21,
       "author": "Multi",
       "title": "HaGeZi's Ultimate DNS Blocklist",
       "name": "Multi ULTIMATE - Aggressive protection",
@@ -553,7 +586,7 @@
       "version": "2026.0527.1821.55"
     },
     {
-      "id": 21,
+      "id": 22,
       "author": "Security",
       "title": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
       "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
@@ -577,7 +610,7 @@
       "version": "2026.0526.1713.24"
     },
     {
-      "id": 22,
+      "id": 23,
       "author": "Security",
       "title": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
       "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
@@ -603,11 +636,5 @@
       "lastModified": "27 May 2026 17:28 UTC",
       "version": "2026.0527.1728.29"
     }
-  ],
-  "hostlistdirectoryinfo": {
-    "lastUpdated": "27 05 2026 18:46:37 (UTC)",
-    "name": "HostDirectory",
-    "license": "Unlicense license",
-    "homepage": "https://github.com/DimonByte/HostlistDirectory"
-  }
+  ]
 }
