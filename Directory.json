@@ -1,4 +1,10 @@
 {
+  "hostlistdirectoryinfo": {
+    "name": "HostDirectory",
+    "license": "Unlicense license",
+    "lastUpdated": "10 06 2026 09:13:58 (UTC)",
+    "homepage": "https://github.com/DimonByte/HostlistDirectory"
+  },
   "entries": [
     {
       "id": 1,
@@ -188,12 +194,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/dga14.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/dga14.txt"
       ],
-      "entries": 1060180,
+      "entries": 1060528,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "09 Jun 2026 06:24 UTC",
-      "version": "2026.0609.0624.41"
+      "lastModified": "10 Jun 2026 06:22 UTC",
+      "version": "2026.0610.0622.42"
     },
     {
       "id": 8,
@@ -401,12 +407,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/doh.txt"
       ],
-      "entries": 3854,
+      "entries": 3856,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "07 Jun 2026 08:02 UTC",
-      "version": "2026.0607.0802.01"
+      "lastModified": "10 Jun 2026 07:50 UTC",
+      "version": "2026.0610.0750.49"
     },
     {
       "id": 16,
@@ -428,12 +434,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/tif.txt"
       ],
-      "entries": 1546515,
+      "entries": 1585593,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "6 hours",
-      "lastModified": "09 Jun 2026 07:38 UTC",
-      "version": "2026.0609.0738.23"
+      "lastModified": "09 Jun 2026 18:15 UTC",
+      "version": "2026.0609.1815.54"
     },
     {
       "id": 17,
@@ -450,12 +456,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light-compressed.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light-compressed.txt"
       ],
-      "entries": 11347,
+      "entries": 10866,
       "formatType": "hosts-compressed",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "09 Jun 2026 18:56 UTC",
-      "version": "2026.0609.1856.18"
+      "lastModified": "10 Jun 2026 07:29 UTC",
+      "version": "2026.0610.0729.36"
     },
     {
       "id": 18,
@@ -480,12 +486,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi-compressed.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi-compressed.txt"
       ],
-      "entries": 43810,
+      "entries": 43109,
       "formatType": "hosts-compressed",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "09 Jun 2026 18:28 UTC",
-      "version": "2026.0609.1828.40"
+      "lastModified": "10 Jun 2026 07:27 UTC",
+      "version": "2026.0610.0727.04"
     },
     {
       "id": 19,
@@ -572,39 +578,15 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate-compressed.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/ultimate-compressed.txt"
       ],
-      "entries": 68058,
+      "entries": 69251,
       "formatType": "hosts-compressed",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "09 Jun 2026 08:12 UTC",
-      "version": "2026.0609.0812.22"
+      "lastModified": "09 Jun 2026 18:36 UTC",
+      "version": "2026.0609.1836.40"
     },
     {
       "id": 22,
-      "author": "Security",
-      "title": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
-      "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
-      "description": "Prevent methods to bypass your DNS.",
-      "homepage": "https://github.com/hagezi/dns-blocklists",
-      "tags": [
-        "bypass",
-        "doh",
-        "security"
-      ],
-      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/doh-compressed.txt",
-      "alternativeMirrors": [
-        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh-compressed.txt",
-        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/doh-compressed.txt"
-      ],
-      "entries": 429,
-      "formatType": "hosts-compressed",
-      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
-      "expiry": "1 day",
-      "lastModified": "07 Jun 2026 08:02 UTC",
-      "version": "2026.0607.0802.01"
-    },
-    {
-      "id": 23,
       "author": "Security",
       "title": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
       "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
@@ -623,18 +605,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif-compressed.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/tif-compressed.txt"
       ],
-      "entries": 176177,
+      "entries": 176803,
       "formatType": "hosts-compressed",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "6 hours",
-      "lastModified": "09 Jun 2026 18:15 UTC",
-      "version": "2026.0609.1815.54"
+      "lastModified": "10 Jun 2026 07:05 UTC",
+      "version": "2026.0610.0705.55"
     }
-  ],
-  "hostlistdirectoryinfo": {
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "lastUpdated": "10 06 2026 07:28:00 (UTC)",
-    "license": "Unlicense license",
-    "name": "HostDirectory"
-  }
+  ]
 }
