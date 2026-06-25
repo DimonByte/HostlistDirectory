@@ -26,6 +26,181 @@
     },
     {
       "id": 2,
+      "author": "xRuffKez CTI",
+      "title": "xRuffKez CTI (Cyber Threat Intelligence) - active domain feed",
+      "name": "xRuffKez CTI (Cyber Threat Intelligence) - active domain feed",
+      "description": "Active Threats which are not included in Hagezi TIF",
+      "homepage": "https://github.com/DNSBunker/CTI",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "affiliate",
+        "telemetry",
+        "phishing",
+        "scam",
+        "fake",
+        "cryptojacking"
+      ],
+      "mainMirror": "https://github.com/DNSBunker/CTI/raw/refs/heads/main/domains.txt",
+      "alternativeMirrors": [
+        ""
+      ],
+      "entries": 1145,
+      "formatType": "domains-subdomains",
+      "license": "GPL-2.0-only",
+      "expiry": null,
+      "lastModified": "2026-06-23T14:28:40Z",
+      "version": null
+    },
+    {
+      "id": 3,
+      "author": "AdAway",
+      "title": "AdAway Hosts",
+      "name": "AdAway Hosts",
+      "description": "Hosts file containing ad domains from AdAway project.",
+      "homepage": "https://github.com/AdAway/adaway.github.io/",
+      "tags": [
+        "ads",
+        "tracking",
+        "adblock"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/AdAway/adaway.github.io/-/raw/master/hosts.txt"
+      ],
+      "entries": 6542,
+      "formatType": "hosts",
+      "license": "CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)",
+      "expiry": "Unknown",
+      "lastModified": "Unknown",
+      "version": "Unknown"
+    },
+    {
+      "id": 4,
+      "author": "add.2o7Net",
+      "title": "FadeMind 2o7Net",
+      "name": "FadeMind 2o7Net",
+      "description": "Hosts file that blocks 2o7 domains.",
+      "homepage": "https://github.com/FadeMind/hosts.extras",
+      "tags": [
+        "ads",
+        "tracking",
+        "adblock"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
+      "alternativeMirrors": [
+        "https://gitlab.com/FadeMind/hosts.extras/-/raw/master/add.2o7Net/hosts"
+      ],
+      "entries": 2030,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": "Unknown",
+      "version": "Unknown"
+    },
+    {
+      "id": 5,
+      "author": "add.Dead",
+      "title": "FadeMind 2o7Net",
+      "name": "FadeMind Dead Hosts",
+      "description": "Hosts file that blocks dead domains.",
+      "homepage": "https://github.com/FadeMind/hosts.extras",
+      "tags": [
+        "dead",
+        "domains",
+        "cleanup"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts",
+      "alternativeMirrors": [
+        "https://gitlab.com/FadeMind/hosts.extras/-/raw/master/add.Dead/hosts"
+      ],
+      "entries": 14,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": "Unknown",
+      "version": "Unknown"
+    },
+    {
+      "id": 6,
+      "author": "add.Risk",
+      "title": "FadeMind 2o7Net",
+      "name": "FadeMind Risk Hosts",
+      "description": "Hosts file that blocks risky domains.",
+      "homepage": "https://github.com/FadeMind/hosts.extras",
+      "tags": [
+        "risk",
+        "security",
+        "malware"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
+      "alternativeMirrors": [
+        "https://gitlab.com/FadeMind/hosts.extras/-/raw/master/add.Risk/hosts"
+      ],
+      "entries": 2189,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": "Unknown",
+      "version": "Unknown"
+    },
+    {
+      "id": 7,
+      "author": "add.Spam",
+      "title": "FadeMind 2o7Net",
+      "name": "FadeMind Spam Hosts",
+      "description": "Hosts file that blocks spam domains.",
+      "homepage": "https://github.com/FadeMind/hosts.extras",
+      "tags": [
+        "spam",
+        "ads",
+        "tracking"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
+      "alternativeMirrors": [
+        "https://gitlab.com/FadeMind/hosts.extras/-/raw/master/add.Spam/hosts"
+      ],
+      "entries": 57,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": "Unknown",
+      "version": "Unknown"
+    },
+    {
+      "id": 8,
+      "author": "Dan Pollock – someonewhocares",
+      "title": null,
+      "name": "Dan Pollock - someonewhocares",
+      "description": "How to make the internet not suck (as much).",
+      "homepage": "https://someonewhocares.org/hosts/",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "security",
+        "spyware",
+        "spam",
+        "exploits",
+        "hijack",
+        "fingerprinting",
+        "popups",
+        "shock"
+      ],
+      "mainMirror": "https://someonewhocares.org/hosts/zero/hosts",
+      "alternativeMirrors": [
+        ""
+      ],
+      "entries": 12900,
+      "formatType": "hosts",
+      "license": "non-commercial with attribution",
+      "expiry": "Unknown",
+      "lastModified": "Wed, 24 Jun 2026 at 21:07:30 GMT",
+      "version": "Unknown"
+    },
+    {
+      "id": 9,
       "author": "Hagezi",
       "title": "HaGeZi's Light DNS Blocklist",
       "name": "HaGeZi's Light DNS Blocklist",
@@ -47,7 +222,7 @@
       "version": "2026.0625.0735.40"
     },
     {
-      "id": 3,
+      "id": 10,
       "author": "Hagezi",
       "title": "HaGeZi's Normal DNS Blocklist",
       "name": "Multi NORMAL - All-round protection",
@@ -77,7 +252,7 @@
       "version": "2026.0625.0732.33"
     },
     {
-      "id": 4,
+      "id": 11,
       "author": "Hagezi",
       "title": "HaGeZi's Pro DNS Blocklist",
       "name": "Multi PRO - Extended protection (Recommended)",
@@ -107,7 +282,7 @@
       "version": "2026.0625.0736.15"
     },
     {
-      "id": 5,
+      "id": 12,
       "author": "Hagezi",
       "title": "HaGeZi's Pro++ DNS Blocklist",
       "name": "Multi PRO++ - Maximum protection",
@@ -138,7 +313,7 @@
       "version": "2026.0625.0739.47"
     },
     {
-      "id": 6,
+      "id": 13,
       "author": "Hagezi",
       "title": "HaGeZi's Ultimate DNS Blocklist",
       "name": "Multi ULTIMATE - Aggressive protection",
@@ -169,7 +344,7 @@
       "version": "2026.0625.0743.33"
     },
     {
-      "id": 7,
+      "id": 14,
       "author": "Hagezi",
       "title": "Newly registered entropy domains (entropy NRDs/DGAs)",
       "name": "Newly Registered Domains - Entropy NRDs/DGAs - Past 14 Days",
@@ -196,7 +371,7 @@
       "version": "2026.0625.0609.18"
     },
     {
-      "id": 8,
+      "id": 15,
       "author": "Hagezi",
       "title": "Newly registered entropy domains (entropy NRDs/DGAs)",
       "name": "Newly Registered Domains - Entropy NRDs/DGAs - Past 30 Days",
@@ -223,7 +398,7 @@
       "version": "2026.0625.0609.58"
     },
     {
-      "id": 9,
+      "id": 16,
       "author": "Hagezi",
       "title": "Newly registered entropy domains (entropy NRDs/DGAs)",
       "name": "Newly Registered Domains - Entropy NRDs/DGAs - Past 7 Days",
@@ -250,7 +425,7 @@
       "version": "2026.0625.0608.43"
     },
     {
-      "id": 10,
+      "id": 17,
       "author": "Hagezi",
       "title": "Newly Registered Domains (NRD)",
       "name": "Newly Registered Domains (NRD/DGA) 14 days ago to 8 days ago",
@@ -277,7 +452,7 @@
       "version": "2026.0625.0558.46"
     },
     {
-      "id": 11,
+      "id": 18,
       "author": "Hagezi",
       "title": "Newly Registered Domains (NRD)",
       "name": "Newly Registered Domains (NRD/DGA) 21 days ago to 15 days ago",
@@ -304,7 +479,7 @@
       "version": "2026.0625.0600.20"
     },
     {
-      "id": 12,
+      "id": 19,
       "author": "Hagezi",
       "title": "Newly Registered Domains (NRD)",
       "name": "Newly Registered Domains (NRD/DGA) 28 days ago to 22 days ago",
@@ -331,7 +506,7 @@
       "version": "2026.0625.0602.44"
     },
     {
-      "id": 13,
+      "id": 20,
       "author": "Hagezi",
       "title": "Newly Registered Domains (NRD)",
       "name": "Newly Registered Domains (NRD/DGA) 35 days ago to 29 days ago",
@@ -358,7 +533,7 @@
       "version": "2026.0625.0605.32"
     },
     {
-      "id": 14,
+      "id": 21,
       "author": "Hagezi",
       "title": "Newly Registered Domains (NRD)",
       "name": "Newly Registered Domains (NRD/DGA) 7 days ago to yesterday",
@@ -385,7 +560,7 @@
       "version": "2026.0625.0557.47"
     },
     {
-      "id": 15,
+      "id": 22,
       "author": "Hagezi",
       "title": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
       "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
@@ -409,7 +584,7 @@
       "version": "2026.0625.0801.24"
     },
     {
-      "id": 16,
+      "id": 23,
       "author": "Hagezi",
       "title": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
       "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
@@ -436,8 +611,206 @@
       "version": "2026.0625.0706.16"
     },
     {
-      "id": 17,
-      "author": "Multi",
+      "id": 24,
+      "author": "Mitchell Krog's - Badd Boyz Hosts",
+      "title": "Mitchell Krog's - Badd Boyz Hosts",
+      "name": "Mitchell Krog's - Badd Boyz Hosts",
+      "description": "Sketchy domains and Bad Referrers from my Nginx and Apache Bad Bot and Spam Referrer Blockers",
+      "homepage": "https://github.com/mitchellkrogza/Badd-Boyz-Hosts",
+      "tags": [
+        "malware",
+        "security",
+        "referrers",
+        "spam",
+        "sketchy"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/refs/heads/master/hosts",
+      "alternativeMirrors": [
+        "https://winhelp2002.mvps.org/hosts.txt"
+      ],
+      "entries": 1386,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": "Unknown",
+      "version": null
+    },
+    {
+      "id": 25,
+      "author": "StevenBlack",
+      "title": "StevenBlack/hosts extension fakenews",
+      "name": "StevenBlack's Unified Hosts with the fakenews-only extension",
+      "description": "A unified hosts file that blocks ads, tracking, malware, and other unwanted content. Combines multiple adblocking lists into one comprehensive blocklist.",
+      "homepage": "https://github.com/StevenBlack/hosts",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "security",
+        "fakenews"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts",
+      "alternativeMirrors": [
+        "https://gitlab.com/StevenBlack/hosts/-/raw/master/alternates/fakenews-only/hosts"
+      ],
+      "entries": 2187,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": "21 June 2026 21:35:19 (UTC)",
+      "version": "Unknown"
+    },
+    {
+      "id": 26,
+      "author": "StevenBlack",
+      "title": "StevenBlack/hosts extension gambling",
+      "name": "StevenBlack's Unified Hosts with the gambling-only extension",
+      "description": "A unified hosts file that blocks ads, tracking, malware, and other unwanted content. Combines multiple adblocking lists into one comprehensive blocklist.",
+      "homepage": "https://github.com/StevenBlack/hosts",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "security",
+        "gambling"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts",
+      "alternativeMirrors": [
+        "https://gitlab.com/StevenBlack/hosts/-/raw/main/alternates/gambling-only/hosts"
+      ],
+      "entries": 6175,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": "21 June 2026 21:35:27 (UTC)",
+      "version": "Unknown"
+    },
+    {
+      "id": 27,
+      "author": "StevenBlack",
+      "title": "StevenBlack/hosts extension porn",
+      "name": "StevenBlack's Unified Hosts with the porn-only extension",
+      "description": "A unified hosts file that blocks ads, tracking, malware, and other unwanted content. Combines multiple adblocking lists into one comprehensive blocklist.",
+      "homepage": "https://github.com/StevenBlack/hosts",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "security",
+        "porn"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts",
+      "alternativeMirrors": [
+        "https://gitlab.com/StevenBlack/hosts/-/raw/master/alternates/porn-only/hosts"
+      ],
+      "entries": 76722,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": "21 June 2026 21:35:32 (UTC)",
+      "version": "Unknown"
+    },
+    {
+      "id": 28,
+      "author": "StevenBlack",
+      "title": "StevenBlack/hosts extension social",
+      "name": "StevenBlack's Unified Hosts with the social-only extension",
+      "description": "A unified hosts file that blocks ads, tracking, malware, and other unwanted content. Combines multiple adblocking lists into one comprehensive blocklist.",
+      "homepage": "https://github.com/StevenBlack/hosts",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "security",
+        "social"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts",
+      "alternativeMirrors": [
+        "https://gitlab.com/StevenBlack/hosts/-/raw/master/alternates/social-only/hosts"
+      ],
+      "entries": 3244,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": "21 June 2026 21:35:34 (UTC)",
+      "version": "Unknown"
+    },
+    {
+      "id": 29,
+      "author": "StevenBlack",
+      "title": "Hosts contributed by Steven Black",
+      "name": "StevenBlack's Unified Hosts Ad Hoc",
+      "description": "A unified hosts file that blocks ads, tracking, malware, and other unwanted content. Combines multiple adblocking lists into one comprehensive blocklist.",
+      "homepage": "https://github.com/StevenBlack/hosts",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "security"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
+      "alternativeMirrors": [
+        "https://gitlab.com/StevenBlack/hosts/-/raw/master/data/StevenBlack/hosts"
+      ],
+      "entries": 2783,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": null,
+      "version": "Unknown"
+    },
+    {
+      "id": 30,
+      "author": "StevenBlack",
+      "title": "StevenBlack/hosts",
+      "name": "StevenBlack's Unified Hosts",
+      "description": "A unified hosts file that blocks ads, tracking, malware, and other unwanted content. Combines multiple adblocking lists into one comprehensive blocklist.",
+      "homepage": "https://github.com/StevenBlack/hosts",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "security"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+      "alternativeMirrors": [
+        "https://gitlab.com/StevenBlack/hosts/-/raw/master/hosts"
+      ],
+      "entries": 82635,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": "21 June 2026 21:35:18 (UTC)",
+      "version": "Unknown"
+    },
+    {
+      "id": 31,
+      "author": "StevenBlack",
+      "title": "StevenBlack/hosts with the porn extension",
+      "name": "StevenBlack's Unified Hosts with the porn extension",
+      "description": "A unified hosts file that blocks ads, tracking, malware, and other unwanted content. Combines multiple adblocking lists into one comprehensive blocklist.",
+      "homepage": "https://github.com/StevenBlack/hosts",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "security",
+        "porn"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts",
+      "alternativeMirrors": [
+        "https://gitlab.com/StevenBlack/hosts/-/raw/master/alternates/porn/hosts"
+      ],
+      "entries": 158703,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": "21 June 2026 21:35:32 (UTC)",
+      "version": "Unknown"
+    },
+    {
+      "id": 32,
+      "author": "Hagezi",
       "title": "HaGeZi's Light DNS Blocklist",
       "name": "HaGeZi's Light DNS Blocklist",
       "description": "Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics and some Badware.",
@@ -458,8 +831,8 @@
       "version": "2026.0625.0735.40"
     },
     {
-      "id": 18,
-      "author": "Multi",
+      "id": 33,
+      "author": "Hagezi",
       "title": "HaGeZi's Normal DNS Blocklist",
       "name": "Multi NORMAL - All-round protection",
       "description": "Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap.",
@@ -488,8 +861,8 @@
       "version": "2026.0625.0732.33"
     },
     {
-      "id": 19,
-      "author": "Multi",
+      "id": 34,
+      "author": "Hagezi",
       "title": "HaGeZi's Pro DNS Blocklist",
       "name": "Multi PRO - Extended protection (Recommended)",
       "description": "Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap",
@@ -518,8 +891,8 @@
       "version": "2026.0625.0736.15"
     },
     {
-      "id": 20,
-      "author": "Multi",
+      "id": 35,
+      "author": "Hagezi",
       "title": "HaGeZi's Pro++ DNS Blocklist",
       "name": "Multi PRO++ - Maximum protection",
       "description": "Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap",
@@ -549,8 +922,8 @@
       "version": "2026.0625.0739.47"
     },
     {
-      "id": 21,
-      "author": "Multi",
+      "id": 36,
+      "author": "Hagezi",
       "title": "HaGeZi's Ultimate DNS Blocklist",
       "name": "Multi ULTIMATE - Aggressive protection",
       "description": "Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap",
@@ -580,8 +953,8 @@
       "version": "2026.0625.0743.33"
     },
     {
-      "id": 22,
-      "author": "Security",
+      "id": 37,
+      "author": "Hagezi",
       "title": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
       "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
       "description": "Prevent methods to bypass your DNS.",
@@ -604,8 +977,8 @@
       "version": "2026.0625.0801.24"
     },
     {
-      "id": 23,
-      "author": "Security",
+      "id": 38,
+      "author": "Hagezi",
       "title": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
       "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
       "description": "A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.",
@@ -634,7 +1007,7 @@
   "hostlistdirectoryinfo": {
     "name": "HostDirectory",
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "license": "Unlicense license",
-    "lastUpdated": "25 06 2026 09:06:03 (UTC)"
+    "lastUpdated": "25 06 2026 10:57:17 (UTC)",
+    "license": "Unlicense license"
   }
 }
