@@ -1,0 +1,61 @@
+{
+    "name": "xRuffKez CTI (Cyber Threat Intelligence) - active domain feed",
+    "description": "Active Threats which are not included in Hagezi TIF",
+    "homepage": "https://github.com/DNSBunker/CTI",
+    "tags": ["ads", "trackers", "malware", "affiliate", "telemetry", "phishing", "scam", "fake", "cryptojacking"],
+    "mainMirror": "https://github.com/DNSBunker/CTI/raw/refs/heads/main/domains.txt",
+    "alternativeMirrors": [
+        ""
+    ],
+    "detectionMethods": {
+        "title": {
+            "type": "user-specified",
+            "value": [
+                "xRuffKez CTI (Cyber Threat Intelligence) - active domain feed"
+            ],
+            "priority": 1
+        },
+        "description": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Contents):\\s*(.*)$"
+            ],
+            "priority": 2
+        },
+        "homepage": {
+            "type": "user-specified",
+            "value": [
+                "https://github.com/DNSBunker/CTI"
+            ],
+            "priority": 3
+        },
+        "license": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:License|Lic):\\s*(.*)$"
+            ],
+            "priority": 4
+        },
+        "expiry": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Expires?|Expiry|Expiration):\\s*(.*)$"
+            ],
+            "priority": 5
+        },
+        "lastModified": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Last modified|Modified|Generated):\\s*(.*)$"
+            ],
+            "priority": 6
+        },
+        "version": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Version|Ver):\\s*(.*)$"
+            ],
+            "priority": 7
+        }
+    }
+}

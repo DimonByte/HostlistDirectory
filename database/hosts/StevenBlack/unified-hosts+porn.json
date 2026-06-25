@@ -1,0 +1,61 @@
+{
+    "name": "StevenBlack's Unified Hosts with the porn extension",
+    "description": "A unified hosts file that blocks ads, tracking, malware, and other unwanted content. Combines multiple adblocking lists into one comprehensive blocklist.",
+    "homepage": "https://github.com/StevenBlack/hosts",
+    "tags": ["ads", "trackers", "malware", "security", "porn"],
+    "mainMirror": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts",
+    "alternativeMirrors": [
+        "https://gitlab.com/StevenBlack/hosts/-/raw/master/alternates/porn/hosts"
+    ],
+    "detectionMethods": {
+        "title": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Title|Name):\\s*(.*)$"
+            ],
+            "priority": 1
+        },
+        "description": {
+            "type": "user-specified",
+            "value": [
+                "A unified hosts file that blocks ads, tracking, malware, and other unwanted content. Combines multiple adblocking lists into one comprehensive blocklist."
+            ],
+            "priority": 2
+        },
+        "homepage": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Home page|URL):\\s*(.*)$"
+            ],
+            "priority": 3
+        },
+        "license": {
+            "type": "user-specified",
+            "value": [
+                "MIT License"
+            ],
+            "priority": 4
+        },
+        "expiry": {
+            "type": "user-specified",
+            "value": [
+                "Unknown"
+            ],
+            "priority": 5
+        },
+        "lastModified": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*Date:\\s*(.*)$"
+            ],
+            "priority": 6
+        },
+        "version": {
+            "type": "user-specified",
+            "value": [
+                "Unknown"
+            ],
+            "priority": 7
+        }
+    }
+}

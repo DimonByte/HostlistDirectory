@@ -1,0 +1,61 @@
+{
+    "name": "Mitchell Krog's - Badd Boyz Hosts",
+    "description": "Sketchy domains and Bad Referrers from my Nginx and Apache Bad Bot and Spam Referrer Blockers",
+    "homepage": "https://github.com/mitchellkrogza/Badd-Boyz-Hosts",
+    "tags": ["malware", "security", "referrers", "spam", "sketchy"],
+    "mainMirror": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/refs/heads/master/hosts",
+    "alternativeMirrors": [
+        "https://winhelp2002.mvps.org/hosts.txt"
+    ],
+    "detectionMethods": {
+        "title": {
+            "type": "user-specified",
+            "value": [
+                "Mitchell Krog's - Badd Boyz Hosts"
+            ],
+            "priority": 1
+        },
+        "description": {
+            "type": "user-specified",
+            "value": [
+                "Sketchy domains and Bad Referrers from my Nginx and Apache Bad Bot and Spam Referrer Blockers"
+            ],
+            "priority": 2
+        },
+        "homepage": {
+            "type": "user-specified",
+            "value": [
+                "https://github.com/mitchellkrogza/Badd-Boyz-Hosts"
+            ],
+            "priority": 3
+        },
+        "license": {
+            "type": "user-specified",
+            "value": [
+                "MIT License"
+            ],
+            "priority": 4
+        },
+        "expiry": {
+            "type": "user-specified",
+            "value": [
+                "Unknown"
+            ],
+            "priority": 5
+        },
+        "lastModified": {
+            "type": "user-specified",
+            "value": [
+                "Unknown"
+            ],
+            "priority": 6
+        },
+        "version": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Version):\\s*(.*)$"
+            ],
+            "priority": 7
+        }
+    }
+}

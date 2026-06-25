@@ -1,0 +1,61 @@
+{
+    "name": "Dan Pollock - someonewhocares",
+    "description": "How to make the internet not suck (as much).",
+    "homepage": "https://someonewhocares.org/hosts/",
+    "tags": ["ads", "trackers", "malware", "security", "spyware", "spam", "exploits", "hijack", "fingerprinting", "popups", "shock"],
+    "mainMirror": "https://someonewhocares.org/hosts/zero/hosts",
+    "alternativeMirrors": [
+        ""
+    ],
+    "detectionMethods": {
+        "title": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Title|Name):\\s*(.*)$"
+            ],
+            "priority": 1
+        },
+        "description": {
+            "type": "user-specified",
+            "value": [
+                "How to make the internet not suck (as much)."
+            ],
+            "priority": 2
+        },
+        "homepage": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*(?:Home page|URL):\\s*(.*)$"
+            ],
+            "priority": 3
+        },
+        "license": {
+            "type": "user-specified",
+            "value": [
+                "non-commercial with attribution"
+            ],
+            "priority": 4
+        },
+        "expiry": {
+            "type": "user-specified",
+            "value": [
+                "Unknown"
+            ],
+            "priority": 5
+        },
+        "lastModified": {
+            "type": "text-locate",
+            "patterns": [
+                "^#\\s*Last updated:\\s*(.*)$"
+            ],
+            "priority": 6
+        },
+        "version": {
+            "type": "user-specified",
+            "value": [
+                "Unknown"
+            ],
+            "priority": 7
+        }
+    }
+}

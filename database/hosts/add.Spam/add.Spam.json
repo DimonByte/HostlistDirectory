@@ -1,0 +1,61 @@
+{
+    "name": "FadeMind Spam Hosts",
+    "description": "Hosts file that blocks spam domains.",
+    "homepage": "https://github.com/FadeMind/hosts.extras",
+    "tags": ["spam", "ads", "tracking"],
+    "mainMirror": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
+    "alternativeMirrors": [
+        "https://gitlab.com/FadeMind/hosts.extras/-/raw/master/add.Spam/hosts"
+    ],
+    "detectionMethods": {
+        "title": {
+            "type": "user-specified",
+            "value": [
+                "FadeMind 2o7Net"
+            ],
+            "priority": 1
+        },
+        "description": {
+            "type": "user-specified",
+            "value": [
+                "Hosts file that blocks 2o7 domains."
+            ],
+            "priority": 2
+        },
+        "homepage": {
+            "type": "user-specified",
+            "value": [
+                "https://github.com/FadeMind/hosts.extras"
+            ],
+            "priority": 3
+        },
+        "license": {
+            "type": "user-specified",
+            "value": [
+                "MIT License"
+            ],
+            "priority": 4
+        },
+        "expiry": {
+            "type": "user-specified",
+            "value": [
+                "Unknown"
+            ],
+            "priority": 5
+        },
+        "lastModified": {
+            "type": "user-specified",
+            "value": [
+                "Unknown"
+            ],
+            "priority": 6
+        },
+        "version": {
+            "type": "user-specified",
+            "value": [
+                "Unknown"
+            ],
+            "priority": 7
+        }
+    }
+}
