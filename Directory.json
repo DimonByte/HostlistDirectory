@@ -1,4 +1,10 @@
 {
+  "hostlistdirectoryinfo": {
+    "license": "Unlicense license",
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "name": "HostDirectory",
+    "lastUpdated": "27 06 2026 03:05:30 (UTC)"
+  },
   "entries": [
     {
       "id": 1,
@@ -955,30 +961,6 @@
     {
       "id": 37,
       "author": "Hagezi",
-      "title": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
-      "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
-      "description": "Prevent methods to bypass your DNS.",
-      "homepage": "https://github.com/hagezi/dns-blocklists",
-      "tags": [
-        "bypass",
-        "doh",
-        "security"
-      ],
-      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/doh-compressed.txt",
-      "alternativeMirrors": [
-        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh-compressed.txt",
-        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/doh-compressed.txt"
-      ],
-      "entries": 433,
-      "formatType": "hosts-compressed",
-      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
-      "expiry": "1 day",
-      "lastModified": "25 Jun 2026 08:01 UTC",
-      "version": "2026.0625.0801.24"
-    },
-    {
-      "id": 38,
-      "author": "Hagezi",
       "title": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
       "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
       "description": "A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.",
@@ -1003,11 +985,5 @@
       "lastModified": "26 Jun 2026 19:18 UTC",
       "version": "2026.0626.1918.21"
     }
-  ],
-  "hostlistdirectoryinfo": {
-    "license": "Unlicense license",
-    "name": "HostDirectory",
-    "lastUpdated": "27 06 2026 01:39:45 (UTC)",
-    "homepage": "https://github.com/DimonByte/HostlistDirectory"
-  }
+  ]
 }
