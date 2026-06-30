@@ -1,10 +1,4 @@
 {
-  "hostlistdirectoryinfo": {
-    "license": "Unlicense license",
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "name": "HostDirectory",
-    "lastUpdated": "30 06 2026 13:38:15 (UTC)"
-  },
   "entries": [
     {
       "id": 1,
@@ -568,6 +562,30 @@
     {
       "id": 22,
       "author": "Hagezi",
+      "title": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
+      "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
+      "description": "Prevent methods to bypass your DNS.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "bypass",
+        "doh",
+        "security"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/doh.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/doh.txt"
+      ],
+      "entries": 3890,
+      "formatType": "hosts",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "25 Jun 2026 08:01 UTC",
+      "version": "2026.0625.0801.24"
+    },
+    {
+      "id": 23,
+      "author": "Hagezi",
       "title": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
       "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
       "description": "A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.",
@@ -593,7 +611,7 @@
       "version": "2026.0630.0725.34"
     },
     {
-      "id": 23,
+      "id": 24,
       "author": "Mitchell Krog's - Badd Boyz Hosts",
       "title": "Mitchell Krog's - Badd Boyz Hosts",
       "name": "Mitchell Krog's - Badd Boyz Hosts",
@@ -618,7 +636,7 @@
       "version": null
     },
     {
-      "id": 24,
+      "id": 25,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts extension fakenews",
       "name": "StevenBlack's Unified Hosts with the fakenews-only extension",
@@ -643,7 +661,7 @@
       "version": "Unknown"
     },
     {
-      "id": 25,
+      "id": 26,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts extension gambling",
       "name": "StevenBlack's Unified Hosts with the gambling-only extension",
@@ -668,7 +686,7 @@
       "version": "Unknown"
     },
     {
-      "id": 26,
+      "id": 27,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts extension porn",
       "name": "StevenBlack's Unified Hosts with the porn-only extension",
@@ -693,7 +711,7 @@
       "version": "Unknown"
     },
     {
-      "id": 27,
+      "id": 28,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts extension social",
       "name": "StevenBlack's Unified Hosts with the social-only extension",
@@ -718,7 +736,7 @@
       "version": "Unknown"
     },
     {
-      "id": 28,
+      "id": 29,
       "author": "StevenBlack",
       "title": "Hosts contributed by Steven Black",
       "name": "StevenBlack's Unified Hosts Ad Hoc",
@@ -742,7 +760,7 @@
       "version": "Unknown"
     },
     {
-      "id": 29,
+      "id": 30,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts",
       "name": "StevenBlack's Unified Hosts",
@@ -766,7 +784,7 @@
       "version": "Unknown"
     },
     {
-      "id": 30,
+      "id": 31,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts with the porn extension",
       "name": "StevenBlack's Unified Hosts with the porn extension",
@@ -791,7 +809,59 @@
       "version": "Unknown"
     },
     {
-      "id": 31,
+      "id": 32,
+      "author": "Hagezi",
+      "title": "HaGeZi's Light DNS Blocklist",
+      "name": "HaGeZi's Light DNS Blocklist",
+      "description": "Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics and some Badware.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "ads, trackers, malware"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/light-compressed.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light-compressed.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light-compressed.txt"
+      ],
+      "entries": 10267,
+      "formatType": "hosts-compressed",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "30 Jun 2026 08:05 UTC",
+      "version": "2026.0630.0805.27"
+    },
+    {
+      "id": 33,
+      "author": "Hagezi",
+      "title": "HaGeZi's Normal DNS Blocklist",
+      "name": "Multi NORMAL - All-round protection",
+      "description": "Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "affiliate",
+        "telemetry",
+        "phishing",
+        "scam",
+        "fake",
+        "cryptojacking"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/multi-compressed.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi-compressed.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi-compressed.txt"
+      ],
+      "entries": 44877,
+      "formatType": "hosts-compressed",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "30 Jun 2026 08:01 UTC",
+      "version": "2026.0630.0801.59"
+    },
+    {
+      "id": 34,
       "author": "Hagezi",
       "title": "HaGeZi's Pro DNS Blocklist",
       "name": "Multi PRO - Extended protection (Recommended)",
@@ -821,7 +891,93 @@
       "version": "2026.0630.0806.02"
     },
     {
-      "id": 32,
+      "id": 35,
+      "author": "Hagezi",
+      "title": "HaGeZi's Pro++ DNS Blocklist",
+      "name": "Multi PRO++ - Maximum protection",
+      "description": "Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "affiliate",
+        "telemetry",
+        "phishing",
+        "scam",
+        "fake",
+        "cryptojacking",
+        "aggressive"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/pro.plus-compressed.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.plus-compressed.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.plus-compressed.txt"
+      ],
+      "entries": 78060,
+      "formatType": "hosts-compressed",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "30 Jun 2026 08:10 UTC",
+      "version": "2026.0630.0810.18"
+    },
+    {
+      "id": 36,
+      "author": "Hagezi",
+      "title": "HaGeZi's Ultimate DNS Blocklist",
+      "name": "Multi ULTIMATE - Aggressive protection",
+      "description": "Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other Crap",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "affiliate",
+        "telemetry",
+        "phishing",
+        "scam",
+        "fake",
+        "cryptojacking",
+        "aggressive"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/ultimate-compressed.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate-compressed.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/ultimate-compressed.txt"
+      ],
+      "entries": 82944,
+      "formatType": "hosts-compressed",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "30 Jun 2026 08:14 UTC",
+      "version": "2026.0630.0814.35"
+    },
+    {
+      "id": 37,
+      "author": "Hagezi",
+      "title": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
+      "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
+      "description": "Prevent methods to bypass your DNS.",
+      "homepage": "https://github.com/hagezi/dns-blocklists",
+      "tags": [
+        "bypass",
+        "doh",
+        "security"
+      ],
+      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/doh-compressed.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh-compressed.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/doh-compressed.txt"
+      ],
+      "entries": 433,
+      "formatType": "hosts-compressed",
+      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+      "expiry": "1 day",
+      "lastModified": "25 Jun 2026 08:01 UTC",
+      "version": "2026.0625.0801.24"
+    },
+    {
+      "id": 38,
       "author": "Hagezi",
       "title": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
       "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
@@ -847,5 +1003,11 @@
       "lastModified": "30 Jun 2026 07:25 UTC",
       "version": "2026.0630.0725.34"
     }
-  ]
+  ],
+  "hostlistdirectoryinfo": {
+    "lastUpdated": "30 06 2026 14:52:32 (UTC)",
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "name": "HostDirectory",
+    "license": "Unlicense license"
+  }
 }
