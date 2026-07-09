@@ -1,10 +1,4 @@
 {
-  "hostlistdirectoryinfo": {
-    "name": "HostDirectory",
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "license": "Unlicense license",
-    "lastUpdated": "09 07 2026 00:04:10 (UTC)"
-  },
   "entries": [
     {
       "id": 1,
@@ -107,6 +101,29 @@
     },
     {
       "id": 5,
+      "author": "add.Dead",
+      "title": "FadeMind 2o7Net",
+      "name": "FadeMind Dead Hosts",
+      "description": "Hosts file that blocks dead domains.",
+      "homepage": "https://github.com/FadeMind/hosts.extras",
+      "tags": [
+        "dead",
+        "domains",
+        "cleanup"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts",
+      "alternativeMirrors": [
+        "https://gitlab.com/FadeMind/hosts.extras/-/raw/master/add.Dead/hosts"
+      ],
+      "entries": 14,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": "Unknown",
+      "version": "Unknown"
+    },
+    {
+      "id": 6,
       "author": "add.Risk",
       "title": "FadeMind 2o7Net",
       "name": "FadeMind Risk Hosts",
@@ -129,7 +146,7 @@
       "version": "Unknown"
     },
     {
-      "id": 6,
+      "id": 7,
       "author": "add.Spam",
       "title": "FadeMind 2o7Net",
       "name": "FadeMind Spam Hosts",
@@ -152,7 +169,7 @@
       "version": "Unknown"
     },
     {
-      "id": 7,
+      "id": 8,
       "author": "Dan Pollock – someonewhocares",
       "title": null,
       "name": "Dan Pollock - someonewhocares",
@@ -183,7 +200,7 @@
       "version": "Unknown"
     },
     {
-      "id": 8,
+      "id": 9,
       "author": "Hagezi",
       "title": "HaGeZi's Light DNS Blocklist",
       "name": "HaGeZi's Light DNS Blocklist",
@@ -205,7 +222,7 @@
       "version": "2026.0708.1831.59"
     },
     {
-      "id": 9,
+      "id": 10,
       "author": "Hagezi",
       "title": "HaGeZi's Normal DNS Blocklist",
       "name": "Multi NORMAL - All-round protection",
@@ -235,7 +252,7 @@
       "version": "2026.0708.1828.45"
     },
     {
-      "id": 10,
+      "id": 11,
       "author": "Hagezi",
       "title": "HaGeZi's Pro DNS Blocklist",
       "name": "Multi PRO - Extended protection (Recommended)",
@@ -265,7 +282,7 @@
       "version": "2026.0708.1834.04"
     },
     {
-      "id": 11,
+      "id": 12,
       "author": "Hagezi",
       "title": "HaGeZi's Pro++ DNS Blocklist",
       "name": "Multi PRO++ - Maximum protection",
@@ -296,7 +313,7 @@
       "version": "2026.0708.1840.29"
     },
     {
-      "id": 12,
+      "id": 13,
       "author": "Hagezi",
       "title": "HaGeZi's Ultimate DNS Blocklist",
       "name": "Multi ULTIMATE - Aggressive protection",
@@ -327,7 +344,7 @@
       "version": "2026.0708.1845.21"
     },
     {
-      "id": 13,
+      "id": 14,
       "author": "Hagezi",
       "title": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
       "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
@@ -351,7 +368,7 @@
       "version": "2026.0708.1738.36"
     },
     {
-      "id": 14,
+      "id": 15,
       "author": "Hagezi",
       "title": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
       "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
@@ -378,7 +395,7 @@
       "version": "2026.0708.1806.40"
     },
     {
-      "id": 15,
+      "id": 16,
       "author": "Mitchell Krog's - Badd Boyz Hosts",
       "title": "Mitchell Krog's - Badd Boyz Hosts",
       "name": "Mitchell Krog's - Badd Boyz Hosts",
@@ -403,7 +420,7 @@
       "version": null
     },
     {
-      "id": 16,
+      "id": 17,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts extension fakenews",
       "name": "StevenBlack's Unified Hosts with the fakenews-only extension",
@@ -428,7 +445,7 @@
       "version": "Unknown"
     },
     {
-      "id": 17,
+      "id": 18,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts extension gambling",
       "name": "StevenBlack's Unified Hosts with the gambling-only extension",
@@ -453,7 +470,7 @@
       "version": "Unknown"
     },
     {
-      "id": 18,
+      "id": 19,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts extension porn",
       "name": "StevenBlack's Unified Hosts with the porn-only extension",
@@ -478,7 +495,7 @@
       "version": "Unknown"
     },
     {
-      "id": 19,
+      "id": 20,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts extension social",
       "name": "StevenBlack's Unified Hosts with the social-only extension",
@@ -503,7 +520,7 @@
       "version": "Unknown"
     },
     {
-      "id": 20,
+      "id": 21,
       "author": "StevenBlack",
       "title": "Hosts contributed by Steven Black",
       "name": "StevenBlack's Unified Hosts Ad Hoc",
@@ -519,7 +536,7 @@
       "alternativeMirrors": [
         "https://gitlab.com/StevenBlack/hosts/-/raw/master/data/StevenBlack/hosts"
       ],
-      "entries": 2798,
+      "entries": 2800,
       "formatType": "hosts",
       "license": "MIT License",
       "expiry": "Unknown",
@@ -527,7 +544,7 @@
       "version": "Unknown"
     },
     {
-      "id": 21,
+      "id": 22,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts",
       "name": "StevenBlack's Unified Hosts",
@@ -551,7 +568,7 @@
       "version": "Unknown"
     },
     {
-      "id": 22,
+      "id": 23,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts with the porn extension",
       "name": "StevenBlack's Unified Hosts with the porn extension",
@@ -576,7 +593,7 @@
       "version": "Unknown"
     },
     {
-      "id": 23,
+      "id": 24,
       "author": "Hagezi",
       "title": "HaGeZi's Light DNS Blocklist",
       "name": "HaGeZi's Light DNS Blocklist",
@@ -598,7 +615,7 @@
       "version": "2026.0708.1831.59"
     },
     {
-      "id": 24,
+      "id": 25,
       "author": "Hagezi",
       "title": "HaGeZi's Normal DNS Blocklist",
       "name": "Multi NORMAL - All-round protection",
@@ -628,7 +645,7 @@
       "version": "2026.0708.1828.45"
     },
     {
-      "id": 25,
+      "id": 26,
       "author": "Hagezi",
       "title": "HaGeZi's Pro DNS Blocklist",
       "name": "Multi PRO - Extended protection (Recommended)",
@@ -658,7 +675,7 @@
       "version": "2026.0708.1834.04"
     },
     {
-      "id": 26,
+      "id": 27,
       "author": "Hagezi",
       "title": "HaGeZi's Pro++ DNS Blocklist",
       "name": "Multi PRO++ - Maximum protection",
@@ -689,7 +706,7 @@
       "version": "2026.0708.1840.29"
     },
     {
-      "id": 27,
+      "id": 28,
       "author": "Hagezi",
       "title": "HaGeZi's Ultimate DNS Blocklist",
       "name": "Multi ULTIMATE - Aggressive protection",
@@ -720,7 +737,7 @@
       "version": "2026.0708.1845.21"
     },
     {
-      "id": 28,
+      "id": 29,
       "author": "Hagezi",
       "title": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
       "name": "Encrypted DNS Servers Bypass - Prevent methods to bypass your DNS!",
@@ -744,7 +761,7 @@
       "version": "2026.0708.1738.36"
     },
     {
-      "id": 29,
+      "id": 30,
       "author": "Hagezi",
       "title": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
       "name": "Threat Intelligence Feeds - Increases security significantly! (Recommended)",
@@ -770,5 +787,11 @@
       "lastModified": "08 Jul 2026 18:06 UTC",
       "version": "2026.0708.1806.40"
     }
-  ]
+  ],
+  "hostlistdirectoryinfo": {
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "name": "HostDirectory",
+    "lastUpdated": "09 07 2026 04:45:03 (UTC)",
+    "license": "Unlicense license"
+  }
 }
