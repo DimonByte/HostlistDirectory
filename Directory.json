@@ -17,12 +17,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/light.txt"
       ],
-      "entries": 88773,
+      "entries": 88971,
       "formatType": "domains-subdomains",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "15 Jul 2026 07:52 UTC",
-      "version": "2026.0715.0752.15"
+      "lastModified": "15 Jul 2026 18:40 UTC",
+      "version": "2026.0715.1840.04"
     },
     {
       "id": 2,
@@ -46,11 +46,11 @@
       "alternativeMirrors": [
         ""
       ],
-      "entries": 5180,
+      "entries": 5214,
       "formatType": "domains-subdomains",
       "license": "GPL-2.0-only",
       "expiry": null,
-      "lastModified": "2026-07-15T18:58:51Z",
+      "lastModified": "2026-07-15T20:50:31Z",
       "version": null
     },
     {
@@ -192,11 +192,11 @@
       "alternativeMirrors": [
         ""
       ],
-      "entries": 12952,
+      "entries": 12955,
       "formatType": "hosts",
       "license": "non-commercial with attribution",
       "expiry": "Unknown",
-      "lastModified": "Mon, 13 Jul 2026 at 19:50:11 GMT",
+      "lastModified": "Wed, 15 Jul 2026 at 19:17:21 GMT",
       "version": "Unknown"
     },
     {
@@ -214,12 +214,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light.txt"
       ],
-      "entries": 88773,
+      "entries": 88971,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "15 Jul 2026 07:52 UTC",
-      "version": "2026.0715.0752.15"
+      "lastModified": "15 Jul 2026 18:40 UTC",
+      "version": "2026.0715.1840.04"
     },
     {
       "id": 10,
@@ -244,12 +244,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi.txt"
       ],
-      "entries": 393714,
+      "entries": 393649,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "15 Jul 2026 07:47 UTC",
-      "version": "2026.0715.0747.40"
+      "lastModified": "15 Jul 2026 18:36 UTC",
+      "version": "2026.0715.1836.47"
     },
     {
       "id": 11,
@@ -274,12 +274,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.txt"
       ],
-      "entries": 552326,
+      "entries": 553540,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "15 Jul 2026 07:52 UTC",
-      "version": "2026.0715.0752.54"
+      "lastModified": "15 Jul 2026 18:40 UTC",
+      "version": "2026.0715.1840.33"
     },
     {
       "id": 12,
@@ -305,12 +305,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.plus.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.plus.txt"
       ],
-      "entries": 590118,
+      "entries": 591384,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "15 Jul 2026 08:01 UTC",
-      "version": "2026.0715.0801.54"
+      "lastModified": "15 Jul 2026 18:48 UTC",
+      "version": "2026.0715.1848.50"
     },
     {
       "id": 13,
@@ -336,12 +336,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/ultimate.txt"
       ],
-      "entries": 637160,
+      "entries": 638549,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "15 Jul 2026 08:05 UTC",
-      "version": "2026.0715.0805.54"
+      "lastModified": "15 Jul 2026 18:52 UTC",
+      "version": "2026.0715.1852.37"
     },
     {
       "id": 14,
@@ -360,12 +360,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/doh.txt"
       ],
-      "entries": 3839,
+      "entries": 3840,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "15 Jul 2026 08:22 UTC",
-      "version": "2026.0715.0822.11"
+      "lastModified": "15 Jul 2026 19:08 UTC",
+      "version": "2026.0715.1908.44"
     },
     {
       "id": 15,
@@ -387,12 +387,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/tif.txt"
       ],
-      "entries": 2327236,
+      "entries": 2340296,
       "formatType": "hosts",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "12 hours",
-      "lastModified": "15 Jul 2026 07:16 UTC",
-      "version": "2026.0715.0716.21"
+      "lastModified": "15 Jul 2026 18:07 UTC",
+      "version": "2026.0715.1807.05"
     },
     {
       "id": 16,
@@ -607,12 +607,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light-compressed.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light-compressed.txt"
       ],
-      "entries": 9864,
+      "entries": 9886,
       "formatType": "hosts-compressed",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "15 Jul 2026 07:52 UTC",
-      "version": "2026.0715.0752.15"
+      "lastModified": "15 Jul 2026 18:40 UTC",
+      "version": "2026.0715.1840.04"
     },
     {
       "id": 25,
@@ -637,12 +637,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi-compressed.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi-compressed.txt"
       ],
-      "entries": 43746,
+      "entries": 43739,
       "formatType": "hosts-compressed",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "15 Jul 2026 07:47 UTC",
-      "version": "2026.0715.0747.40"
+      "lastModified": "15 Jul 2026 18:36 UTC",
+      "version": "2026.0715.1836.47"
     },
     {
       "id": 26,
@@ -667,12 +667,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro-compressed.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro-compressed.txt"
       ],
-      "entries": 61370,
+      "entries": 61505,
       "formatType": "hosts-compressed",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "15 Jul 2026 07:52 UTC",
-      "version": "2026.0715.0752.54"
+      "lastModified": "15 Jul 2026 18:40 UTC",
+      "version": "2026.0715.1840.33"
     },
     {
       "id": 27,
@@ -698,12 +698,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.plus-compressed.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.plus-compressed.txt"
       ],
-      "entries": 65569,
+      "entries": 65710,
       "formatType": "hosts-compressed",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "15 Jul 2026 08:01 UTC",
-      "version": "2026.0715.0801.54"
+      "lastModified": "15 Jul 2026 18:48 UTC",
+      "version": "2026.0715.1848.50"
     },
     {
       "id": 28,
@@ -729,12 +729,12 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate-compressed.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/ultimate-compressed.txt"
       ],
-      "entries": 70796,
+      "entries": 70950,
       "formatType": "hosts-compressed",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "15 Jul 2026 08:05 UTC",
-      "version": "2026.0715.0805.54"
+      "lastModified": "15 Jul 2026 18:52 UTC",
+      "version": "2026.0715.1852.37"
     },
     {
       "id": 29,
@@ -757,8 +757,8 @@
       "formatType": "hosts-compressed",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "1 day",
-      "lastModified": "15 Jul 2026 08:22 UTC",
-      "version": "2026.0715.0822.11"
+      "lastModified": "15 Jul 2026 19:08 UTC",
+      "version": "2026.0715.1908.44"
     },
     {
       "id": 30,
@@ -780,18 +780,18 @@
         "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif-compressed.txt",
         "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/tif-compressed.txt"
       ],
-      "entries": 258582,
+      "entries": 260033,
       "formatType": "hosts-compressed",
       "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
       "expiry": "12 hours",
-      "lastModified": "15 Jul 2026 07:16 UTC",
-      "version": "2026.0715.0716.21"
+      "lastModified": "15 Jul 2026 18:07 UTC",
+      "version": "2026.0715.1807.05"
     }
   ],
   "hostlistdirectoryinfo": {
-    "license": "Unlicense license",
-    "name": "HostDirectory",
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "lastUpdated": "15 07 2026 19:00:47 (UTC)"
+    "lastUpdated": "15 07 2026 20:52:28 (UTC)",
+    "license": "Unlicense license",
+    "name": "HostDirectory"
   }
 }
