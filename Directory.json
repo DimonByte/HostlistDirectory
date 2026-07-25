@@ -1,9 +1,9 @@
 {
   "hostlistdirectoryinfo": {
     "license": "Unlicense license",
-    "name": "HostDirectory",
-    "lastUpdated": "25 07 2026 05:37:49 (UTC)",
-    "homepage": "https://github.com/DimonByte/HostlistDirectory"
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "lastUpdated": "25 07 2026 07:55:43 (UTC)",
+    "name": "HostDirectory"
   },
   "entries": [
     {
@@ -52,11 +52,11 @@
       "alternativeMirrors": [
         ""
       ],
-      "entries": 31237,
+      "entries": 31636,
       "formatType": "domains-subdomains",
       "license": "GPL-2.0-only",
       "expiry": null,
-      "lastModified": "2026-07-25T05:37:09Z",
+      "lastModified": "2026-07-25T07:55:11Z",
       "version": null
     },
     {
