@@ -1,10 +1,4 @@
 {
-  "hostlistdirectoryinfo": {
-    "license": "Unlicense license",
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "name": "HostDirectory",
-    "lastUpdated": "27 07 2026 23:06:38 (UTC)"
-  },
   "entries": [
     {
       "id": 1,
@@ -52,11 +46,11 @@
       "alternativeMirrors": [
         ""
       ],
-      "entries": 25086,
+      "entries": 24730,
       "formatType": "domains-subdomains",
       "license": "GPL-2.0-only",
       "expiry": null,
-      "lastModified": "2026-07-27T23:05:55Z",
+      "lastModified": "2026-07-28T01:53:41Z",
       "version": null
     },
     {
@@ -447,7 +441,7 @@
       "formatType": "hosts",
       "license": "MIT License",
       "expiry": "Unknown",
-      "lastModified": "23 July 2026 23:52:22 (UTC)",
+      "lastModified": "27 July 2026 22:55:32 (UTC)",
       "version": "Unknown"
     },
     {
@@ -468,11 +462,11 @@
       "alternativeMirrors": [
         "https://gitlab.com/StevenBlack/hosts/-/raw/main/alternates/gambling-only/hosts"
       ],
-      "entries": 6389,
+      "entries": 6395,
       "formatType": "hosts",
       "license": "MIT License",
       "expiry": "Unknown",
-      "lastModified": "23 July 2026 23:52:31 (UTC)",
+      "lastModified": "27 July 2026 22:55:43 (UTC)",
       "version": "Unknown"
     },
     {
@@ -497,7 +491,7 @@
       "formatType": "hosts",
       "license": "MIT License",
       "expiry": "Unknown",
-      "lastModified": "23 July 2026 23:52:36 (UTC)",
+      "lastModified": "27 July 2026 22:55:48 (UTC)",
       "version": "Unknown"
     },
     {
@@ -522,7 +516,7 @@
       "formatType": "hosts",
       "license": "MIT License",
       "expiry": "Unknown",
-      "lastModified": "23 July 2026 23:52:38 (UTC)",
+      "lastModified": "27 July 2026 22:55:52 (UTC)",
       "version": "Unknown"
     },
     {
@@ -566,11 +560,11 @@
       "alternativeMirrors": [
         "https://gitlab.com/StevenBlack/hosts/-/raw/master/hosts"
       ],
-      "entries": 93169,
+      "entries": 96780,
       "formatType": "hosts",
       "license": "MIT License",
       "expiry": "Unknown",
-      "lastModified": "23 July 2026 23:52:21 (UTC)",
+      "lastModified": "27 July 2026 22:55:32 (UTC)",
       "version": "Unknown"
     },
     {
@@ -591,11 +585,11 @@
       "alternativeMirrors": [
         "https://gitlab.com/StevenBlack/hosts/-/raw/master/alternates/porn/hosts"
       ],
-      "entries": 169318,
+      "entries": 172925,
       "formatType": "hosts",
       "license": "MIT License",
       "expiry": "Unknown",
-      "lastModified": "23 July 2026 23:52:36 (UTC)",
+      "lastModified": "27 July 2026 22:55:48 (UTC)",
       "version": "Unknown"
     },
     {
@@ -793,5 +787,11 @@
       "lastModified": "27 Jul 2026 18:13 UTC",
       "version": "2026.0727.1813.10"
     }
-  ]
+  ],
+  "hostlistdirectoryinfo": {
+    "lastUpdated": "28 07 2026 01:56:01 (UTC)",
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "name": "HostDirectory",
+    "license": "Unlicense license"
+  }
 }
