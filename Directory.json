@@ -1,9 +1,9 @@
 {
   "hostlistdirectoryinfo": {
+    "lastUpdated": "05 08 2026 15:57:03 (UTC)",
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
     "license": "Unlicense license",
-    "name": "HostDirectory",
-    "lastUpdated": "05 08 2026 13:51:19 (UTC)"
+    "name": "HostDirectory"
   },
   "entries": [
     {
@@ -28,11 +28,11 @@
       "alternativeMirrors": [
         ""
       ],
-      "entries": 12261,
+      "entries": 12228,
       "formatType": "domains-subdomains",
       "license": "GPL-2.0-only",
       "expiry": null,
-      "lastModified": "2026-08-05T13:49:58Z",
+      "lastModified": "2026-08-05T15:56:25Z",
       "version": null
     },
     {
@@ -323,7 +323,7 @@
       "alternativeMirrors": [
         "https://gitlab.com/StevenBlack/hosts/-/raw/master/data/StevenBlack/hosts"
       ],
-      "entries": 2845,
+      "entries": 2849,
       "formatType": "hosts",
       "license": "MIT License",
       "expiry": "Unknown",
