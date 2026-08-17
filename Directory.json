@@ -1,13 +1,65 @@
 {
   "hostlistdirectoryinfo": {
+    "name": "HostDirectory",
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "lastUpdated": "17 08 2026 15:26:12 (UTC)",
     "license": "Unlicense license",
-    "name": "HostDirectory"
+    "lastUpdated": "17 08 2026 16:20:39 (UTC)"
   },
   "entries": [
     {
       "id": 1,
+      "author": "xRuffKez CTI",
+      "title": "xRuffKez CTI (Cyber Threat Intelligence) - active domain feed",
+      "name": "xRuffKez CTI (Cyber Threat Intelligence) - active domain feed",
+      "description": "Active Threats which are not included in Hagezi TIF",
+      "homepage": "https://github.com/DNSBunker/CTI",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "affiliate",
+        "telemetry",
+        "phishing",
+        "scam",
+        "fake",
+        "cryptojacking"
+      ],
+      "mainMirror": "https://github.com/DNSBunker/CTI/raw/refs/heads/main/domains.txt",
+      "alternativeMirrors": [
+        ""
+      ],
+      "entries": 4589,
+      "formatType": "domains-subdomains",
+      "license": "GPL-2.0-only",
+      "expiry": null,
+      "lastModified": "2026-08-17T15:24:39Z",
+      "version": null
+    },
+    {
+      "id": 2,
+      "author": "AdAway",
+      "title": "AdAway Hosts",
+      "name": "AdAway Hosts",
+      "description": "Hosts file containing ad domains from AdAway project.",
+      "homepage": "https://github.com/AdAway/adaway.github.io/",
+      "tags": [
+        "ads",
+        "tracking",
+        "adblock"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt",
+      "alternativeMirrors": [
+        "https://gitlab.com/AdAway/adaway.github.io/-/raw/master/hosts.txt"
+      ],
+      "entries": 6542,
+      "formatType": "hosts",
+      "license": "CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)",
+      "expiry": "Unknown",
+      "lastModified": "Unknown",
+      "version": "Unknown"
+    },
+    {
+      "id": 3,
       "author": "add.2o7Net",
       "title": "FadeMind 2o7Net",
       "name": "FadeMind 2o7Net",
@@ -30,7 +82,7 @@
       "version": "Unknown"
     },
     {
-      "id": 2,
+      "id": 4,
       "author": "add.Dead",
       "title": "FadeMind 2o7Net",
       "name": "FadeMind Dead Hosts",
@@ -53,7 +105,7 @@
       "version": "Unknown"
     },
     {
-      "id": 3,
+      "id": 5,
       "author": "add.Risk",
       "title": "FadeMind 2o7Net",
       "name": "FadeMind Risk Hosts",
@@ -76,7 +128,7 @@
       "version": "Unknown"
     },
     {
-      "id": 4,
+      "id": 6,
       "author": "add.Spam",
       "title": "FadeMind 2o7Net",
       "name": "FadeMind Spam Hosts",
@@ -99,7 +151,7 @@
       "version": "Unknown"
     },
     {
-      "id": 5,
+      "id": 7,
       "author": "Dan Pollock – someonewhocares",
       "title": null,
       "name": "Dan Pollock - someonewhocares",
@@ -130,7 +182,82 @@
       "version": "Unknown"
     },
     {
-      "id": 6,
+      "id": 8,
+      "author": "Mitchell Krog's - Badd Boyz Hosts",
+      "title": "Mitchell Krog's - Badd Boyz Hosts",
+      "name": "Mitchell Krog's - Badd Boyz Hosts",
+      "description": "Sketchy domains and Bad Referrers from my Nginx and Apache Bad Bot and Spam Referrer Blockers",
+      "homepage": "https://github.com/mitchellkrogza/Badd-Boyz-Hosts",
+      "tags": [
+        "malware",
+        "security",
+        "referrers",
+        "spam",
+        "sketchy"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/refs/heads/master/hosts",
+      "alternativeMirrors": [
+        "https://winhelp2002.mvps.org/hosts.txt"
+      ],
+      "entries": 1386,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": "Unknown",
+      "version": null
+    },
+    {
+      "id": 9,
+      "author": "StevenBlack",
+      "title": "StevenBlack/hosts extension fakenews",
+      "name": "StevenBlack's Unified Hosts with the fakenews-only extension",
+      "description": "A unified hosts file that blocks ads, tracking, malware, and other unwanted content. Combines multiple adblocking lists into one comprehensive blocklist.",
+      "homepage": "https://github.com/StevenBlack/hosts",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "security",
+        "fakenews"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts",
+      "alternativeMirrors": [
+        "https://gitlab.com/StevenBlack/hosts/-/raw/master/alternates/fakenews-only/hosts"
+      ],
+      "entries": 2187,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": "14 August 2026 00:45:11 (UTC)",
+      "version": "Unknown"
+    },
+    {
+      "id": 10,
+      "author": "StevenBlack",
+      "title": "StevenBlack/hosts extension gambling",
+      "name": "StevenBlack's Unified Hosts with the gambling-only extension",
+      "description": "A unified hosts file that blocks ads, tracking, malware, and other unwanted content. Combines multiple adblocking lists into one comprehensive blocklist.",
+      "homepage": "https://github.com/StevenBlack/hosts",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "security",
+        "gambling"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts",
+      "alternativeMirrors": [
+        "https://gitlab.com/StevenBlack/hosts/-/raw/main/alternates/gambling-only/hosts"
+      ],
+      "entries": 6528,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": "14 August 2026 00:45:20 (UTC)",
+      "version": "Unknown"
+    },
+    {
+      "id": 11,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts extension porn",
       "name": "StevenBlack's Unified Hosts with the porn-only extension",
@@ -155,7 +282,7 @@
       "version": "Unknown"
     },
     {
-      "id": 7,
+      "id": 12,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts extension social",
       "name": "StevenBlack's Unified Hosts with the social-only extension",
@@ -180,7 +307,31 @@
       "version": "Unknown"
     },
     {
-      "id": 8,
+      "id": 13,
+      "author": "StevenBlack",
+      "title": "Hosts contributed by Steven Black",
+      "name": "StevenBlack's Unified Hosts Ad Hoc",
+      "description": "A unified hosts file that blocks ads, tracking, malware, and other unwanted content. Combines multiple adblocking lists into one comprehensive blocklist.",
+      "homepage": "https://github.com/StevenBlack/hosts",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "security"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
+      "alternativeMirrors": [
+        "https://gitlab.com/StevenBlack/hosts/-/raw/master/data/StevenBlack/hosts"
+      ],
+      "entries": 2850,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": null,
+      "version": "Unknown"
+    },
+    {
+      "id": 14,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts",
       "name": "StevenBlack's Unified Hosts",
@@ -204,7 +355,7 @@
       "version": "Unknown"
     },
     {
-      "id": 9,
+      "id": 15,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts with the porn extension",
       "name": "StevenBlack's Unified Hosts with the porn extension",
