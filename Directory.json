@@ -1,9 +1,9 @@
 {
   "hostlistdirectoryinfo": {
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
-    "name": "HostDirectory",
     "license": "Unlicense license",
-    "lastUpdated": "23 08 2026 05:22:17 (UTC)"
+    "lastUpdated": "23 08 2026 06:28:50 (UTC)",
+    "name": "HostDirectory"
   },
   "entries": [
     {
@@ -28,11 +28,11 @@
       "alternativeMirrors": [
         ""
       ],
-      "entries": 6253,
+      "entries": 6265,
       "formatType": "domains-subdomains",
       "license": "GPL-2.0-only",
       "expiry": null,
-      "lastModified": "2026-08-23T04:30:34Z",
+      "lastModified": "2026-08-23T05:30:36Z",
       "version": null
     },
     {
@@ -259,6 +259,31 @@
     {
       "id": 11,
       "author": "StevenBlack",
+      "title": "StevenBlack/hosts extension porn",
+      "name": "StevenBlack's Unified Hosts with the porn-only extension",
+      "description": "A unified hosts file that blocks ads, tracking, malware, and other unwanted content. Combines multiple adblocking lists into one comprehensive blocklist.",
+      "homepage": "https://github.com/StevenBlack/hosts",
+      "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "security",
+        "porn"
+      ],
+      "mainMirror": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts",
+      "alternativeMirrors": [
+        "https://gitlab.com/StevenBlack/hosts/-/raw/master/alternates/porn-only/hosts"
+      ],
+      "entries": 76751,
+      "formatType": "hosts",
+      "license": "MIT License",
+      "expiry": "Unknown",
+      "lastModified": "20 August 2026 14:01:30 (UTC)",
+      "version": "Unknown"
+    },
+    {
+      "id": 12,
+      "author": "StevenBlack",
       "title": "StevenBlack/hosts extension social",
       "name": "StevenBlack's Unified Hosts with the social-only extension",
       "description": "A unified hosts file that blocks ads, tracking, malware, and other unwanted content. Combines multiple adblocking lists into one comprehensive blocklist.",
@@ -282,7 +307,7 @@
       "version": "Unknown"
     },
     {
-      "id": 12,
+      "id": 13,
       "author": "StevenBlack",
       "title": "Hosts contributed by Steven Black",
       "name": "StevenBlack's Unified Hosts Ad Hoc",
@@ -306,7 +331,7 @@
       "version": "Unknown"
     },
     {
-      "id": 13,
+      "id": 14,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts",
       "name": "StevenBlack's Unified Hosts",
@@ -330,7 +355,7 @@
       "version": "Unknown"
     },
     {
-      "id": 14,
+      "id": 15,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts with the porn extension",
       "name": "StevenBlack's Unified Hosts with the porn extension",
