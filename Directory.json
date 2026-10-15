@@ -2,30 +2,6 @@
   "entries": [
     {
       "id": 1,
-      "author": "Hagezi",
-      "title": "HaGeZi's Light DNS Blocklist",
-      "name": "Hagezi Multi LIGHT - Basic protection",
-      "description": "Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics and some Badware. A size-optimized version of the Multi NORMAL.",
-      "homepage": "https://github.com/hagezi/dns-blocklists",
-      "tags": [
-        "ads",
-        "trackers",
-        "malware"
-      ],
-      "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/light.txt",
-      "alternativeMirrors": [
-        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt",
-        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/light.txt"
-      ],
-      "entries": 88088,
-      "formatType": "domains-subdomains",
-      "license": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
-      "expiry": "1 day",
-      "lastModified": "30 Jul 2026 07:38 UTC",
-      "version": "2026.0730.0738.30"
-    },
-    {
-      "id": 2,
       "author": "xRuffKez CTI",
       "title": "xRuffKez CTI (Cyber Threat Intelligence) - active domain feed",
       "name": "xRuffKez CTI (Cyber Threat Intelligence) - active domain feed",
@@ -54,7 +30,7 @@
       "version": null
     },
     {
-      "id": 3,
+      "id": 2,
       "author": "AdAway",
       "title": "AdAway Hosts",
       "name": "AdAway Hosts",
@@ -77,7 +53,7 @@
       "version": "Unknown"
     },
     {
-      "id": 4,
+      "id": 3,
       "author": "add.2o7Net",
       "title": "FadeMind 2o7Net",
       "name": "FadeMind 2o7Net",
@@ -100,7 +76,7 @@
       "version": "Unknown"
     },
     {
-      "id": 5,
+      "id": 4,
       "author": "add.Dead",
       "title": "FadeMind 2o7Net",
       "name": "FadeMind Dead Hosts",
@@ -123,7 +99,7 @@
       "version": "Unknown"
     },
     {
-      "id": 6,
+      "id": 5,
       "author": "add.Risk",
       "title": "FadeMind 2o7Net",
       "name": "FadeMind Risk Hosts",
@@ -146,7 +122,7 @@
       "version": "Unknown"
     },
     {
-      "id": 7,
+      "id": 6,
       "author": "add.Spam",
       "title": "FadeMind 2o7Net",
       "name": "FadeMind Spam Hosts",
@@ -169,7 +145,7 @@
       "version": "Unknown"
     },
     {
-      "id": 8,
+      "id": 7,
       "author": "Dan Pollock – someonewhocares",
       "title": null,
       "name": "Dan Pollock - someonewhocares",
@@ -200,7 +176,7 @@
       "version": "Unknown"
     },
     {
-      "id": 9,
+      "id": 8,
       "author": "Mitchell Krog's - Badd Boyz Hosts",
       "title": "Mitchell Krog's - Badd Boyz Hosts",
       "name": "Mitchell Krog's - Badd Boyz Hosts",
@@ -225,7 +201,7 @@
       "version": null
     },
     {
-      "id": 10,
+      "id": 9,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts extension fakenews",
       "name": "StevenBlack's Unified Hosts with the fakenews-only extension",
@@ -250,7 +226,7 @@
       "version": "Unknown"
     },
     {
-      "id": 11,
+      "id": 10,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts extension gambling",
       "name": "StevenBlack's Unified Hosts with the gambling-only extension",
@@ -275,7 +251,7 @@
       "version": "Unknown"
     },
     {
-      "id": 12,
+      "id": 11,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts extension porn",
       "name": "StevenBlack's Unified Hosts with the porn-only extension",
@@ -300,7 +276,7 @@
       "version": "Unknown"
     },
     {
-      "id": 13,
+      "id": 12,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts extension social",
       "name": "StevenBlack's Unified Hosts with the social-only extension",
@@ -325,7 +301,7 @@
       "version": "Unknown"
     },
     {
-      "id": 14,
+      "id": 13,
       "author": "StevenBlack",
       "title": "Hosts contributed by Steven Black",
       "name": "StevenBlack's Unified Hosts Ad Hoc",
@@ -349,7 +325,7 @@
       "version": "Unknown"
     },
     {
-      "id": 15,
+      "id": 14,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts",
       "name": "StevenBlack's Unified Hosts",
@@ -373,7 +349,7 @@
       "version": "Unknown"
     },
     {
-      "id": 16,
+      "id": 15,
       "author": "StevenBlack",
       "title": "StevenBlack/hosts with the porn extension",
       "name": "StevenBlack's Unified Hosts with the porn extension",
@@ -399,9 +375,9 @@
     }
   ],
   "hostlistdirectoryinfo": {
-    "homepage": "https://github.com/DimonByte/HostlistDirectory",
     "license": "Unlicense license",
-    "lastUpdated": "15 10 2026 10:43:54 (UTC)",
-    "name": "HostDirectory"
+    "name": "HostDirectory",
+    "homepage": "https://github.com/DimonByte/HostlistDirectory",
+    "lastUpdated": "15 10 2026 15:37:38 (UTC)"
   }
 }
