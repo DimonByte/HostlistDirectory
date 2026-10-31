@@ -1,0 +1,16 @@
+{
+    "name": "1Hosts (Lite)",
+    "description": "Balanced list that blocks ads, trackers and malware with minimal breakage.",
+    "homepage": "https://badmojr.github.io/1Hosts/",
+    "license": "MPL-2.0",
+    "tags": [
+        "ads",
+        "trackers",
+        "malware"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/badmojr/1Hosts/main/Lite/domains.txt",
+    "alternativeMirrors": [
+        "https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/domains.txt",
+        "https://badmojr.github.io/1Hosts/Lite/domains.txt"
+    ]
+}

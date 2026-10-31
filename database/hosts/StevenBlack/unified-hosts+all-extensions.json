@@ -1,0 +1,19 @@
+{
+    "name": "StevenBlack's Unified Hosts + all extensions",
+    "description": "Unified hosts plus the fake news, gambling, porn and social media extensions.",
+    "homepage": "https://github.com/StevenBlack/hosts",
+    "license": "MIT",
+    "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "fakenews",
+        "gambling",
+        "porn",
+        "social"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts",
+    "alternativeMirrors": [
+        "https://gitlab.com/StevenBlack/hosts/-/raw/master/alternates/fakenews-gambling-porn-social/hosts"
+    ]
+}

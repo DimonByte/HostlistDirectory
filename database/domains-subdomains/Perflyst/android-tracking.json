@@ -1,0 +1,12 @@
+{
+    "name": "Perflyst's Android Tracking",
+    "description": "Android app trackers.",
+    "homepage": "https://github.com/Perflyst/PiHoleBlocklist",
+    "license": "MIT",
+    "tags": [
+        "trackers",
+        "android"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt",
+    "alternativeMirrors": []
+}

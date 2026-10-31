@@ -1,0 +1,14 @@
+{
+    "name": "No Google",
+    "description": "Blocks Google services and trackers. Will break Google products.",
+    "homepage": "https://github.com/nickspaargaren/no-google",
+    "license": "MIT",
+    "tags": [
+        "google",
+        "trackers",
+        "aggressive"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt",
+    "alternativeMirrors": [],
+    "notes": "Blocks Google itself; expect Google services to stop working."
+}

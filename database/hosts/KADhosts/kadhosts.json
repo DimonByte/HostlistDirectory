@@ -1,0 +1,14 @@
+{
+    "name": "KADhosts",
+    "description": "Polish anti-scam and anti-malware hosts list (KAD - Komunikaty Antyspamowe).",
+    "homepage": "https://github.com/FiltersHeroes/KADhosts",
+    "license": "CC BY-SA 4.0",
+    "tags": [
+        "security",
+        "scam",
+        "malware",
+        "regional-pl"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt",
+    "alternativeMirrors": []
+}

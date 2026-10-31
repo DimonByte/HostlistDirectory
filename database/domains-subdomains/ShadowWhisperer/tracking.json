@@ -1,0 +1,11 @@
+{
+    "name": "ShadowWhisperer's Tracking List",
+    "description": "Tracking and telemetry.",
+    "homepage": "https://github.com/ShadowWhisperer/BlockLists",
+    "tags": [
+        "trackers",
+        "telemetry"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking",
+    "alternativeMirrors": []
+}

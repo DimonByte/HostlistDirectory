@@ -1,0 +1,12 @@
+{
+    "name": "Perflyst's Smart-TV Blocklist",
+    "description": "Smart TV telemetry and ads (Samsung, LG, etc.).",
+    "homepage": "https://github.com/Perflyst/PiHoleBlocklist",
+    "license": "MIT",
+    "tags": [
+        "telemetry",
+        "smart-tv"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt",
+    "alternativeMirrors": []
+}

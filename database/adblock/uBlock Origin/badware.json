@@ -1,0 +1,14 @@
+{
+    "name": "uBlock₀ filters – Badware risks",
+    "description": "Sites documented to put users at risk (scareware, fake downloads, etc.).",
+    "homepage": "https://github.com/uBlockOrigin/uAssets",
+    "license": "GPL-3.0",
+    "tags": [
+        "security",
+        "badware",
+        "browser"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
+    "alternativeMirrors": [],
+    "notes": "Browser filter list; only part of it applies to DNS blocking."
+}

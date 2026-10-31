@@ -1,0 +1,18 @@
+{
+    "name": "HaGeZi's Threat Intelligence Feeds",
+    "homepage": "https://github.com/hagezi/dns-blocklists-legacy",
+    "license": "GPL-3.0",
+    "tags": [
+        "security",
+        "malware",
+        "phishing",
+        "scam",
+        "cryptojacking",
+        "spam"
+    ],
+    "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/domains/tif.txt",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists-legacy/main/domains/tif.txt"
+    ],
+    "notes": "Very large list."
+}

@@ -1,0 +1,14 @@
+{
+    "name": "AdGuard DNS filter",
+    "description": "AdGuard's DNS filter built from AdGuard Base, Tracking Protection, Mobile Ads and EasyList/EasyPrivacy.",
+    "homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
+    "license": "GPL-3.0",
+    "tags": [
+        "ads",
+        "trackers"
+    ],
+    "mainMirror": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/gh-pages/Filters/filter.txt"
+    ]
+}

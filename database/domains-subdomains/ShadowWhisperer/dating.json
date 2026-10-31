@@ -1,0 +1,10 @@
+{
+    "name": "ShadowWhisperer's Dating List",
+    "description": "Dating sites.",
+    "homepage": "https://github.com/ShadowWhisperer/BlockLists",
+    "tags": [
+        "dating"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dating",
+    "alternativeMirrors": []
+}

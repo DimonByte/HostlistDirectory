@@ -1,0 +1,15 @@
+{
+    "name": "HaGeZi's Entropy NRDs/DGAs (last 30 days)",
+    "homepage": "https://github.com/hagezi/nrd",
+    "license": "GPL-3.0",
+    "tags": [
+        "security",
+        "nrd",
+        "aggressive"
+    ],
+    "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/domains/dga30.txt",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/hagezi/nrd/main/domains/dga30.txt"
+    ],
+    "notes": "Very large and unfiltered; use at your own risk. The NRD bands don't overlap, so combine them for longer coverage."
+}

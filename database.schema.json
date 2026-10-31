@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/DimonByte/HostlistDirectory/database.schema.json",
+  "title": "HostlistDirectory database entry",
+  "description": "One list. Lives at database/<format>/<author>/<list>.json. Values found in the list's own header win over the plain fields here; 'overrides' win over everything.",
+  "type": "object",
+  "required": ["name", "mainMirror"],
+  "properties": {
+    "name": { "type": "string", "description": "Display name." },
+    "author": { "type": "string", "description": "Display author. Defaults to the author folder name." },
+    "description": { "type": "string", "description": "Fallback description, used when the list header has none." },
+    "homepage": { "type": "string", "format": "uri", "description": "Fallback homepage." },
+    "license": { "type": "string", "description": "Licence (SPDX id where possible). Beats the header, which often only links to a LICENSE file." },
+    "tags": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "mainMirror": { "type": "string", "format": "uri", "description": "Primary download URL." },
+    "alternativeMirrors": { "type": "array", "items": { "type": "string", "format": "uri", "minLength": 1 }, "description": "Tried in order when the main mirror fails." },
+    "enabled": { "type": "boolean", "default": true, "description": "false keeps the file but leaves the list out of Directory.json." },
+    "notes": { "type": "string", "description": "Short caveat shown to users, e.g. 'Aggressive: may block some legitimate sites.'" },
+    "overrides": {
+      "type": "object",
+      "description": "Forced values that ignore the list header.",
+      "propertyNames": { "enum": ["title", "description", "homepage", "license", "expiry", "lastModified", "version", "declaredEntries", "syntax"] },
+      "additionalProperties": { "type": "string" }
+    },
+    "patterns": {
+      "type": "object",
+      "description": "Custom regexes per field for headers the generic parser can't read. Applied per line to the first 1000 lines; capture group 1 is the value.",
+      "propertyNames": { "enum": ["title", "description", "homepage", "license", "expiry", "lastModified", "version", "declaredEntries", "syntax"] },
+      "additionalProperties": { "type": "array", "items": { "type": "string" } }
+    },
+    "detectionMethods": { "type": "object", "description": "Deprecated v1 format. Still read: user-specified becomes an override, text-locate/regex becomes a pattern." }
+  },
+  "additionalProperties": false
+}

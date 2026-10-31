@@ -1,0 +1,14 @@
+{
+    "name": "The Block List Project: basic",
+    "description": "Basic starter list.",
+    "homepage": "https://github.com/blocklistproject/Lists",
+    "license": "Unlicense",
+    "tags": [
+        "ads",
+        "trackers"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/blocklistproject/Lists/master/basic.txt",
+    "alternativeMirrors": [
+        "https://blocklistproject.github.io/Lists/basic.txt"
+    ]
+}

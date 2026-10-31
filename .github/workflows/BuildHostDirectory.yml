@@ -2,37 +2,54 @@ name: Build Host Directory
 
 on:
   schedule:
-    # Runs every day at 01:00 UTC
-    - cron: "0 * * * *"
+    # Every 6 hours (most lists update every 4-12 hours). Only commits when something actually changed.
+    - cron: "17 */6 * * *"
   workflow_dispatch: # allows manual trigger too
+  push:
+    branches: [main, master]
+    paths:
+      - "database/**"
+      - "src/**"
+      - ".github/workflows/BuildHostDirectory.yml"
 
 permissions:
   contents: write
 
+concurrency:
+  group: build-host-directory
+  cancel-in-progress: false
+
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true   # ensures GITHUB_TOKEN is stored for push
-          fetch-depth: 0              # fetch full history so commits work properly
 
-      - name: Run Host Directory Builder
-        run: pwsh -File ./HostDirectoryBuilder.ps1
-      
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+
+      - name: Validate database
+        run: dotnet run --project src/HostlistDirectory -c Release -- validate
+
+      - name: Build Directory.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # used for repository lookups (license, archived, stars)
+        run: dotnet run --project src/HostlistDirectory -c Release --no-build -- build
+
       - name: Commit and push changes
-        shell: bash
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add Directory.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Automated update of Directory.json"
+            git pull --rebase --autostash
             git push
           fi
-

@@ -1,0 +1,15 @@
+{
+    "name": "EasyPrivacy",
+    "description": "Removes tracking: web bugs, tracking scripts and data collectors.",
+    "homepage": "https://easylist.to/",
+    "license": "GPL-3.0 / CC-BY-SA-3.0",
+    "tags": [
+        "trackers",
+        "browser"
+    ],
+    "mainMirror": "https://easylist.to/easylist/easyprivacy.txt",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt"
+    ],
+    "notes": "Browser filter list; only part of it applies to DNS blocking."
+}

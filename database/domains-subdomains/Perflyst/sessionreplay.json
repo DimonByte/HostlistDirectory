@@ -1,0 +1,12 @@
+{
+    "name": "Perflyst's Session Replay",
+    "description": "Session-replay scripts that record user interactions.",
+    "homepage": "https://github.com/Perflyst/PiHoleBlocklist",
+    "license": "MIT",
+    "tags": [
+        "trackers",
+        "session-replay"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SessionReplay.txt",
+    "alternativeMirrors": []
+}

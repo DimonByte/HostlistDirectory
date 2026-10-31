@@ -1,0 +1,13 @@
+{
+    "name": "oisd nsfw",
+    "description": "Porn / shock / NSFW sites.",
+    "homepage": "https://oisd.nl",
+    "tags": [
+        "porn",
+        "nsfw"
+    ],
+    "mainMirror": "https://nsfw.oisd.nl/domainswild",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_nsfw.txt"
+    ]
+}

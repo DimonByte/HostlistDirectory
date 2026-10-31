@@ -1,0 +1,12 @@
+{
+    "name": "Phishing.Database (active domains)",
+    "description": "Actively resolving phishing domains, continuously re-tested.",
+    "homepage": "https://github.com/mitchellkrogza/Phishing.Database",
+    "license": "MIT",
+    "tags": [
+        "security",
+        "phishing"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt",
+    "alternativeMirrors": []
+}

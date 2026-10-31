@@ -1,0 +1,12 @@
+{
+    "name": "Phishing Army",
+    "description": "Phishing domains aggregated from PhishTank, OpenPhish, CERT.pl and others.",
+    "homepage": "https://phishing.army/",
+    "license": "CC BY-NC 4.0",
+    "tags": [
+        "security",
+        "phishing"
+    ],
+    "mainMirror": "https://phishing.army/download/phishing_army_blocklist.txt",
+    "alternativeMirrors": []
+}

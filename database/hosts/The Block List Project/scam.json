@@ -1,0 +1,14 @@
+{
+    "name": "The Block List Project: scam",
+    "description": "Scam sites.",
+    "homepage": "https://github.com/blocklistproject/Lists",
+    "license": "Unlicense",
+    "tags": [
+        "security",
+        "scam"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt",
+    "alternativeMirrors": [
+        "https://blocklistproject.github.io/Lists/scam.txt"
+    ]
+}

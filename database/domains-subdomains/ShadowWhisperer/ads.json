@@ -1,0 +1,10 @@
+{
+    "name": "ShadowWhisperer's Ads List",
+    "description": "Advertisements, banners, widgets and push notifications.",
+    "homepage": "https://github.com/ShadowWhisperer/BlockLists",
+    "tags": [
+        "ads"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads",
+    "alternativeMirrors": []
+}

@@ -1,0 +1,17 @@
+{
+    "name": "HaGeZi's Multi LIGHT",
+    "homepage": "https://github.com/hagezi/dns-blocklists",
+    "license": "GPL-3.0",
+    "tags": [
+        "ads",
+        "trackers",
+        "telemetry",
+        "badware"
+    ],
+    "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/light.txt",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt",
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/light.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/light.txt"
+    ]
+}

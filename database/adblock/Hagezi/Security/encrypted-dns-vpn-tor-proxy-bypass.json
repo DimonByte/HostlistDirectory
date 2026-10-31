@@ -1,0 +1,18 @@
+{
+    "name": "HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass",
+    "homepage": "https://github.com/hagezi/dns-blocklists",
+    "license": "GPL-3.0",
+    "tags": [
+        "security",
+        "doh",
+        "vpn",
+        "proxy",
+        "bypass"
+    ],
+    "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh-vpn-proxy-bypass.txt",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt",
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/doh-vpn-proxy-bypass.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/doh-vpn-proxy-bypass.txt"
+    ]
+}

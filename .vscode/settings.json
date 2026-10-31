@@ -1,0 +1,8 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["/database/**/*.json"],
+      "url": "./database.schema.json"
+    }
+  ]
+}

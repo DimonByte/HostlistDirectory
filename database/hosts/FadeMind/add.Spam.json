@@ -1,0 +1,13 @@
+{
+    "name": "FadeMind Spam Hosts",
+    "description": "Spam domains.",
+    "homepage": "https://github.com/FadeMind/hosts.extras",
+    "license": "MIT",
+    "tags": [
+        "spam"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
+    "alternativeMirrors": [
+        "https://gitlab.com/FadeMind/hosts.extras/-/raw/master/add.Spam/hosts"
+    ]
+}

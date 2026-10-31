@@ -1,0 +1,18 @@
+{
+    "name": "HaGeZi's Multi NORMAL",
+    "homepage": "https://github.com/hagezi/dns-blocklists",
+    "license": "GPL-3.0",
+    "tags": [
+        "ads",
+        "trackers",
+        "telemetry",
+        "phishing",
+        "malware"
+    ],
+    "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/multi.txt",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/multi.txt",
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/multi.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/rpz/multi.txt"
+    ]
+}

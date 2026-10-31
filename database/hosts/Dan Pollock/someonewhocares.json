@@ -1,0 +1,22 @@
+{
+    "name": "Dan Pollock's hosts (someonewhocares)",
+    "description": "How to make the internet not suck (as much). Blocks ads, trackers, malware, spyware, hijackers and shock sites.",
+    "homepage": "https://someonewhocares.org/hosts/",
+    "license": "Non-commercial use with attribution",
+    "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "spyware",
+        "spam",
+        "hijack",
+        "shock"
+    ],
+    "mainMirror": "https://someonewhocares.org/hosts/zero/hosts",
+    "alternativeMirrors": [],
+    "patterns": {
+        "lastModified": [
+            "^#\\s*Last updated:\\s*(.*)$"
+        ]
+    }
+}

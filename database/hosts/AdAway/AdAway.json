@@ -1,61 +1,15 @@
 {
-    "name": "AdAway Hosts",
-    "description": "Hosts file containing ad domains from AdAway project.",
+    "name": "AdAway default blocklist",
+    "description": "Blocks mobile ad providers and some analytics providers.",
     "homepage": "https://github.com/AdAway/adaway.github.io",
-    "tags": ["ads", "tracking", "adblock"],
+    "license": "CC-BY-3.0",
+    "tags": [
+        "ads",
+        "trackers",
+        "mobile"
+    ],
     "mainMirror": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt",
     "alternativeMirrors": [
-        "https://gitlab.com/AdAway/adaway.github.io/-/raw/master/hosts.txt"
-    ],
-    "detectionMethods": {
-        "title": {
-            "type": "user-specified",
-            "value": [
-                "AdAway Hosts"
-            ],
-            "priority": 1
-        },
-        "description": {
-            "type": "user-specified",
-            "value": [
-                "Hosts file containing ad domains from AdAway project."
-            ],
-            "priority": 2
-        },
-        "homepage": {
-            "type": "user-specified",
-            "value": [
-                "https://github.com/AdAway/adaway.github.io/"
-            ],
-            "priority": 3
-        },
-        "license": {
-            "type": "user-specified",
-            "value": [
-                "CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)"
-            ],
-            "priority": 4
-        },
-        "expiry": {
-            "type": "user-specified",
-            "value": [
-                "Unknown"
-            ],
-            "priority": 5
-        },
-        "lastModified": {
-            "type": "user-specified",
-            "value": [
-                "Unknown"
-            ],
-            "priority": 6
-        },
-        "version": {
-            "type": "user-specified",
-            "value": [
-                "Unknown"
-            ],
-            "priority": 7
-        }
-    }
+        "https://adaway.org/hosts.txt"
+    ]
 }

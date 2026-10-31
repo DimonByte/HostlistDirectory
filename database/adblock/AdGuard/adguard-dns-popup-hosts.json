@@ -1,0 +1,14 @@
+{
+    "name": "AdGuard DNS Popup Hosts filter",
+    "description": "Domains of pop-up ad networks.",
+    "homepage": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
+    "license": "GPL-3.0",
+    "tags": [
+        "ads",
+        "popups"
+    ],
+    "mainMirror": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/gh-pages/Filters/adguard_popup_filter.txt"
+    ]
+}

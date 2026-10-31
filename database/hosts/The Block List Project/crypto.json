@@ -1,0 +1,14 @@
+{
+    "name": "The Block List Project: crypto",
+    "description": "Cryptojacking / crypto mining.",
+    "homepage": "https://github.com/blocklistproject/Lists",
+    "license": "Unlicense",
+    "tags": [
+        "security",
+        "cryptojacking"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/blocklistproject/Lists/master/crypto.txt",
+    "alternativeMirrors": [
+        "https://blocklistproject.github.io/Lists/crypto.txt"
+    ]
+}

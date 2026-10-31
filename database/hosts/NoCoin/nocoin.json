@@ -1,0 +1,12 @@
+{
+    "name": "NoCoin Filter List",
+    "description": "Blocks browser-based crypto miners.",
+    "homepage": "https://github.com/hoshsadiq/adblock-nocoin-list",
+    "license": "MIT",
+    "tags": [
+        "security",
+        "cryptojacking"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
+    "alternativeMirrors": []
+}

@@ -1,0 +1,14 @@
+{
+    "name": "The Block List Project: smart-tv",
+    "description": "Smart TV telemetry.",
+    "homepage": "https://github.com/blocklistproject/Lists",
+    "license": "Unlicense",
+    "tags": [
+        "telemetry",
+        "smart-tv"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/blocklistproject/Lists/master/smart-tv.txt",
+    "alternativeMirrors": [
+        "https://blocklistproject.github.io/Lists/smart-tv.txt"
+    ]
+}

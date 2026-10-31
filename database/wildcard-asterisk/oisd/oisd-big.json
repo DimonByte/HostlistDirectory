@@ -1,0 +1,15 @@
+{
+    "name": "oisd big",
+    "description": "Block. Don't break. Ads, trackers, malware, phishing.",
+    "homepage": "https://oisd.nl",
+    "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "phishing"
+    ],
+    "mainMirror": "https://big.oisd.nl/domainswild",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_big.txt"
+    ]
+}

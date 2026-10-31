@@ -1,0 +1,14 @@
+{
+    "name": "HaGeZi's Encrypted DNS Servers (DoH/DoT/DoQ)",
+    "homepage": "https://github.com/hagezi/dns-blocklists-legacy",
+    "license": "GPL-3.0",
+    "tags": [
+        "security",
+        "doh",
+        "bypass"
+    ],
+    "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/domains/doh.txt",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists-legacy/main/domains/doh.txt"
+    ]
+}

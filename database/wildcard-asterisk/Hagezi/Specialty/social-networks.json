@@ -1,0 +1,14 @@
+{
+    "name": "HaGeZi's Social Networks Blocklist",
+    "homepage": "https://github.com/hagezi/dns-blocklists",
+    "license": "GPL-3.0",
+    "tags": [
+        "social"
+    ],
+    "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/social.txt",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/social.txt",
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/social.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/wildcard/social.txt"
+    ]
+}

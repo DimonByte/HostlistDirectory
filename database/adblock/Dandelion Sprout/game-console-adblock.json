@@ -1,0 +1,13 @@
+{
+    "name": "Dandelion Sprout's Game Console Adblock List",
+    "description": "Ads and trackers on PlayStation, Xbox, Nintendo and other consoles.",
+    "homepage": "https://github.com/DandelionSprout/adfilt",
+    "license": "Dandelicence",
+    "tags": [
+        "ads",
+        "trackers",
+        "consoles"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt",
+    "alternativeMirrors": []
+}

@@ -1,0 +1,18 @@
+{
+    "name": "1Hosts (Xtra)",
+    "description": "Strict list for maximum blocking of ads, trackers, telemetry and malware.",
+    "homepage": "https://badmojr.github.io/1Hosts/",
+    "license": "MPL-2.0",
+    "tags": [
+        "ads",
+        "trackers",
+        "malware",
+        "aggressive"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/badmojr/1Hosts/main/Xtra/adblock.txt",
+    "alternativeMirrors": [
+        "https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/adblock.txt",
+        "https://badmojr.github.io/1Hosts/Xtra/adblock.txt"
+    ],
+    "notes": "Aggressive: may block some legitimate sites."
+}

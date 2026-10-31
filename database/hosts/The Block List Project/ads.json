@@ -1,0 +1,13 @@
+{
+    "name": "The Block List Project: ads",
+    "description": "Ad servers.",
+    "homepage": "https://github.com/blocklistproject/Lists",
+    "license": "Unlicense",
+    "tags": [
+        "ads"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt",
+    "alternativeMirrors": [
+        "https://blocklistproject.github.io/Lists/ads.txt"
+    ]
+}

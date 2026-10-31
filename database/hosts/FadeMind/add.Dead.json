@@ -1,0 +1,14 @@
+{
+    "name": "FadeMind Dead Hosts",
+    "description": "Domains that no longer resolve, kept to shrink other lists.",
+    "homepage": "https://github.com/FadeMind/hosts.extras",
+    "license": "MIT",
+    "tags": [
+        "dead",
+        "cleanup"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts",
+    "alternativeMirrors": [
+        "https://gitlab.com/FadeMind/hosts.extras/-/raw/master/add.Dead/hosts"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "The Block List Project: gambling",
+    "description": "Gambling sites.",
+    "homepage": "https://github.com/blocklistproject/Lists",
+    "license": "Unlicense",
+    "tags": [
+        "gambling"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/blocklistproject/Lists/master/gambling.txt",
+    "alternativeMirrors": [
+        "https://blocklistproject.github.io/Lists/gambling.txt"
+    ]
+}

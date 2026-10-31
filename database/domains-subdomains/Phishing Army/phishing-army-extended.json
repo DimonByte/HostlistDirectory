@@ -1,0 +1,12 @@
+{
+    "name": "Phishing Army Extended",
+    "description": "Phishing Army plus additional, more aggressive sources.",
+    "homepage": "https://phishing.army/",
+    "license": "CC BY-NC 4.0",
+    "tags": [
+        "security",
+        "phishing"
+    ],
+    "mainMirror": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
+    "alternativeMirrors": []
+}

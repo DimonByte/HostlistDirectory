@@ -1,0 +1,12 @@
+{
+    "name": "Peter Lowe's Ad and tracking server list",
+    "description": "Long-running, hand-maintained list of ad and tracking servers; very low false-positive rate.",
+    "homepage": "https://pgl.yoyo.org/adservers/",
+    "license": "McRae General Public License",
+    "tags": [
+        "ads",
+        "trackers"
+    ],
+    "mainMirror": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
+    "alternativeMirrors": []
+}

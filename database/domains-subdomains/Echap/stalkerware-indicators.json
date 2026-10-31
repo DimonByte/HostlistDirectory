@@ -1,0 +1,12 @@
+{
+    "name": "Stalkerware Indicators",
+    "description": "Domains used by stalkerware / spyware apps.",
+    "homepage": "https://github.com/AssoEchap/stalkerware-indicators",
+    "tags": [
+        "security",
+        "spyware",
+        "stalkerware"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
+    "alternativeMirrors": []
+}

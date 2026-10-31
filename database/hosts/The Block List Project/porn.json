@@ -1,0 +1,13 @@
+{
+    "name": "The Block List Project: porn",
+    "description": "Porn sites.",
+    "homepage": "https://github.com/blocklistproject/Lists",
+    "license": "Unlicense",
+    "tags": [
+        "porn"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt",
+    "alternativeMirrors": [
+        "https://blocklistproject.github.io/Lists/porn.txt"
+    ]
+}

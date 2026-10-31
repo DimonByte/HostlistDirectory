@@ -1,0 +1,24 @@
+{
+    "name": "HaGeZi's Multi ULTIMATE",
+    "homepage": "https://github.com/hagezi/dns-blocklists",
+    "license": "GPL-3.0",
+    "tags": [
+        "ads",
+        "trackers",
+        "telemetry",
+        "affiliate",
+        "phishing",
+        "malware",
+        "scam",
+        "fake",
+        "cryptojacking",
+        "aggressive"
+    ],
+    "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/ultimate.txt",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/ultimate.txt",
+        "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/ultimate.txt",
+        "https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/rpz/ultimate.txt"
+    ],
+    "notes": "Very aggressive: expect to allowlist things."
+}

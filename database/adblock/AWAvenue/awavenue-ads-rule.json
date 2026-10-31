@@ -1,0 +1,11 @@
+{
+    "name": "AWAvenue Ads Rule",
+    "description": "Small, low-false-positive list targeting in-app ad SDKs.",
+    "homepage": "https://github.com/TG-Twilight/AWAvenue-Ads-Rule",
+    "tags": [
+        "ads",
+        "mobile"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
+    "alternativeMirrors": []
+}

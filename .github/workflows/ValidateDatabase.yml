@@ -1,0 +1,25 @@
+name: Validate database
+
+# Runs on pull requests so new/changed database files are checked (and each list downloaded) before merging.
+on:
+  pull_request:
+    paths:
+      - "database/**"
+      - "src/**"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+
+      - name: Validate database files and download every list
+        run: dotnet run --project src/HostlistDirectory -c Release -- validate --online

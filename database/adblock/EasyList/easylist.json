@@ -1,0 +1,15 @@
+{
+    "name": "EasyList",
+    "description": "The primary browser ad-blocking filter list.",
+    "homepage": "https://easylist.to/",
+    "license": "GPL-3.0 / CC-BY-SA-3.0",
+    "tags": [
+        "ads",
+        "browser"
+    ],
+    "mainMirror": "https://easylist.to/easylist/easylist.txt",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/easylist/easylist/gh-pages/easylist.txt"
+    ],
+    "notes": "Browser filter list (cosmetic rules); only part of it applies to DNS blocking."
+}

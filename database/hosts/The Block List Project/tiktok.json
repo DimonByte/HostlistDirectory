@@ -1,0 +1,13 @@
+{
+    "name": "The Block List Project: tiktok",
+    "description": "TikTok.",
+    "homepage": "https://github.com/blocklistproject/Lists",
+    "license": "Unlicense",
+    "tags": [
+        "social"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/blocklistproject/Lists/master/tiktok.txt",
+    "alternativeMirrors": [
+        "https://blocklistproject.github.io/Lists/tiktok.txt"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "MVPS HOSTS",
+    "description": "Classic Windows hosts file blocking ads, banners, third-party cookies and many hijackers.",
+    "homepage": "https://winhelp2002.mvps.org/hosts.htm",
+    "license": "CC BY-NC-SA 4.0",
+    "tags": [
+        "ads",
+        "trackers",
+        "malware"
+    ],
+    "mainMirror": "https://winhelp2002.mvps.org/hosts.txt",
+    "alternativeMirrors": []
+}

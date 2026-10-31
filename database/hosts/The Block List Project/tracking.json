@@ -1,0 +1,13 @@
+{
+    "name": "The Block List Project: tracking",
+    "description": "Tracking and analytics.",
+    "homepage": "https://github.com/blocklistproject/Lists",
+    "license": "Unlicense",
+    "tags": [
+        "trackers"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt",
+    "alternativeMirrors": [
+        "https://blocklistproject.github.io/Lists/tracking.txt"
+    ]
+}

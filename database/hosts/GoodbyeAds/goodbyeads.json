@@ -1,0 +1,13 @@
+{
+    "name": "GoodbyeAds",
+    "description": "Mobile-focused ad and tracker blocking hosts.",
+    "homepage": "https://github.com/jerryn70/GoodbyeAds",
+    "license": "MIT",
+    "tags": [
+        "ads",
+        "trackers",
+        "mobile"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt",
+    "alternativeMirrors": []
+}

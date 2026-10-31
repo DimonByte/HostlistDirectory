@@ -1,0 +1,11 @@
+{
+    "name": "ShadowWhisperer's Scam List",
+    "description": "Scam sites.",
+    "homepage": "https://github.com/ShadowWhisperer/BlockLists",
+    "tags": [
+        "security",
+        "scam"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam",
+    "alternativeMirrors": []
+}

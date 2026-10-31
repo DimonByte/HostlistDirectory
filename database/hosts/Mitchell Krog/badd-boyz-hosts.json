@@ -1,0 +1,13 @@
+{
+    "name": "Mitchell Krog's Badd Boyz Hosts",
+    "description": "Sketchy domains and bad referrers from the Nginx and Apache Ultimate Bad Bot Blockers.",
+    "homepage": "https://github.com/mitchellkrogza/Badd-Boyz-Hosts",
+    "license": "Non-commercial use with attribution",
+    "tags": [
+        "malware",
+        "referrers",
+        "spam"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts",
+    "alternativeMirrors": []
+}

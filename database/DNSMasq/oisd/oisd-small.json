@@ -1,0 +1,13 @@
+{
+    "name": "oisd small",
+    "description": "Smaller oisd for low-memory devices.",
+    "homepage": "https://oisd.nl",
+    "tags": [
+        "ads",
+        "trackers"
+    ],
+    "mainMirror": "https://small.oisd.nl/dnsmasq2",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/sjhgvr/oisd/main/dnsmasq2_small.txt"
+    ]
+}

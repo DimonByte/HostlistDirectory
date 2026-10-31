@@ -1,0 +1,20 @@
+{
+    "name": "HaGeZi's Multi PRO (recommended)",
+    "homepage": "https://github.com/hagezi/dns-blocklists-legacy",
+    "license": "GPL-3.0",
+    "tags": [
+        "ads",
+        "trackers",
+        "telemetry",
+        "affiliate",
+        "phishing",
+        "malware",
+        "scam",
+        "fake",
+        "cryptojacking"
+    ],
+    "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/domains/pro.txt",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists-legacy/main/domains/pro.txt"
+    ]
+}

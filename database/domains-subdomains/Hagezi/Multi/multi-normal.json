@@ -1,0 +1,16 @@
+{
+    "name": "HaGeZi's Multi NORMAL",
+    "homepage": "https://github.com/hagezi/dns-blocklists-legacy",
+    "license": "GPL-3.0",
+    "tags": [
+        "ads",
+        "trackers",
+        "telemetry",
+        "phishing",
+        "malware"
+    ],
+    "mainMirror": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/domains/multi.txt",
+    "alternativeMirrors": [
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists-legacy/main/domains/multi.txt"
+    ]
+}

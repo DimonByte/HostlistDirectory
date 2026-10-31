@@ -1,0 +1,13 @@
+{
+    "name": "FadeMind 2o7Net",
+    "description": "Blocks 2o7.net / Adobe Analytics tracking domains.",
+    "homepage": "https://github.com/FadeMind/hosts.extras",
+    "license": "MIT",
+    "tags": [
+        "trackers"
+    ],
+    "mainMirror": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
+    "alternativeMirrors": [
+        "https://gitlab.com/FadeMind/hosts.extras/-/raw/master/add.2o7Net/hosts"
+    ]
+}
