@@ -4,7 +4,7 @@
     "homepage": "https://github.com/DimonByte/HostlistDirectory",
     "license": "Unlicense license",
     "schemaVersion": 2,
-    "lastUpdated": "2026-11-02T15:48:46Z",
+    "lastUpdated": "2026-11-03T00:57:33Z",
     "totalLists": 197,
     "reachableLists": 197,
     "formats": {
@@ -51,8 +51,8 @@
       "sha256": "f2d89a0f4b60d420a852419352473c2d3bde02b4a9772dd2cc7eb448200bd070",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/badmojr/1Hosts/main/Lite/adblock.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/badmojr/1Hosts",
         "description": "Advanced DNS filter/blocklists for privacy, security, and clean browsing.",
@@ -95,8 +95,8 @@
       "sha256": "200ee8a0e20d708b731c44e8c5cd8d219b927db6525f77a4341e8aa9c8678bf1",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/badmojr/1Hosts/main/Xtra/adblock.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/badmojr/1Hosts",
         "description": "Advanced DNS filter/blocklists for privacy, security, and clean browsing.",
@@ -122,29 +122,29 @@
       "alternativeMirrors": [
         "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/gh-pages/Filters/filter.txt"
       ],
-      "entries": 186514,
+      "entries": 187895,
       "declaredEntries": null,
       "formatType": "adblock",
       "detectedFormat": "adblock",
       "license": "GPL-3.0",
       "expiry": null,
       "expiresHours": null,
-      "lastModified": "2026-11-02T14:11:50Z",
+      "lastModified": "2026-11-03T00:23:56Z",
       "version": null,
       "notes": null,
-      "sizeBytes": 4562860,
-      "sha256": "f1707cef95c0224cc3358f8f0154e746c3fdcad3537f80314494f4f84bb2adef",
+      "sizeBytes": 4599067,
+      "sha256": "579b9e426661641201e5e005e511157e84da5d57265fcfc0a95d304624aaad17",
       "status": "ok",
       "servedFrom": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
         "description": "AdGuard DNS filter",
         "license": "GPL-3.0",
         "stars": 1415,
         "archived": false,
-        "pushedAt": "2026-11-02T14:12:02Z"
+        "pushedAt": "2026-11-03T00:24:04Z"
       }
     },
     {
@@ -170,22 +170,22 @@
       "license": "GPL-3.0",
       "expiry": null,
       "expiresHours": null,
-      "lastModified": "2026-11-02T14:11:55Z",
+      "lastModified": "2026-11-03T00:23:59Z",
       "version": null,
       "notes": null,
       "sizeBytes": 57776,
-      "sha256": "5e4a53b5b1e3482b1d704c366d2c7bb57ae83a7f1aa9977649118daf6e6768de",
+      "sha256": "71e32253a9ab02b8bdd4fe708675c8ed7420d71169241b2219aaf362a893cffb",
       "status": "ok",
       "servedFrom": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/AdguardTeam/AdGuardSDNSFilter",
         "description": "AdGuard DNS filter",
         "license": "GPL-3.0",
         "stars": 1415,
         "archived": false,
-        "pushedAt": "2026-11-02T14:12:02Z"
+        "pushedAt": "2026-11-03T00:24:04Z"
       }
     },
     {
@@ -216,8 +216,8 @@
       "sha256": "fdf930d67659f6f1405c81e67c1fb7797145c54296c5ba0398729aa4d846808c",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/TG-Twilight/AWAvenue-Ads-Rule",
         "description": "众多优秀广告规则的上游、开源社区中最棒的广告过滤器之一。适配AdGuard/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等主流广告拦截工具/代理工具。",
@@ -257,8 +257,8 @@
       "sha256": "4a79c83642cc0ebc7ff4026e69ad003812ae2502087fc56f85f6dc3dd6d61951",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/DandelionSprout/adfilt",
         "description": "The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.",
@@ -296,8 +296,8 @@
       "sha256": "5bb6bcf7a8791d907f9bb3b5e1f665a8799c2061163edbe2ec8cbb3e0569393d",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList-Notifications.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/DandelionSprout/adfilt",
         "description": "The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.",
@@ -336,8 +336,8 @@
       "sha256": "2414f8594479c71a61b390ed72664ddae30632b82cf26bf2591ffad965bddec3",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/DandelionSprout/adfilt",
         "description": "The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.",
@@ -363,22 +363,22 @@
       "alternativeMirrors": [
         "https://raw.githubusercontent.com/easylist/easylist/gh-pages/easylist.txt"
       ],
-      "entries": 71781,
+      "entries": 71912,
       "declaredEntries": null,
       "formatType": "adblock",
       "detectedFormat": "adblock",
       "license": "GPL-3.0 / CC-BY-SA-3.0",
       "expiry": "4 days (update frequency)",
       "expiresHours": 96,
-      "lastModified": "2026-11-02T15:31:00Z",
-      "version": "202611021531",
+      "lastModified": "2026-11-03T00:44:00Z",
+      "version": "202611030044",
       "notes": "Browser filter list (cosmetic rules); only part of it applies to DNS blocking.",
-      "sizeBytes": 2046724,
-      "sha256": "f137c3d36e393f84690509ed146030899b195f47ebf76f3dbac65834167deb12",
+      "sizeBytes": 2049747,
+      "sha256": "dbeb22ea13223ba61f7ffb6beee4e029ce74adc7717d0be3bdb0f7bd6c5e109c",
       "status": "ok",
       "servedFrom": "https://easylist.to/easylist/easylist.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -397,22 +397,22 @@
       "alternativeMirrors": [
         "https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt"
       ],
-      "entries": 55602,
+      "entries": 55606,
       "declaredEntries": null,
       "formatType": "adblock",
       "detectedFormat": "adblock",
       "license": "GPL-3.0 / CC-BY-SA-3.0",
       "expiry": "4 days (update frequency)",
       "expiresHours": 96,
-      "lastModified": "2026-11-02T15:31:00Z",
-      "version": "202611021531",
+      "lastModified": "2026-11-03T00:48:00Z",
+      "version": "202611030048",
       "notes": "Browser filter list; only part of it applies to DNS blocking.",
-      "sizeBytes": 1512421,
-      "sha256": "d74e0d861c1048c0f0b29a524c65ff0f09e2705b268817879221c618db5ec24c",
+      "sizeBytes": 1512499,
+      "sha256": "38560757bd0042d4ec6ecbbc3f2b232aceb30b8f8a9d1ef134c7e2b73df33c52",
       "status": "ok",
       "servedFrom": "https://easylist.to/easylist/easyprivacy.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -449,13 +449,13 @@
       "sha256": "b2b4484f5ac2b183ffc8866c57680bb12013166efc473d8457645eca3cb61393",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/light.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -495,13 +495,13 @@
       "sha256": "6dd23a7e497475b072ae88e00fc77f6afbf0a7be306cd77718fcad1981789af2",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/multi.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -545,13 +545,13 @@
       "sha256": "bd6f660e813fe482a2dbaa3bf1cf9c57f51f9228a0b724d4b0fad231c9d99b80",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -596,13 +596,13 @@
       "sha256": "70a5c9e8e0d6a6d6f5b4dd79c3acad4f435945744f32f3a67c63675d006b0748",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -647,13 +647,13 @@
       "sha256": "42ff07a5db95f161bddaff35754be461cbaeb119705e5eab8af4600dcf98896e",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -691,13 +691,13 @@
       "sha256": "469edeee90e748ce4a0846baffca1059146c84d39989c68e8a4f409d6971581d",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.amazon.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -735,13 +735,13 @@
       "sha256": "9348fd87a79566e8b2ae8051ccd32c1b1845c2723c912e80d345855655eb3561",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.apple.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -779,13 +779,13 @@
       "sha256": "9e9f8636536760fa5d37e28bb13d1db727a3d09cad4c06d6bb0dd01fb5a61b42",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.huawei.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -823,13 +823,13 @@
       "sha256": "6b300685d670529a3f145810a7df0a8cd528112e2328f195640c346aba147873",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.lgwebos.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -867,13 +867,13 @@
       "sha256": "702a30d0d3c277025c760e233a72319dab2b88e69a8faab88a4b7bca06a37661",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.oppo-realme.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -911,13 +911,13 @@
       "sha256": "96ea39f5c028be57412fae2fcaa6c344b09904dd05dc44ee104e8e96b87472f8",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.roku.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -955,13 +955,13 @@
       "sha256": "3f2195e8eb08d40c482634fd4ab1c752f07dc4ffd55735eac28c1a3d16c13837",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.samsung.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -999,13 +999,13 @@
       "sha256": "6c4b333333b594e3961223bab81de405cd315b55e415da915c10ce89887dfd9e",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.tiktok.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1043,13 +1043,13 @@
       "sha256": "66ee54bbbf34e09216a1097deba047becfbe20a13c2fc3bbba9e817e44f56916",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.tiktok.extended.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1087,13 +1087,13 @@
       "sha256": "1b3c41ecf6ebc4c9ad58adbf8c83ca17427207590b1919eac1645e4f42087282",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.vivo.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1131,13 +1131,13 @@
       "sha256": "67987224e2c70f7808485eef71ee34e4d5c3d0ae7ed7d73eb4e012ff85e994be",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.winoffice.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1175,13 +1175,13 @@
       "sha256": "68dee65643e75405ef3d942b836907b69b893199a30a441981588681cc2505cb",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.xiaomi.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1219,13 +1219,13 @@
       "sha256": "d3d7d6afd7a280f97904b7056a657dceb9a4df0c43ba34faf21ba534ecbc5d9f",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/hoster.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1263,13 +1263,13 @@
       "sha256": "67a94ec7f013b5a33eac1f1cf9ae2d0f552200d257561a14746ab153802129bd",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dyndns.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1307,13 +1307,13 @@
       "sha256": "a1859ea99490ae0308062e8ab30e6f2bad6a2f86fadc3cbd5bd8dfc812bd7e80",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1353,13 +1353,13 @@
       "sha256": "0ac4ee65a57c54528ef913102aabbbaa31f5d234663a8fbdc7b65b4b1db4c55e",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh-vpn-proxy-bypass.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1397,13 +1397,13 @@
       "sha256": "09732b04d03ebb0e0807f5357813d0b3aad64da570ea4d2edd092979a5cbdaed",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/fake.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1441,13 +1441,13 @@
       "sha256": "668becdfbcadf0a708c8c9566f40da3c36aebda4573a50a6d94f2170eb2412f4",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1488,13 +1488,13 @@
       "sha256": "1b2aa1c893a6ad18b11d39510e4e7be404fd580849c242d0cc8abe9bca215683",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1535,13 +1535,13 @@
       "sha256": "07fe2f27fe4278d2b6bc2359c54125ff0498b0e4ef65b105088a00faac7db56d",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.medium.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1582,13 +1582,13 @@
       "sha256": "a4cf6cef4c17221a136070bcdbd8509e98c96f96f3af8f8026df76e8b5f850eb",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.mini.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1625,13 +1625,13 @@
       "sha256": "a5366fc5da3d128517e28483c7d94bbaaaca7ff3dacd1ba444d81b7c4087762b",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/urlshortener.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1667,13 +1667,13 @@
       "sha256": "0aa0524efe154f72dd9c1b234cb1437fdde24c6c9f00d67400dbf6767d235151",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/anti.piracy.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1709,13 +1709,13 @@
       "sha256": "19fb1c5ab6d951ef23932ea01006ac6a18db555abfc3e34d6b5ae21b29ac72ae",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/gambling.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1752,13 +1752,13 @@
       "sha256": "7b0f6bf9c704163aa54ae401827878020d9261ad93102b34768cfed256f908c4",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nsfw.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1795,13 +1795,13 @@
       "sha256": "3210f0e4b5beea9c45f2750c0d5dbb09acf76ce17bbc491291b13271d9128588",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/popupads.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1837,13 +1837,13 @@
       "sha256": "38b9983f1adbca419bf39b7bde4a25fe681d7a1e6ee7e3b625cc6e6f1de09e48",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/social.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -1865,22 +1865,22 @@
         "https://curbengh.github.io/malware-filter/phishing-filter-agh.txt",
         "https://malware-filter.pages.dev/phishing-filter-agh.txt"
       ],
-      "entries": 23007,
+      "entries": 22829,
       "declaredEntries": null,
       "formatType": "adblock",
       "detectedFormat": "adblock",
       "license": "CC0-1.0 / MIT",
       "expiry": "12 hours (update frequency)",
       "expiresHours": 12,
-      "lastModified": "2026-11-02T12:02:35Z",
+      "lastModified": "2026-11-03T00:02:27Z",
       "version": null,
       "notes": null,
-      "sizeBytes": 713952,
-      "sha256": "c94325feb5dd590da70a691e3937963a58e429bbe40f214609ee4c0cbbaa565f",
+      "sizeBytes": 707952,
+      "sha256": "bdd7e735db904331c6bd2756a11aab342a4d5e6762e31ce80aed3df0f04210a9",
       "status": "ok",
       "servedFrom": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -1900,22 +1900,22 @@
         "https://curbengh.github.io/malware-filter/urlhaus-filter-agh.txt",
         "https://malware-filter.pages.dev/urlhaus-filter-agh.txt"
       ],
-      "entries": 17795,
+      "entries": 17661,
       "declaredEntries": null,
       "formatType": "adblock",
       "detectedFormat": "adblock",
       "license": "CC0-1.0 / MIT",
       "expiry": "12 hours (update frequency)",
       "expiresHours": 12,
-      "lastModified": "2026-11-02T12:10:10Z",
+      "lastModified": "2026-11-03T00:10:38Z",
       "version": null,
       "notes": null,
-      "sizeBytes": 322511,
-      "sha256": "664cca747699a3a25149af2e5d4c50a9e9d0efe862945846c7279f518c599d1f",
+      "sizeBytes": 320060,
+      "sha256": "b187175825e972155f3998f5a604b32106151c37f4c449d72d8967fbb5007902",
       "status": "ok",
       "servedFrom": "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -1936,22 +1936,22 @@
       "alternativeMirrors": [
         "https://raw.githubusercontent.com/sjhgvr/oisd/main/abp_big.txt"
       ],
-      "entries": 231721,
-      "declaredEntries": 231721,
+      "entries": 232345,
+      "declaredEntries": 232345,
       "formatType": "adblock",
       "detectedFormat": "adblock",
       "license": "https://github.com/sjhgvr/oisd/blob/main/LICENSE",
       "expiry": "1 hours",
       "expiresHours": 1,
-      "lastModified": "2026-11-02T15:04:56Z",
-      "version": "202611021504",
+      "lastModified": "2026-11-03T00:04:55Z",
+      "version": "202611030004",
       "notes": null,
-      "sizeBytes": 5242777,
-      "sha256": "96e3bc0abf3e56106cdfd04af70a83d47dc51663cbfa31618766a6dbc0201528",
+      "sizeBytes": 5258907,
+      "sha256": "243873c9a2a3fb8cf7d75acc0e5c321607db82f389a7324fd5418e02ad38a1a1",
       "status": "ok",
       "servedFrom": "https://big.oisd.nl/",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -1970,22 +1970,22 @@
       "alternativeMirrors": [
         "https://raw.githubusercontent.com/sjhgvr/oisd/main/abp_nsfw.txt"
       ],
-      "entries": 486032,
-      "declaredEntries": 486032,
+      "entries": 486037,
+      "declaredEntries": 486037,
       "formatType": "adblock",
       "detectedFormat": "adblock",
       "license": "https://github.com/sjhgvr/oisd/blob/main/LICENSE",
       "expiry": "1 hours",
       "expiresHours": 1,
-      "lastModified": "2026-11-02T15:06:27Z",
-      "version": "202611021506",
+      "lastModified": "2026-11-02T23:06:44Z",
+      "version": "202611022306",
       "notes": null,
-      "sizeBytes": 10059012,
-      "sha256": "964d8b3f64c331b694dad3ad0b09f6652bbb03bdc8990adfa11fe0092da1632d",
+      "sizeBytes": 10059094,
+      "sha256": "5541a6327ab43ffdf67a8e6d8bda8f7607b2247721429c34b61c06bfaa494f5b",
       "status": "ok",
       "servedFrom": "https://nsfw.oisd.nl/",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -2004,22 +2004,22 @@
       "alternativeMirrors": [
         "https://raw.githubusercontent.com/sjhgvr/oisd/main/abp_small.txt"
       ],
-      "entries": 59467,
-      "declaredEntries": 59467,
+      "entries": 59946,
+      "declaredEntries": 59946,
       "formatType": "adblock",
       "detectedFormat": "adblock",
       "license": "https://github.com/sjhgvr/oisd/blob/main/LICENSE",
       "expiry": "1 hours",
       "expiresHours": 1,
-      "lastModified": "2026-11-02T07:05:40Z",
-      "version": "202611020705",
+      "lastModified": "2026-11-02T22:06:01Z",
+      "version": "202611022206",
       "notes": null,
-      "sizeBytes": 1342158,
-      "sha256": "689af3a1d735a4b3f824f63d46d4e67cb6715c60462269fa968fd714fecb101a",
+      "sizeBytes": 1354717,
+      "sha256": "eba10c16e3fba4fcb0a67cbb0e48e68870ce8f7e60243bf78f81f900ec598fb6",
       "status": "ok",
       "servedFrom": "https://small.oisd.nl/",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -2050,8 +2050,8 @@
       "sha256": "5b617233b288ccc1700f7903cb90ecc97b3a444859fed9f27bcdef6fd1b53433",
       "status": "ok",
       "servedFrom": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -2083,15 +2083,15 @@
       "sha256": "7613cf934fde8dd1bdd0f064f792991a84d79301f3e4da5ec811c0cdedfd4033",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/uBlockOrigin/uAssets",
         "description": "Filter lists for uBlock Origin & uBlock Origin Lite",
         "license": "GPL-3.0",
-        "stars": 6106,
+        "stars": 6107,
         "archived": false,
-        "pushedAt": "2026-11-02T14:26:05Z"
+        "pushedAt": "2026-11-02T19:47:42Z"
       }
     },
     {
@@ -2128,13 +2128,13 @@
       "sha256": "357f55ca9da5d234fdd0a365778a3342b1e8cd226a34ce36683d98df48df705f",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/light.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -2174,13 +2174,13 @@
       "sha256": "ba954baa835522dc0eba0f4b288a3f4643e2ef910aef17c663d560f1a72de3b4",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/multi.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -2224,13 +2224,13 @@
       "sha256": "c148f9d432ad174127524ddb067130e6f4c57bae78114dd7f31444433c503ab2",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/pro.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -2275,13 +2275,13 @@
       "sha256": "3928c289b29b9569ab0a95cb4d163e1a86b3a0ee6705f8b8b60f3a9907ecf6f3",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/pro.plus.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -2326,13 +2326,13 @@
       "sha256": "4d28095329b3d8062d78e94a38fe1add180d5b4540ba6ada8a03aeaa34e25dd2",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/ultimate.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -2370,13 +2370,13 @@
       "sha256": "d9a4104724c1646561c205f9df268ca2d5e4e8eee10a977cd597bd5a35f607a5",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/doh.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -2417,13 +2417,13 @@
       "sha256": "29039ecc60051af0d080e7d24704e314b334ad7ff87ad0c15867e9bd74a62cd0",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/tif.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -2464,13 +2464,13 @@
       "sha256": "a0512ad7f1e8dc65613435f4c83f6c79b01263d77fbe4b3bea214bbe562d5533",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/tif.medium.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -2511,13 +2511,13 @@
       "sha256": "e157d15b784b74b78733a4c5d8d0fd076929943678f58a8bad9c7b7166677908",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/tif.mini.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -2540,22 +2540,22 @@
       "alternativeMirrors": [
         "https://raw.githubusercontent.com/sjhgvr/oisd/main/dnsmasq2_big.txt"
       ],
-      "entries": 231721,
-      "declaredEntries": 231721,
+      "entries": 232345,
+      "declaredEntries": 232345,
       "formatType": "DNSMasq",
       "detectedFormat": "dnsmasq",
       "license": "https://github.com/sjhgvr/oisd/blob/main/LICENSE",
       "expiry": "1 hours",
       "expiresHours": 1,
-      "lastModified": "2026-11-02T15:04:58Z",
-      "version": "202611021504",
+      "lastModified": "2026-11-03T00:04:56Z",
+      "version": "202611030004",
       "notes": null,
-      "sizeBytes": 6401369,
-      "sha256": "77f8d6980f7b747ad8ee1a5d02491a733a8502addf84f12a30c5151d88234167",
+      "sizeBytes": 6420619,
+      "sha256": "b6b826f221ff2035c6bf1e3b957c18f8707c7f86debacc70505c8f57b42b6b2d",
       "status": "ok",
       "servedFrom": "https://big.oisd.nl/dnsmasq2",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -2574,22 +2574,22 @@
       "alternativeMirrors": [
         "https://raw.githubusercontent.com/sjhgvr/oisd/main/dnsmasq2_small.txt"
       ],
-      "entries": 59467,
-      "declaredEntries": 59467,
+      "entries": 59946,
+      "declaredEntries": 59946,
       "formatType": "DNSMasq",
       "detectedFormat": "dnsmasq",
       "license": "https://github.com/sjhgvr/oisd/blob/main/LICENSE",
       "expiry": "1 hours",
       "expiresHours": 1,
-      "lastModified": "2026-11-02T07:05:40Z",
-      "version": "202611020705",
+      "lastModified": "2026-11-02T22:06:02Z",
+      "version": "202611022206",
       "notes": null,
-      "sizeBytes": 1639480,
-      "sha256": "8d0995fc8ee38a3ca01a487e1d5576f468bc4bb343521ed6744ccfe3aa1ae77c",
+      "sizeBytes": 1654434,
+      "sha256": "96d52b47e03eb137bf6984357b80d8a05e4a6f0227cc0d1b76d6f89c4efdc00f",
       "status": "ok",
       "servedFrom": "https://small.oisd.nl/dnsmasq2",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -2624,8 +2624,8 @@
       "sha256": "a6b60cd190b7899f493c5f29b4f4073d42014505d2957563cf9cd247842b8ad1",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/badmojr/1Hosts/main/Lite/domains.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/badmojr/1Hosts",
         "description": "Advanced DNS filter/blocklists for privacy, security, and clean browsing.",
@@ -2668,8 +2668,8 @@
       "sha256": "d81068e9919cd15a110751e13f0f5b17d6022e0deb460412b447e456d05c0f8d",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/badmojr/1Hosts/main/Xtra/domains.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/badmojr/1Hosts",
         "description": "Advanced DNS filter/blocklists for privacy, security, and clean browsing.",
@@ -2708,8 +2708,8 @@
       "sha256": "f9040220aa52e1310a2a78e303df52aa5666d696916ce657a229885154b01afd",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/AssoEchap/stalkerware-indicators",
         "description": "Indicators of stalkerware apps",
@@ -2751,8 +2751,8 @@
       "sha256": "5d61ad7c29d7eb40f936ccba19bde9965d2047d88c55bae92a55ced8cdf8a732",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/domains/light.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -2795,8 +2795,8 @@
       "sha256": "9e363d97479e7b0e655e6513a138a582ffd7431ef330833a0c7256daf0ff4d9d",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/domains/multi.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -2843,8 +2843,8 @@
       "sha256": "83dc03e08793118ed478f9e8cbe6620f84fd7947581e484e1ab31a7811faaa0d",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/domains/pro.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -2892,8 +2892,8 @@
       "sha256": "8ce48aefdc3023ffadc063630906ecf1f349fa5dc3173eceb1c445db64c47f3e",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/domains/pro.plus.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -2941,8 +2941,8 @@
       "sha256": "63eaeb12af074ff881bb8ddff18a2d9826cf897eb964f51bad79ce35e3876e23",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/domains/ultimate.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -2983,8 +2983,8 @@
       "sha256": "c890034c681099c62cca1160dcd307d5bc20db58821a0757c4be77c9723ae20b",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/domains/dga14.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/nrd",
         "description": "Newly Registered Domains (NRD/DGA)",
@@ -3025,8 +3025,8 @@
       "sha256": "b826d19d22b26a81de283e5a4ab2885e0a1efc77c8ed3700318b301e45438d6e",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/domains/dga30.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/nrd",
         "description": "Newly Registered Domains (NRD/DGA)",
@@ -3067,8 +3067,8 @@
       "sha256": "7da5ad9b33248ed28a05acd07622fb2d47fe571069d0201555a9f6af6339498c",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/domains/dga7.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/nrd",
         "description": "Newly Registered Domains (NRD/DGA)",
@@ -3109,8 +3109,8 @@
       "sha256": "080126bdfcc96a2760817c313cb6aef03ce3008043747ade9479ae1b01d33df4",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/domains/nrd14-8.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/nrd",
         "description": "Newly Registered Domains (NRD/DGA)",
@@ -3151,8 +3151,8 @@
       "sha256": "3b49257aa6a36503f802a4fe00e3a2df90dddafc2fc7c2460525d201114d6436",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/domains/nrd21-15.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/nrd",
         "description": "Newly Registered Domains (NRD/DGA)",
@@ -3193,8 +3193,8 @@
       "sha256": "1df16416985c5fdf45e760a6232f0c609fed09d924604d5517004a15ab7002a6",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/domains/nrd28-22.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/nrd",
         "description": "Newly Registered Domains (NRD/DGA)",
@@ -3235,8 +3235,8 @@
       "sha256": "449d71ae1261c067f3e118cc34575df6a6d264dbf578353f56672281cea65014",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/domains/nrd35-29.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/nrd",
         "description": "Newly Registered Domains (NRD/DGA)",
@@ -3277,8 +3277,8 @@
       "sha256": "7f64725103d1a97b1161627c0a070bbc29dd285f4b8d0fa58fc457ce64b0e1b5",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/domains/nrd7.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/nrd",
         "description": "Newly Registered Domains (NRD/DGA)",
@@ -3319,8 +3319,8 @@
       "sha256": "16905463c08be3e9a78602aa3704f43412bac6b2610df02c82f174fe656afe66",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/domains/doh.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -3364,8 +3364,8 @@
       "sha256": "f8955ad831e0f40be6c95dfe7cdf5b6eca7b7475bfe52729c5c7f238e305c9c6",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/domains/tif.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -3404,8 +3404,8 @@
       "sha256": "4b0992a7dbf82573d00144ab143b7f3e3e4477c58e5447d671dee551201282a2",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/nickspaargaren/no-google",
         "description": "Completely block Google and its services",
@@ -3443,8 +3443,8 @@
       "sha256": "22d719cde872d51365f350e142e102be5c53dcbd668a795c0f51c14d1d812fbb",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/Perflyst/PiHoleBlocklist",
         "description": "PiHole and AGH Blocklists",
@@ -3482,8 +3482,8 @@
       "sha256": "164b9bbb1030b69da5d0c2f5a327c7780c9674dc589f65996a974bb0184814ab",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/Perflyst/PiHoleBlocklist",
         "description": "PiHole and AGH Blocklists",
@@ -3521,8 +3521,8 @@
       "sha256": "b84625365a63ee7b9a3372d461ec386c95a1ab20eabcc1c5857cecb597662419",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SessionReplay.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/Perflyst/PiHoleBlocklist",
         "description": "PiHole and AGH Blocklists",
@@ -3560,8 +3560,8 @@
       "sha256": "d891473d90fc1caee465b1feb60d20b3b3ee2f90a398ae40aaf215f0050c9d4a",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/Perflyst/PiHoleBlocklist",
         "description": "PiHole and AGH Blocklists",
@@ -3585,22 +3585,22 @@
       ],
       "mainMirror": "https://phishing.army/download/phishing_army_blocklist.txt",
       "alternativeMirrors": [],
-      "entries": 151717,
-      "declaredEntries": 151717,
+      "entries": 151520,
+      "declaredEntries": 151520,
       "formatType": "domains-subdomains",
       "detectedFormat": "domains",
       "license": "CC BY-NC 4.0",
       "expiry": "4 hours",
       "expiresHours": 4,
-      "lastModified": "2026-11-02T11:00:27Z",
+      "lastModified": "2026-11-02T23:00:28Z",
       "version": null,
       "notes": null,
-      "sizeBytes": 3275958,
-      "sha256": "d1474f37f3111880aa7f8f367b23d0541243a63877eabf71b59907e4e45f5a47",
+      "sizeBytes": 3259801,
+      "sha256": "9f8dd8de06dcc91b2eaed04a6357ff699e7e3d09039273aa1fe06bfbdbc6bab1",
       "status": "ok",
       "servedFrom": "https://phishing.army/download/phishing_army_blocklist.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -3617,22 +3617,22 @@
       ],
       "mainMirror": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
       "alternativeMirrors": [],
-      "entries": 151709,
-      "declaredEntries": 151709,
+      "entries": 151520,
+      "declaredEntries": 151520,
       "formatType": "domains-subdomains",
       "detectedFormat": "domains",
       "license": "CC BY-NC 4.0",
       "expiry": "4 hours",
       "expiresHours": 4,
-      "lastModified": "2026-11-02T14:00:26Z",
+      "lastModified": "2026-11-02T23:00:28Z",
       "version": null,
       "notes": null,
-      "sizeBytes": 3276113,
-      "sha256": "0e02991f5585accff13a5c3f1fbdf06ae7a240399745494e0aa5c64366035aea",
+      "sizeBytes": 3259801,
+      "sha256": "9f8dd8de06dcc91b2eaed04a6357ff699e7e3d09039273aa1fe06bfbdbc6bab1",
       "status": "ok",
       "servedFrom": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -3663,8 +3663,8 @@
       "sha256": "70c6c2e24e6b3484e7ace27b079723e55937bc1f4cbd98bea38a472ec8e37326",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/Phishing-Database/Phishing.Database",
         "description": "Phishing Domains, urls websites and threats database. We use the PyFunceble testing tool to validate the status of all known Phishing domains and provide stats to reveal how many unique domains used for Phishing are still active.",
@@ -3701,8 +3701,8 @@
       "sha256": "6f89071681b2b644a40ef177c95dba6bcfa41ae0398b24e153efde160933461d",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/ShadowWhisperer/BlockLists",
         "description": "Custom DNS block lists",
@@ -3739,8 +3739,8 @@
       "sha256": "18951c4b95e8f90587fb95e75811e9b32ac971aad4ff582049d7389e3aaf1042",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dating",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/ShadowWhisperer/BlockLists",
         "description": "Custom DNS block lists",
@@ -3778,8 +3778,8 @@
       "sha256": "386b7714e259e9d1f3d6640620e13e1d9696bd2b1e64621992c366fbe8d764cc",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/ShadowWhisperer/BlockLists",
         "description": "Custom DNS block lists",
@@ -3817,8 +3817,8 @@
       "sha256": "b5a38ea1877994aaf75416b151146506280be0558b21367691b49448fd2b7d1f",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/ShadowWhisperer/BlockLists",
         "description": "Custom DNS block lists",
@@ -3856,8 +3856,8 @@
       "sha256": "93450ff30d9b26be2d3f0a83ecb7532d80d29faaae843ebd4c2ba8c4d25604b0",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/ShadowWhisperer/BlockLists",
         "description": "Custom DNS block lists",
@@ -3886,29 +3886,29 @@
       "alternativeMirrors": [
         "https://github.com/DNSBunker/CTI/raw/refs/heads/main/domains.txt"
       ],
-      "entries": 222309,
-      "declaredEntries": 222311,
+      "entries": 188840,
+      "declaredEntries": 188841,
       "formatType": "domains-subdomains",
       "detectedFormat": "domains",
       "license": "GPL-2.0-only",
       "expiry": null,
       "expiresHours": null,
-      "lastModified": "2026-11-02T15:34:19Z",
+      "lastModified": "2026-11-03T00:51:37Z",
       "version": null,
       "notes": null,
-      "sizeBytes": 4685259,
-      "sha256": "fa3eaeb661753a2286201388fc7b666de44d95a74a877322600e7d68e077ce9d",
+      "sizeBytes": 3996161,
+      "sha256": "c93a0fb826882e9fe28c980460a27f93e10dc3b62d3c1fa094724de5b975f011",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/DNSBunker/CTI/main/domains.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/DNSBunker/CTI",
         "description": "Cyber Threat intelligence without the marketing",
         "license": null,
         "stars": 18,
         "archived": false,
-        "pushedAt": "2026-11-02T15:34:26Z"
+        "pushedAt": "2026-11-03T00:51:43Z"
       }
     },
     {
@@ -3943,8 +3943,8 @@
       "sha256": "e4c334bf3a551ff955538d37c5a0e7087499c5098cafcab4cc72efd23f771a32",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/badmojr/1Hosts/main/Lite/hosts.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/badmojr/1Hosts",
         "description": "Advanced DNS filter/blocklists for privacy, security, and clean browsing.",
@@ -3987,8 +3987,8 @@
       "sha256": "7f50a28f6a49c3ce83c28ce1014729d73f4715104b08e8d3a9ee24fe7b4e590b",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/badmojr/1Hosts/main/Xtra/hosts.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/badmojr/1Hosts",
         "description": "Advanced DNS filter/blocklists for privacy, security, and clean browsing.",
@@ -4029,8 +4029,8 @@
       "sha256": "8c925c37a5eaa5e1c582c76e12301797861addee5ad0fa0e6e46c9dd0136fe55",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/AdAway/adaway.github.io",
         "description": null,
@@ -4073,8 +4073,8 @@
       "sha256": "1b8e2cfa476697e5d9f610d8dd749ee43422e47e8775d77254312081b1ae52f0",
       "status": "ok",
       "servedFrom": "https://someonewhocares.org/hosts/zero/hosts",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -4107,8 +4107,8 @@
       "sha256": "c9e9d69c777d6fd8e9ecb4ea1cdf7aa20a5fedf5aff843824b19587eb6f101b3",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/DandelionSprout/adfilt",
         "description": "The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.",
@@ -4146,8 +4146,8 @@
       "sha256": "81773416140be918767d51395200e80ffab8796a12a93ebaeac20d10174530fd",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/durablenapkin/scamblocklist",
         "description": "A blocklist to protect users against untrustworthy sites.",
@@ -4186,8 +4186,8 @@
       "sha256": "5d9353a1294c0c12fb6caa7c9178224ae601f59a159ea5e4677da6b36208c876",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/FadeMind/hosts.extras",
         "description": "Extra rules for StevenBlack's hosts project [ https://git.io/Je0XR ] See also hosts.whitelists [ https://git.io/J3bdI ]",
@@ -4227,8 +4227,8 @@
       "sha256": "cceda7cdcd524f66ef14b66155a93f1effc3fe0c1931aa0a5db3e66779e99104",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/FadeMind/hosts.extras",
         "description": "Extra rules for StevenBlack's hosts project [ https://git.io/Je0XR ] See also hosts.whitelists [ https://git.io/J3bdI ]",
@@ -4269,8 +4269,8 @@
       "sha256": "baedee79b7a3b9e1825080f4daf42a7d9dc37eda03a4381b332b7ef807129b0e",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/FadeMind/hosts.extras",
         "description": "Extra rules for StevenBlack's hosts project [ https://git.io/Je0XR ] See also hosts.whitelists [ https://git.io/J3bdI ]",
@@ -4309,8 +4309,8 @@
       "sha256": "5e925892954443b0b0dcbfc26926d2f48e86034935887aad75a9aaaa0a8eeccc",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/FadeMind/hosts.extras",
         "description": "Extra rules for StevenBlack's hosts project [ https://git.io/Je0XR ] See also hosts.whitelists [ https://git.io/J3bdI ]",
@@ -4349,8 +4349,8 @@
       "sha256": "3ece2c35d8cb86f21c66baf1d6e9077403c8efdc11791dcb1bc47f399689f53f",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/jerryn70/GoodbyeAds",
         "description": null,
@@ -4392,8 +4392,8 @@
       "sha256": "0138839783aa08cd599589ea38c14f28b2049bb722dc71f6539685ec4f504f87",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/hosts/light.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -4436,8 +4436,8 @@
       "sha256": "da028d09a43d0cb01a3ab0b234b2031f4d57b99e792a34891af9596cf2cb0432",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/hosts/multi.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -4484,8 +4484,8 @@
       "sha256": "87c24a1a6d8d8e4fd72c07f51577c550ee652fcf11a916ed4b922409f80e84dd",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/hosts/pro.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -4533,8 +4533,8 @@
       "sha256": "4006dd5f8df3d693d25bb9b34d7b8b3d5236168e197f8af4400df6918cd87e46",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/hosts/pro.plus.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -4582,8 +4582,8 @@
       "sha256": "84660720b0fb96d61b9b235d215a9ad860299d11eed5c928bdf4117d081314b6",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/hosts/ultimate.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -4624,8 +4624,8 @@
       "sha256": "f1f318e70b5659d3e85a5bcbca669f853726599540194a39fb63d209b9f90f3e",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/hosts/doh.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -4669,8 +4669,8 @@
       "sha256": "cb931434a43523409a49d6104ba91e69889d9633320ebf80481d16980f3267f4",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/hosts/tif.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -4696,29 +4696,29 @@
       ],
       "mainMirror": "https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt",
       "alternativeMirrors": [],
-      "entries": 43952,
+      "entries": 43790,
       "declaredEntries": null,
       "formatType": "hosts",
       "detectedFormat": "hosts",
       "license": "CC BY-SA 4.0",
       "expiry": "2 days",
       "expiresHours": 48,
-      "lastModified": "2026-11-01T23:14:00Z",
-      "version": "2026.11.2.0",
+      "lastModified": "2026-11-02T17:29:00Z",
+      "version": "2026.11.2.1",
       "notes": null,
-      "sizeBytes": 1343913,
-      "sha256": "ac00d597e9ac66ae504c20277147e57051baf32609c8a7b29f7db99bb2ee3eb9",
+      "sizeBytes": 1338361,
+      "sha256": "9deac584c591d804e4a631e675231e97c2b923d51f7718814509772c32c15041",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/FiltersHeroes/KADhosts",
         "description": "Wersja hosts, PiHole, dnsmasq, domenowa (Forti Guard) filtrów KAD",
         "license": "CC-BY-SA-4.0",
         "stars": 63,
         "archived": false,
-        "pushedAt": "2026-11-01T23:14:08Z"
+        "pushedAt": "2026-11-02T17:29:54Z"
       }
     },
     {
@@ -4738,22 +4738,22 @@
         "https://curbengh.github.io/malware-filter/phishing-filter-hosts.txt",
         "https://malware-filter.pages.dev/phishing-filter-hosts.txt"
       ],
-      "entries": 22973,
+      "entries": 22795,
       "declaredEntries": null,
       "formatType": "hosts",
       "detectedFormat": "hosts",
       "license": "CC0-1.0 / MIT",
       "expiry": "12 hours (update frequency)",
       "expiresHours": 12,
-      "lastModified": "2026-11-02T12:02:35Z",
+      "lastModified": "2026-11-03T00:02:27Z",
       "version": null,
       "notes": null,
-      "sizeBytes": 828209,
-      "sha256": "ccd203c0a5fac36c32a8caf746ca91318b4924f1c7a07e368afd7ee81b5b225c",
+      "sizeBytes": 821319,
+      "sha256": "b9aca23c2b3fb889f35225c14fb2e456149677efa8f4766126663e0c9bb3b437",
       "status": "ok",
       "servedFrom": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -4773,22 +4773,22 @@
         "https://curbengh.github.io/malware-filter/urlhaus-filter-hosts.txt",
         "https://malware-filter.pages.dev/urlhaus-filter-hosts.txt"
       ],
-      "entries": 1911,
+      "entries": 1904,
       "declaredEntries": null,
       "formatType": "hosts",
       "detectedFormat": "hosts",
       "license": "CC0-1.0 / MIT",
       "expiry": "12 hours (update frequency)",
       "expiresHours": 12,
-      "lastModified": "2026-11-02T12:10:10Z",
+      "lastModified": "2026-11-03T00:10:38Z",
       "version": null,
       "notes": null,
-      "sizeBytes": 56671,
-      "sha256": "aa7a5e7688f209391791dd5cb24577568a6df681c5ec320c400aa04c98a6dde0",
+      "sizeBytes": 56369,
+      "sha256": "00aed440bff6deb2a288b1f62873cd0652e5241df8b5635ec5b7630fa925c9d1",
       "status": "ok",
       "servedFrom": "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -4820,8 +4820,8 @@
       "sha256": "0e8a05e0a2698b79f446abfe6299360d1af3be1fcd70c752d3f6952a26462359",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/mitchellkrogza/Badd-Boyz-Hosts",
         "description": "A hosts file for use on any operating system to block bad domains out of your servers or devices.",
@@ -4860,8 +4860,8 @@
       "sha256": "305d2e095e5aa2bebb80384c1325354f4f477c2097fc5dbe9b10c49c1fc4453a",
       "status": "ok",
       "servedFrom": "https://winhelp2002.mvps.org/hosts.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -4892,8 +4892,8 @@
       "sha256": "41c0e875b48dc65282c9aee579ae315eb557f115be654d6a9e4fccac7db9a2d1",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hoshsadiq/adblock-nocoin-list",
         "description": "Block lists to prevent JavaScript miners ",
@@ -4931,8 +4931,8 @@
       "sha256": "d2c5a26d5a433b68543fb36b8679352e6dc99ff0cf5b647b8922fcfd28c6adb4",
       "status": "ok",
       "servedFrom": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -4964,13 +4964,13 @@
       "sha256": "55c6aa916badc2f20ec6cf4cb1746de717db570e6373924dc48cfefc1d437241",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/StevenBlack/hosts",
         "description": "\uD83D\uDD12 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
         "license": "MIT",
-        "stars": 31364,
+        "stars": 31371,
         "archived": false,
         "pushedAt": "2026-11-01T18:55:53Z"
       }
@@ -5004,13 +5004,13 @@
       "sha256": "3660bf4dc6bbd5b8545661eddb33d3cc9080b9f0a97da30f8a4d7a3740597c1d",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/StevenBlack/hosts",
         "description": "\uD83D\uDD12 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
         "license": "MIT",
-        "stars": 31364,
+        "stars": 31371,
         "archived": false,
         "pushedAt": "2026-11-01T18:55:53Z"
       }
@@ -5044,13 +5044,13 @@
       "sha256": "a9c5da91798eace14db0cc2f3e5353fecad84e2cc643dbc7164dec0e949fd40b",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/StevenBlack/hosts",
         "description": "\uD83D\uDD12 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
         "license": "MIT",
-        "stars": 31364,
+        "stars": 31371,
         "archived": false,
         "pushedAt": "2026-11-01T18:55:53Z"
       }
@@ -5084,13 +5084,13 @@
       "sha256": "df1409ee075d1285b3f74bccb690908c51bf62a40ab7b51bb4eac393d0ff72eb",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/StevenBlack/hosts",
         "description": "\uD83D\uDD12 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
         "license": "MIT",
-        "stars": 31364,
+        "stars": 31371,
         "archived": false,
         "pushedAt": "2026-11-01T18:55:53Z"
       }
@@ -5126,13 +5126,13 @@
       "sha256": "0d81148f9990ecbde614ba1a135f81113fbb5f9972e783af22ff1c6dadb57508",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/StevenBlack/hosts",
         "description": "\uD83D\uDD12 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
         "license": "MIT",
-        "stars": 31364,
+        "stars": 31371,
         "archived": false,
         "pushedAt": "2026-11-01T18:55:53Z"
       }
@@ -5168,13 +5168,13 @@
       "sha256": "8e5bd5f7fb563f4707ce905a787428aca1797309845401075c1be2d545c3f89a",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/StevenBlack/hosts",
         "description": "\uD83D\uDD12 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
         "license": "MIT",
-        "stars": 31364,
+        "stars": 31371,
         "archived": false,
         "pushedAt": "2026-11-01T18:55:53Z"
       }
@@ -5214,13 +5214,13 @@
       "sha256": "f4388e3c518aa39fd7a1a17a4ac97de6948f3e7fe3bfe2a577b6b08e4332fb1c",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/StevenBlack/hosts",
         "description": "\uD83D\uDD12 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
         "license": "MIT",
-        "stars": 31364,
+        "stars": 31371,
         "archived": false,
         "pushedAt": "2026-11-01T18:55:53Z"
       }
@@ -5258,13 +5258,13 @@
       "sha256": "c332c6ed6a50bc19112b08787e56c888c82de98771e476a73b4afa16ac322c9c",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/StevenBlack/hosts",
         "description": "\uD83D\uDD12 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
         "license": "MIT",
-        "stars": 31364,
+        "stars": 31371,
         "archived": false,
         "pushedAt": "2026-11-01T18:55:53Z"
       }
@@ -5301,13 +5301,13 @@
       "sha256": "986fac123b7929159d4cdee2a6ac39e5d20777ced1917e317a5b002bd6a42558",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/StevenBlack/hosts",
         "description": "\uD83D\uDD12 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
         "license": "MIT",
-        "stars": 31364,
+        "stars": 31371,
         "archived": false,
         "pushedAt": "2026-11-01T18:55:53Z"
       }
@@ -5342,8 +5342,8 @@
       "sha256": "6ce6351150ffc859f50e90c37a121b281082a35e9fc60539daca72c8093a53f3",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/blocklistproject/Lists/master/abuse.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/blocklistproject/Lists",
         "description": "Primary Block Lists",
@@ -5382,8 +5382,8 @@
       "sha256": "bf23271a8dab547e6aeff1940d1a4d1263940c92fc3a5d1e299779a3ca712692",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/blocklistproject/Lists",
         "description": "Primary Block Lists",
@@ -5423,8 +5423,8 @@
       "sha256": "05369cce99718349a5303fb9ec58f0409697ecf8b13bacf1bcde88ef1bc8ef8e",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/blocklistproject/Lists/master/basic.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/blocklistproject/Lists",
         "description": "Primary Block Lists",
@@ -5464,8 +5464,8 @@
       "sha256": "5959265e5f86346c9561d3d8b599922584eee7afcdcf208465e4380bf6507b17",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/blocklistproject/Lists/master/crypto.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/blocklistproject/Lists",
         "description": "Primary Block Lists",
@@ -5505,8 +5505,8 @@
       "sha256": "6bb74f2803e5fcf6e7fef7bd3bb71d89688d2277864bc0055d2e400f3891b3ab",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/blocklistproject/Lists/master/fraud.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/blocklistproject/Lists",
         "description": "Primary Block Lists",
@@ -5545,8 +5545,8 @@
       "sha256": "d583202e86eb80f8cb6311e65d10f36e472d921d7cac5ff18e98d7dd0b9cf439",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/blocklistproject/Lists/master/gambling.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/blocklistproject/Lists",
         "description": "Primary Block Lists",
@@ -5586,8 +5586,8 @@
       "sha256": "0b439fa1a71f1482eaf922321ee7c824beabebdd81173b68ead7e4ffa07e0115",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/blocklistproject/Lists",
         "description": "Primary Block Lists",
@@ -5627,8 +5627,8 @@
       "sha256": "4407e6b9af2fa1e4def92ed523643a3380448fde81837341ffc596c6e781f134",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/blocklistproject/Lists",
         "description": "Primary Block Lists",
@@ -5667,8 +5667,8 @@
       "sha256": "425590c37e3ea624fdf646b14ba661f8b8f38391686adcf02b73f8b2d74b0db1",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/blocklistproject/Lists",
         "description": "Primary Block Lists",
@@ -5708,8 +5708,8 @@
       "sha256": "a5f777e07f2636c17f2f4027d65e2ce30782b5500da33c26660300847ca79f1b",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/blocklistproject/Lists",
         "description": "Primary Block Lists",
@@ -5749,8 +5749,8 @@
       "sha256": "799a5a8282f3b6980c508c917bf1b3f802c5c67a6bb419f90b55fe58869aa07e",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/blocklistproject/Lists/master/redirect.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/blocklistproject/Lists",
         "description": "Primary Block Lists",
@@ -5790,8 +5790,8 @@
       "sha256": "0a8071ae6dfdb6b7f3e189efd01a0acc1ed55f85ec9d734c9ac0b2838f52e045",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/blocklistproject/Lists",
         "description": "Primary Block Lists",
@@ -5831,8 +5831,8 @@
       "sha256": "4dbc9117ccef3e629cdce616d79901371a54c2a82ca9dec639dabfcc7faf617b",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/blocklistproject/Lists/master/smart-tv.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/blocklistproject/Lists",
         "description": "Primary Block Lists",
@@ -5871,8 +5871,8 @@
       "sha256": "5ac7c6b68b8e48014de117ea87453e903aac7aaaaf5607a00f9e639933aefcdc",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/blocklistproject/Lists/master/tiktok.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/blocklistproject/Lists",
         "description": "Primary Block Lists",
@@ -5911,8 +5911,8 @@
       "sha256": "f1de1c81739ce2480b1dea890e9be6a1212008b19318b585102cc64e7013b0f1",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/blocklistproject/Lists",
         "description": "Primary Block Lists",
@@ -5954,8 +5954,8 @@
       "sha256": "00e0b407cf728914d9be459e2988475b72b7ee83f8f0fbff5345dd3df27e1198",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/hosts/light-compressed.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -5998,8 +5998,8 @@
       "sha256": "6c456bd0fc52cc06be19071b782d907bdcd2caf631157b7ac23e07b724936201",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/hosts/multi-compressed.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -6046,8 +6046,8 @@
       "sha256": "c19b33558655283d4aee86acf410b8ffed4c4df8868a8fa5d38e0d61b451d146",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/hosts/pro-compressed.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -6095,8 +6095,8 @@
       "sha256": "a295b18a3951f9e640c8024b64699c4dfd36b92a604e9d193e940f2dc37eebf7",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/hosts/pro.plus-compressed.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -6144,8 +6144,8 @@
       "sha256": "e49f0c2f0cbc59a3c5be3d77c2610c236d4753cbd5b1b3377d6cce7cee1a6b3f",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/hosts/ultimate-compressed.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -6186,8 +6186,8 @@
       "sha256": "58852d0d175a46166ebaf902510e446eabd64abcfe9f9b7dbdbdba950055602c",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/hosts/doh-compressed.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -6231,8 +6231,8 @@
       "sha256": "0396d3141f0953139fbac7d8b9044c1fe8a3fc2bc90025770aa7fdf6612fd7b3",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/hosts/tif-compressed.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists-legacy",
         "description": "DNS Blocklists in the legacy subdomain and hosts format",
@@ -6276,13 +6276,13 @@
       "sha256": "e1bdaa9fd80f6e417e872faab5e96c6aad028097d45989678c4470e3cf2d84be",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/light.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -6322,13 +6322,13 @@
       "sha256": "a93e731e63511df0876fcca0cfdadb25fa705db7c76bc262d6010ce22fe2eb0a",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/multi.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -6372,13 +6372,13 @@
       "sha256": "d105f9fac043a3dc4d9b637558667e77fced08b0d31848b06fde4abcf500c8a9",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/pro.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -6423,13 +6423,13 @@
       "sha256": "0230604b4bb627f848c2906f604d1de58d53fb2949686ebb4ba8888c2b88df78",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/pro.plus.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -6474,13 +6474,13 @@
       "sha256": "ea1a58c7fd308970ca91883292f0fe67b22e1fdda4a1e82e4b9ca9135aa806be",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/ultimate.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -6518,13 +6518,13 @@
       "sha256": "9f73b2ef0251be2bfeee1b670d1edf44ecf7475067ddf8d81ccab4b3abe55da2",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/doh.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -6565,13 +6565,13 @@
       "sha256": "8bf5b06fc69dd4152c0ad742c2dd7bbd7c11f79cc29505b8dc0156025304b930",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/tif.medium.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -6612,13 +6612,13 @@
       "sha256": "a39ca01da4fdc3add8cf43b003d451305afc24b23dc53f94e309ef0a2dc5c9f0",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/tif.mini.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -6641,22 +6641,22 @@
       "alternativeMirrors": [
         "https://raw.githubusercontent.com/sjhgvr/oisd/main/rpz_big.txt"
       ],
-      "entries": 463437,
-      "declaredEntries": 463442,
+      "entries": 464685,
+      "declaredEntries": 464690,
       "formatType": "rpz",
       "detectedFormat": "rpz",
       "license": "https://github.com/sjhgvr/oisd/blob/main/LICENSE",
       "expiry": "1 hours",
       "expiresHours": 1,
-      "lastModified": "2026-11-02T15:04:58Z",
-      "version": "202611021504",
+      "lastModified": "2026-11-03T00:04:57Z",
+      "version": "202611030004",
       "notes": null,
-      "sizeBytes": 13265964,
-      "sha256": "2d6004f538ef321b17e12050668e45e9d99e66784bcb80138f1508c9b070977b",
+      "sizeBytes": 13305712,
+      "sha256": "f680b1b385499382ec70309e87705503517c882be8a1cfaa4e9aad64b7c0a347",
       "status": "ok",
       "servedFrom": "https://big.oisd.nl/rpz",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -6675,22 +6675,22 @@
       "alternativeMirrors": [
         "https://raw.githubusercontent.com/sjhgvr/oisd/main/rpz_small.txt"
       ],
-      "entries": 118933,
-      "declaredEntries": 118934,
+      "entries": 119891,
+      "declaredEntries": 119892,
       "formatType": "rpz",
       "detectedFormat": "rpz",
       "license": "https://github.com/sjhgvr/oisd/blob/main/LICENSE",
       "expiry": "1 hours",
       "expiresHours": 1,
-      "lastModified": "2026-11-02T07:05:40Z",
-      "version": "202611020705",
+      "lastModified": "2026-11-02T22:06:02Z",
+      "version": "202611022206",
       "notes": null,
-      "sizeBytes": 3397678,
-      "sha256": "6d90525a23beb0716bf359d2d8834fb6aabed26a2ff284b22370d9970e2d220c",
+      "sizeBytes": 3428544,
+      "sha256": "1c1c4bef077931ceb7b5d16bd8cc1800a83ed655f0311a14916cbd6d51f10dcf",
       "status": "ok",
       "servedFrom": "https://small.oisd.nl/rpz",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -6725,8 +6725,8 @@
       "sha256": "76f66fd92b9fb63bbba2c68af9213068e946c78e4e8815b2dc06044d658c1994",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/badmojr/1Hosts/main/Lite/wildcards.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/badmojr/1Hosts",
         "description": "Advanced DNS filter/blocklists for privacy, security, and clean browsing.",
@@ -6769,8 +6769,8 @@
       "sha256": "ec1ecacfa18394fa0c0b41b784beb80fc72120c60b0a1671564910833b142aa0",
       "status": "ok",
       "servedFrom": "https://raw.githubusercontent.com/badmojr/1Hosts/main/Xtra/wildcards.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/badmojr/1Hosts",
         "description": "Advanced DNS filter/blocklists for privacy, security, and clean browsing.",
@@ -6814,13 +6814,13 @@
       "sha256": "eeb6d1951c55d265d4198c3e04fe090bc2aa0bf8b799d9955f53392bb3b3c049",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/light.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -6860,13 +6860,13 @@
       "sha256": "6b9f95fb5c6995b19e34bb4793d7dfe29889887282adcfa9aaab819a26f5f8e1",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/multi.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -6910,13 +6910,13 @@
       "sha256": "36365cd8808326cac6c5686a22219538580226b0e70fd41e6536c635dd42c65b",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -6961,13 +6961,13 @@
       "sha256": "c6aa417db983456e9be15dd00ec0031da3659b1860e8b580111d8eb34d0f4068",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro.plus.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7012,13 +7012,13 @@
       "sha256": "46c3c78efdb07e177dc9f0bc0c49a74e49d0e2122ab48ee0ac10448933515955",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/ultimate.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7056,13 +7056,13 @@
       "sha256": "4dc4238904b6f6ac56857805b345df023b664786f6e405691b3e497b9a2f52b0",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.amazon.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7100,13 +7100,13 @@
       "sha256": "bea082d4066938d5739900c3e1e61364a7888c767c6a3b685d8571dbdefa4a19",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.apple.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7144,13 +7144,13 @@
       "sha256": "8924aab50a87f4c330d55908a997d2107022836e45a061f1407e73e1f22a1776",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.huawei.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7188,13 +7188,13 @@
       "sha256": "fcf0926d37e4c9b06427700b6cedfe18a528ceb8dd7d7379f6d52fa59b569b60",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.lgwebos.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7232,13 +7232,13 @@
       "sha256": "1894b699d2549720856b2b7ab105e38adb0c16f11009d028ea3bff332a0fa702",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.oppo-realme.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7276,13 +7276,13 @@
       "sha256": "64d4f3cc9cdf02353a34008d13a6a8cdc0690b18b8cba7d36dd3d30d800641b9",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.roku.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7320,13 +7320,13 @@
       "sha256": "561fa8ab04270b9a64c7472194436cda8248327bc625cf9e147715e42a1e87d0",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.samsung.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7364,13 +7364,13 @@
       "sha256": "91cd8bf5c29249f8ffcb1afa464bd7519e9dcea99a25fc81d712af93efa1cc94",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.tiktok.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7408,13 +7408,13 @@
       "sha256": "96680566fac3d64f975e3eb12bfaa84f1467aa6faa8571046394dacb1f1bae1c",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.tiktok.extended.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7452,13 +7452,13 @@
       "sha256": "8206a786fac99e12e6224b91356b7be8dff5ebff005b09cdba3b55d99d543bc4",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.vivo.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7496,13 +7496,13 @@
       "sha256": "b8239f8db574f6b32a56644200e38c3078fac2b990a1f6db31d4c6c0ea79f1ab",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.winoffice.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7540,13 +7540,13 @@
       "sha256": "e05d3d25ffac1afa91b0a1e358cbdec18d3098ba9de22aa90a4f2c58b5c8f4b5",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.xiaomi.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7584,13 +7584,13 @@
       "sha256": "c0081fb0861804337ec45d5a2d25cb7147f8afd99c0c2840cb0ddd17dadd5980",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/hoster.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7628,13 +7628,13 @@
       "sha256": "566e68be84b8ba0f1bad07857df88c4e1e689f7b15b2ede7d8bff733275d0abb",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/dyndns.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7672,13 +7672,13 @@
       "sha256": "ca043579f7c11e0e4c947b390c5376b20706100b4ce701a8b4275c0bb1e388e2",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7718,13 +7718,13 @@
       "sha256": "2b833cfd1155f62b8ca096b47d3aa28a473af6bef2623e6893d2fd0b21f628eb",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7762,13 +7762,13 @@
       "sha256": "040168e528a454dfcdc67ba1a3cf4bd9f1f8f2b41e6411271e4679fd4615d667",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/fake.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7809,13 +7809,13 @@
       "sha256": "58c2b95ea5a723d1964b6da3b33bda8e183b1ddd7ecdac49fa580d52863e7e8f",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/tif.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7856,13 +7856,13 @@
       "sha256": "16f0343267adad9f9ff2e8babbc40366bb074ad943fbbf9b09f0838524109cd8",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/tif.medium.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7903,13 +7903,13 @@
       "sha256": "797230f8d7a3a08f656ecd441c5745ef15a670e8edc747ba3652fd5f2a4e5bf3",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/tif.mini.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7946,13 +7946,13 @@
       "sha256": "43d3fcd8a73f5c9bd5121d9d831531ec4e50866264375699c829bfd4cc375177",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/urlshortener.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -7988,13 +7988,13 @@
       "sha256": "e6cd2e5eb97a2c38dc77a41083d28168b47cce66df2a0ab84c8e5a6066abaa7e",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/anti.piracy.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -8030,13 +8030,13 @@
       "sha256": "21cde25f2325cddb0e5bad7e06a462bbbec8495a7b1c45e3b96cee568cf71e37",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/gambling.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -8073,13 +8073,13 @@
       "sha256": "680c0b54da240841709516db63c4804e1c85af3fd46ea333b86a2f2d08b05c56",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/nsfw.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -8116,13 +8116,13 @@
       "sha256": "b39fcc22eeb5cddf4f319ca45ea3a6df9aa64409ba06c05e8a9db70563d9b392",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -8158,13 +8158,13 @@
       "sha256": "4298186cf057ce5c65d6ddd3a2c4b50ea91cb1824dac30f05e17f2f563b394c6",
       "status": "ok",
       "servedFrom": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/social.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": {
         "url": "https://github.com/hagezi/dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "license": "GPL-3.0",
-        "stars": 28107,
+        "stars": 28127,
         "archived": false,
         "pushedAt": "2026-11-02T11:07:17Z"
       }
@@ -8187,22 +8187,22 @@
       "alternativeMirrors": [
         "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_big.txt"
       ],
-      "entries": 231721,
-      "declaredEntries": 231721,
+      "entries": 232345,
+      "declaredEntries": 232345,
       "formatType": "wildcard-asterisk",
       "detectedFormat": "wildcard-asterisk",
       "license": "https://github.com/sjhgvr/oisd/blob/main/LICENSE",
       "expiry": "1 hours",
       "expiresHours": 1,
-      "lastModified": "2026-11-02T15:04:57Z",
-      "version": "202611021504",
+      "lastModified": "2026-11-03T00:04:56Z",
+      "version": "202611030004",
       "notes": null,
-      "sizeBytes": 5011207,
-      "sha256": "819d16dba78b2af052f7af17c689b297da1ff33d4a84fc584380827463be91ab",
+      "sizeBytes": 5026713,
+      "sha256": "965b08a73bb2f5a7f29fb1cd3d291fe6b690516f3ce8bfe6e0b46a6e32d4b8d0",
       "status": "ok",
       "servedFrom": "https://big.oisd.nl/domainswild",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -8221,22 +8221,22 @@
       "alternativeMirrors": [
         "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_nsfw.txt"
       ],
-      "entries": 486032,
-      "declaredEntries": 486032,
+      "entries": 486037,
+      "declaredEntries": 486037,
       "formatType": "wildcard-asterisk",
       "detectedFormat": "wildcard-asterisk",
       "license": "https://github.com/sjhgvr/oisd/blob/main/LICENSE",
       "expiry": "1 hours",
       "expiresHours": 1,
-      "lastModified": "2026-11-02T15:06:28Z",
-      "version": "202611021506",
+      "lastModified": "2026-11-02T23:06:45Z",
+      "version": "202611022306",
       "notes": null,
-      "sizeBytes": 9573131,
-      "sha256": "914e983699f58ff3e84d80fd8e902ca40d811d26f0fc888258dbd7cbfda673d8",
+      "sizeBytes": 9573208,
+      "sha256": "d17ff84d65eeb6caf2179d2385bb5ade33ebb34e31fe9d75c9b03fa8c6575ed6",
       "status": "ok",
       "servedFrom": "https://nsfw.oisd.nl/domainswild",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -8255,22 +8255,22 @@
       "alternativeMirrors": [
         "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_small.txt"
       ],
-      "entries": 59467,
-      "declaredEntries": 59467,
+      "entries": 59946,
+      "declaredEntries": 59946,
       "formatType": "wildcard-asterisk",
       "detectedFormat": "wildcard-asterisk",
       "license": "https://github.com/sjhgvr/oisd/blob/main/LICENSE",
       "expiry": "1 hours",
       "expiresHours": 1,
-      "lastModified": "2026-11-02T07:05:40Z",
-      "version": "202611020705",
+      "lastModified": "2026-11-02T22:06:01Z",
+      "version": "202611022206",
       "notes": null,
-      "sizeBytes": 1282842,
-      "sha256": "709dac1fc880d62abe8cb8f1960af70a273d637a4e566d08bc9a73b5e9d6fead",
+      "sizeBytes": 1294922,
+      "sha256": "97bf1f8c0411aecfe4c96ea85c143edbafd29f6fc6f328165962f93ae2bc335e",
       "status": "ok",
       "servedFrom": "https://small.oisd.nl/domainswild",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -8291,22 +8291,22 @@
       "alternativeMirrors": [
         "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild2_big.txt"
       ],
-      "entries": 231716,
-      "declaredEntries": 231721,
+      "entries": 232340,
+      "declaredEntries": 232345,
       "formatType": "wildcard-domains",
       "detectedFormat": "domains",
       "license": "https://github.com/sjhgvr/oisd/blob/main/LICENSE",
       "expiry": "1 hours",
       "expiresHours": 1,
-      "lastModified": "2026-11-02T15:04:57Z",
-      "version": "202611021504",
+      "lastModified": "2026-11-03T00:04:56Z",
+      "version": "202611030004",
       "notes": null,
-      "sizeBytes": 4547774,
-      "sha256": "ecdfda14cadcd29919c89545eae03f681f2092a7b575d901ca72cfbdb31ce126",
+      "sizeBytes": 4562032,
+      "sha256": "9f2f974981d9b4044554c31cba77f4603ab42ae5a76ba28bc57fb79f5c678855",
       "status": "ok",
       "servedFrom": "https://big.oisd.nl/domainswild2",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -8325,22 +8325,22 @@
       "alternativeMirrors": [
         "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild2_nsfw.txt"
       ],
-      "entries": 486030,
-      "declaredEntries": 486032,
+      "entries": 486035,
+      "declaredEntries": 486037,
       "formatType": "wildcard-domains",
       "detectedFormat": "domains",
       "license": "https://github.com/sjhgvr/oisd/blob/main/LICENSE",
       "expiry": "1 hours",
       "expiresHours": 1,
-      "lastModified": "2026-11-02T15:06:28Z",
-      "version": "202611021506",
+      "lastModified": "2026-11-02T23:06:45Z",
+      "version": "202611022306",
       "notes": null,
-      "sizeBytes": 8601076,
-      "sha256": "ac197c9d518b90b64cc29dec4f1a04515671419f9d874ab37c7bf3519367b50c",
+      "sizeBytes": 8601143,
+      "sha256": "80db88f41a0c9e9e6b7ee1863116c35f41ec36a6cb6a06c217c860725b7fe7d5",
       "status": "mirror",
       "servedFrom": "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild2_nsfw.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     },
     {
@@ -8359,22 +8359,22 @@
       "alternativeMirrors": [
         "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild2_small.txt"
       ],
-      "entries": 59466,
-      "declaredEntries": 59467,
+      "entries": 59945,
+      "declaredEntries": 59946,
       "formatType": "wildcard-domains",
       "detectedFormat": "domains",
       "license": "https://github.com/sjhgvr/oisd/blob/main/LICENSE",
       "expiry": "1 hours",
       "expiresHours": 1,
-      "lastModified": "2026-11-02T07:05:40Z",
-      "version": "202611020705",
+      "lastModified": "2026-11-02T22:06:01Z",
+      "version": "202611022206",
       "notes": null,
-      "sizeBytes": 1163917,
-      "sha256": "c695b806d4873c59a6b1dbf57b93160d7f2f01fa868bf3418c58bd0e84b92dc5",
+      "sizeBytes": 1175039,
+      "sha256": "30a924b6c18dea854a186173474a4fbe9599f2d5dae186f22f6f7cedae72a338",
       "status": "mirror",
       "servedFrom": "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild2_small.txt",
-      "lastChecked": "2026-11-02T15:48:46Z",
-      "lastSuccess": "2026-11-02T15:48:46Z",
+      "lastChecked": "2026-11-03T00:57:33Z",
+      "lastSuccess": "2026-11-03T00:57:33Z",
       "repository": null
     }
   ]
